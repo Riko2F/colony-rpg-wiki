@@ -83,9 +83,26 @@ Wenn du ein Expeditionsportal im Hub verwendest, wird das ausgewählte Bauwerk f
 
 ### Zugang: Der Hub von Cataclysm Expeditions
 
-**1. Hub-Anker erhalten**
+**1. Hub-Anker herstellen**
 
-Die Mod stellt einen **Hub Anchor** bereit, mit dem du den Expeditions-Hub erreichst. Im mitgelieferten Rezept der hochgeladenen Version besteht das Standardrezept aus vier Obsidian und einem Diamanten. Ob das Rezept auf dem Server freigeschaltet ist, hängt von der Serverkonfiguration ab.
+Der Zugang zum Expeditions-Hub beginnt mit dem **Hub-Anker**. Auf deinem Server ist das Rezept in JEI zu sehen und entspricht dem Standardrezept der Mod:
+
+- **4 Obsidian**
+- **1 Diamant**
+
+Die Anordnung im 3×3-Feld ist einfach: Drei Obsidian liegen nebeneinander in der oberen Reihe. Ein weiterer Obsidian kommt in die mittlere Position der unteren Reihe. Der Diamant liegt genau in der Mitte.
+
+<figure>
+  <img src="https://cdn.modrinth.com/data/cached_images/1807576bd455a33d9b66b15e03f0cae55a3d6bcb.png" alt="Rezept des Hub-Ankers aus Cataclysm Expeditions" />
+  <figcaption>Rezept des Hub-Ankers. Quelle: <a href="https://modrinth.com/mod/cataclysm-expeditions">Cataclysm Expeditions auf Modrinth</a>. Das Rezept stimmt mit deinem JEI-Screenshot überein.</figcaption>
+</figure>
+
+Nach dem Herstellen erhältst du den fertigen **Hub-Anker**. Auf deinem Screenshot ist der Block mit einem dunklen violett-schwarzen Sockel, einer hellen quadratischen Oberseite und einer dunklen Öffnung in der Mitte zu sehen. Stelle ihn an einem gut erreichbaren Ort auf und benutze ihn, um in den Expeditions-Hub zu gelangen.
+
+<figure>
+  <img src="https://cdn.modrinth.com/data/cached_images/1807576bd455a33d9b66b15e03f0cae55a3d6bcb.png" alt="Darstellung des Hub-Anker-Rezepts; der fertige Block ist im JEI-Ausgabefeld abgebildet" />
+  <figcaption>Der fertige Hub-Anker ist rechts im Rezept-Ausgabefeld zu erkennen. Das zweite Bild in diesem Abschnitt zeigt den Block aufgestellt in deiner Welt.</figcaption>
+</figure>
 
 **2. Im Hub eine Expedition auswählen**
 
