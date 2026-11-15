@@ -1,6 +1,6 @@
 # MCA Reborn und die lebendige Spielwelt
 
-Auf Colony RPG ergänzen wir das klassische Minecraft-Dorfleben um **Minecraft Comes Alive Reborn (MCA Reborn)**. Die Mod macht aus den gewöhnlichen Dorfbewohnern menschenähnliche NPCs, mit denen du sprechen, Beziehungen aufbauen und eine Familie gründen kannst.
+Auf Colony RPG werden die normalen Minecraft-Dorfbewohner vollständig durch **Minecraft Comes Alive Reborn (MCA Reborn)** ersetzt. In natürlich generierten Dörfern triffst du deshalb ausschließlich auf die menschenähnlichen Bewohner dieser Mod. Mit ihnen kannst du sprechen, Beziehungen aufbauen und eine Familie gründen.
 
 Zusätzlich verwenden wir zwei Mods zur Weltgenerierung: **Geophilic** und **William Wythers' Overhauled Overworld**. Sie sorgen dafür, dass die Welt, in der diese Bewohner leben, abwechslungsreicher und natürlicher wirkt.
 
@@ -10,7 +10,7 @@ Zusätzlich verwenden wir zwei Mods zur Weltgenerierung: **Geophilic** und **Wil
 
 <small>Abbildung: Interaktion mit einer Bewohnerin und das MCA-Menü. Quelle: [MCA Reborn auf Modrinth](https://modrinth.com/mod/minecraft-comes-alive-reborn).</small>
 
-**Minecraft Comes Alive Reborn (MCA Reborn)** verändert das vertraute Dorfbewohner-System. Die klassischen Bewohner werden durch menschenähnliche NPCs ersetzt. Sie besitzen Namen und individuelle Persönlichkeiten und können unterschiedliche Stimmungen zeigen.
+**Minecraft Comes Alive Reborn (MCA Reborn)** stellt auf Colony RPG das Dorfbewohner-System vollständig. Vanilla-Dorfbewohner kommen in den Dörfern nicht zusätzlich vor. Stattdessen besitzen alle Bewohner Namen und individuelle Persönlichkeiten und können unterschiedliche Stimmungen zeigen.
 
 Du kannst mit ihnen über ein Interaktionsmenü sprechen, Witze erzählen und Geschenke machen. Durch solche Begegnungen baust du Beziehungen auf. Je nach Beziehung und Situation entwickeln sich daraus Freundschaften oder romantische Beziehungen.
 
