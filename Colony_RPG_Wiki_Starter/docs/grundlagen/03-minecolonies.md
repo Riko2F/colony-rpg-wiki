@@ -1,9 +1,76 @@
-# Kapitel 3 -- MineColonies: Kolonie und Stadtentwicklung
+# MineColonies – Kolonien aufbauen und entwickeln
 
-> **Redaktionsstatus:** Vorhandener Entwurf; serverbezogene Aussagen und
-> Verknüpfung mit Create prüfen.
+Mit **MineColonies** kannst du in Minecraft eine eigene Siedlung gründen und Schritt für Schritt zu einer lebendigen Kolonie ausbauen. Deine Bürger übernehmen unterschiedliche Berufe, arbeiten in ihren Gebäuden und helfen dabei, die Siedlung mit wichtigen Materialien und Dienstleistungen zu versorgen.
 
-Dieser Artikel wird im Rahmen des Colony-RPG-Wiki-Projekts
-ausgearbeitet. Servereigene Angaben müssen anhand der aktuellen
-Modliste, Konfigurationen, Datapacks oder bestätigter In-Game-Tests
-belegt werden.
+Auf Colony RPG ist MineColonies ein zentraler Bestandteil des Bau- und Stadtentwicklungssystems. Du kannst deine Kolonie nach deinen Vorstellungen gestalten und verschiedene Baustile miteinander kombinieren.
+
+## Was ist eine Kolonie?
+
+Eine Kolonie besteht aus mehreren Gebäuden und den dort beschäftigten Bürgern. Jedes Arbeitsgebäude bietet einen bestimmten Arbeitsplatz. Je nach Gebäude können dort beispielsweise Baumeister, Förster, Farmer, Bergleute oder Wachen arbeiten.
+
+Die Bürger erledigen ihre Aufgaben nicht einfach automatisch ohne Voraussetzungen: Sie benötigen passende Arbeitsplätze, Nahrung und die Materialien, die sie für ihre Tätigkeiten oder Bauaufträge anfordern.
+
+Mit wachsender Kolonie kommen weitere Gebäude, Arbeitsplätze und Aufgaben hinzu.
+
+## Eine Kolonie gründen
+
+Das Zentrum einer neuen Kolonie ist das **Rathaus (Town Hall)**. Über das Rathaus wird die Kolonie gegründet und verwaltet. Für die Platzierung und Ausrichtung von Gebäuden verwendest du das **Bauwerkzeug (Build Tool)**. Damit kannst du ein Gebäude auswählen, seine Position festlegen und eine Vorschau ansehen, bevor der Bauauftrag gestartet wird.
+
+MineColonies bietet unterschiedliche Möglichkeiten, eine Kolonie zu beginnen. Dazu gehören Versorgungslager beziehungsweise Versorgungsschiffe sowie bereits in der Welt generierte Kolonien, sofern diese Funktion in der jeweiligen Welt aktiviert ist.
+
+Wähle den Standort sorgfältig: Das Rathaus legt das Zentrum deiner Kolonie fest. Die genauen Schutzbereiche und weitere Regeln können von den Einstellungen der jeweiligen Welt abhängen.
+
+## Der Baumeister
+
+Der **Baumeister (Builder)** ist für den Aufbau deiner Kolonie besonders wichtig. Er errichtet und verbessert die Gebäude, für die du Bauaufträge erteilst.
+
+Dafür benötigt er eine **Baumeisterhütte (Builder's Hut)**. Nach dem Platzieren kannst du über das Gebäude einen Bauauftrag auswählen. Während der Arbeit fordert der Baumeister benötigte Materialien und Werkzeuge an. Diese Anforderungen müssen erfüllt werden, damit der Bau fortgesetzt werden kann.
+
+Auch die Baumeisterhütte selbst muss zuerst errichtet werden. Die Fähigkeiten des Baumeisters und die Ausbaustufe seiner Hütte beeinflussen, welche Bau- und Ausbauarbeiten er übernehmen kann.
+
+## Bürger und Berufe
+
+Die Bewohner deiner Kolonie übernehmen verschiedene Aufgaben. Dafür benötigen sie jeweils einen passenden Arbeitsplatz. Zu den möglichen Tätigkeiten gehören unter anderem:
+
+- **Versorgung:** Farmer, Fischer und andere Lebensmittelproduzenten kümmern sich um Nahrung.
+- **Rohstoffe:** Förster und Bergleute beschaffen wichtige Materialien.
+- **Handwerk:** Verschiedene Handwerker stellen Gegenstände und Materialien her.
+- **Transport:** Kuriere bringen Gegenstände zwischen Lager und Arbeitsgebäuden hin und her.
+- **Verteidigung:** Wachen schützen die Kolonie vor Gefahren.
+
+Welche Berufe und Gebäude du zuerst benötigst, hängt davon ab, wie du deine Kolonie entwickeln möchtest.
+
+## Wohnen, Nahrung und Wachstum
+
+Bürger brauchen geeignete Wohnplätze und Nahrung. Wohngebäude stellen Schlafplätze bereit und beeinflussen damit, wie viele Bewohner deine Kolonie aufnehmen kann.
+
+Auch die Versorgung mit Lebensmitteln ist wichtig: Bürger benötigen Nahrung, um ihren Alltag und ihre Arbeit bewältigen zu können. Eine funktionierende Versorgung ist deshalb eine wichtige Grundlage für das Wachstum deiner Siedlung.
+
+## Lager und Transport
+
+Wenn mehrere Arbeitsgebäude Materialien sammeln oder herstellen, wird die Verteilung der Gegenstände schnell zu einer eigenen Aufgabe. Ein **Lagerhaus (Warehouse)** und **Kuriere (Couriers)** helfen dabei, Gegenstände zwischen den Arbeitsplätzen und dem zentralen Lager zu transportieren.
+
+So können die verschiedenen Bereiche deiner Kolonie miteinander zusammenarbeiten. Die einzelnen Gebäude und ihre Aufgaben werden im späteren Kapitel [MineColonies im Detail](../kolonie/12-minecolonies.md) ausführlicher vorgestellt.
+
+## Gestaltung deiner Stadt
+
+MineColonies bietet verschiedene Baustile, aus denen du für deine Gebäude wählen kannst. Die Bauwerke einer Kolonie müssen deshalb nicht alle gleich aussehen. Du kannst unterschiedliche Stilrichtungen miteinander kombinieren und deine Siedlung passend zur Umgebung gestalten.
+
+Auf Colony RPG ist eine gemischte Bauweise möglich: Mittelalterliche Gebäude können beispielsweise neben industriell oder steampunkartig gestalteten Bauwerken stehen. Entscheidend ist, dass deine Kolonie deinen eigenen Vorstellungen entspricht.
+
+## Weitere Entwicklung
+
+Mit der Zeit kannst du deine Kolonie um zusätzliche Arbeitsgebäude, Wohnhäuser, Versorgungsbetriebe und Verteidigungsanlagen erweitern. Auch die Verbesserung bestehender Gebäude gehört zur Entwicklung dazu.
+
+MineColonies verbindet damit Städtebau und Verwaltung: Du planst die Siedlung, erteilst Bauaufträge, organisierst die Versorgung und entscheidest, welche Bereiche deiner Kolonie als Nächstes wachsen sollen.
+
+## Quellen und Versionshinweise
+
+Die folgenden Quellen erklären die allgemeinen Funktionen von MineColonies und dienen als Grundlage für diesen Überblick:
+
+- [Offizielle MineColonies-Wiki](https://minecolonies.com/wiki/) – Übersicht über das Mod und seine Spielsysteme.
+- [Getting Started – Offizielle Einstiegshilfe](https://minecolonies.com/wiki/tutorials/getting-started/) – Gründung einer Kolonie und erste Entwicklungsschritte.
+- [Town Hall – Offizielle Gebäude-Dokumentation](https://minecolonies.com/wiki/buildings/townhall/) – Aufgaben des Rathauses und Verwaltung der Kolonie.
+- [MineColonies auf CurseForge](https://www.curseforge.com/minecraft/mc-mods/minecolonies) – Mod-Beschreibung und unterstützte Spielversionen.
+
+<small>Versionsstand des Wiki-Artikels: Minecraft 1.21.1 mit NeoForge. Die beschriebenen Grundlagen beziehen sich auf die allgemeinen MineColonies-Funktionen. Einzelne Einstellungen und Schutzbereiche können je nach Serverkonfiguration abweichen.</small>
