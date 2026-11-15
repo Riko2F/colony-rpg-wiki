@@ -8,71 +8,71 @@
   <p>Eine Welt voller Kolonieaufbau, Technik, Rollenspiel und gemeinsamer Abenteuer.</p>
 </div>
 
-Colony RPG basiert auf Minecraft **1.21.1** mit **NeoForge**. Hier findest du Informationen zu den Spielsystemen, den Mods und den besonderen Möglichkeiten auf dem Server.
+# Eine neue Welt wartet auf dich
 
-## Dein Einstieg auf Colony RPG
+Du kommst in einer unbekannten Welt an. Vor dir liegen weite Landschaften, dichte Wälder, hohe Berge und Dörfer, in denen das Leben seinen eigenen Lauf nimmt. Vielleicht findest du einen ruhigen Ort für dein erstes Zuhause. Vielleicht zieht es dich aber auch hinaus, um die Welt zu erkunden und herauszufinden, welche Geheimnisse sie bereithält.
 
-Du bist neu auf dem Server? Diese Checkliste hilft dir dabei, die wichtigsten ersten Schritte im Blick zu behalten. Du musst nicht alles sofort erledigen – entdecke die Welt in deinem eigenen Tempo!
+Auf **Colony RPG** entscheidest du selbst, welchen Weg du einschlägst. Du kannst mit **MineColonies** eine kleine Siedlung gründen und sie zu einer lebendigen Stadt ausbauen. Deine Bürger übernehmen Berufe, bauen Gebäude und kümmern sich um wichtige Aufgaben. Mit **Create** bringst du Bewegung in deine Welt: Zahnräder drehen sich, Maschinen arbeiten und technische Anlagen helfen dir dabei, Materialien zu verarbeiten und deine Kolonie zu versorgen.
 
-- [ ] Die [Serverregeln und Besonderheiten](grundlagen/01-willkommen.md) kennenlernen.
-- [ ] Eine [RPG-Klasse](grundlagen/04-rpg-system.md) auswählen.
-- [ ] Das passende Klassenbuch am Zauberbindetisch besorgen.
-- [ ] Die ersten Klassenfähigkeiten erlernen. Mehr dazu findest du unter [Runen, Zauber und Magie](systeme/11-runen-zauber-magie.md).
-- [ ] Einen Platz für dein eigenes Zuhause finden und einrichten und mit [MineColonies](grundlagen/03-minecolonies.md) deine eigene Kolonie gründen.
-- [ ] Erste Waffen, Rüstungen und Vorräte beschaffen.
-- [ ] Das [Münzsystem](systeme/06-wirtschaft-und-waehrung.md) kennenlernen und dein Geld sicher im Tresor aufbewahren.
-- [ ] Erste [Aufträge am Auftragsbrett](systeme/14-quests-und-auftraege.md) erledigen.
-- [ ] Dich auf dein erstes [Dungeon-Abenteuer](abenteuer/05-dungeons-und-bosse.md) vorbereiten.
-- [ ] Mit besserer Ausrüstung schwierigere Dungeons und Bosse angehen.
+Doch eine Stadt besteht nicht nur aus Mauern und Maschinen. Du brauchst Nahrung, Rohstoffe und Menschen, die deinen Ort mit Leben füllen. Auf deinen Reisen entdeckst du Dörfer, triffst Bewohner und findest neue Plätze, die du auf deiner Karte festhalten kannst. Mit **Waystones** kehrst du später bequem zu bereits entdeckten Orten zurück. Rucksäcke und weitere Ausrüstungs-Erweiterungen helfen dir, auch längere Expeditionen gut vorbereitet anzutreten.
 
-## Entdecke die Welt
+Vielleicht zieht es dich irgendwann weiter fort – auf der Suche nach seltenen Schätzen, mächtigen Gegnern und vergessenen Bauwerken. Wähle eine von acht **RPG-Klassen**, entwickle deine Fähigkeiten und verbessere deine Ausrüstung. Runen, Zauber, Relikte und Schmuck eröffnen dir zusätzliche Möglichkeiten, deinen eigenen Kampfstil zu gestalten.
+
+In den **Dimensional Dungeons** warten Fallen, Gegner und Beute auf dich. Mit **Lootr** kann jeder seine eigene Beute aus gemeinsamen Erkundungen erhalten. Und wenn ein Boss zu mächtig für einen einzelnen Abenteurer ist, kannst du dich mit anderen Spielern zusammentun. **Multiplayer Bosses** ergänzt das gemeinsame Erlebnis bei unterstützten Bosskämpfen. Die größten Herausforderungen und Expeditionen verlangen Vorbereitung, gute Ausrüstung und manchmal eine ganze Gruppe.
+
+Deine Geschichte auf Colony RPG beginnt vielleicht mit einer einfachen Hütte. Was daraus wird, liegt bei dir: eine geschäftige Kolonie, eine technische Meisterleistung, eine Reise voller Entdeckungen oder eine Gemeinschaft, die sich gemeinsam den gefährlichsten Gegnern stellt.
+
+## Dein Wegweiser durch die Welt
 
 <div class="crpg-card-grid">
+  <a class="crpg-card" href="grundlagen/01-willkommen/">
+    <span class="crpg-card__icon">📖</span>
+    <strong>Der Einstieg</strong>
+    <span>Die wichtigsten Informationen und Besonderheiten für deinen Start auf dem Server.</span>
+    <em>Zum Einstieg →</em>
+  </a>
   <a class="crpg-card" href="grundlagen/03-minecolonies/">
     <span class="crpg-card__icon">🏰</span>
-    <strong>Kolonieaufbau mit MineColonies</strong>
-    <span>Errichte eine Siedlung, entwickle sie weiter und entdecke die Möglichkeiten des Kolonie-Systems.</span>
-    <em>Zum Kapitel →</em>
+    <strong>Deine eigene Kolonie</strong>
+    <span>Gründe eine Siedlung, beschäftige Bürger und entwickle deine Stadt.</span>
+    <em>MineColonies entdecken →</em>
   </a>
   <a class="crpg-card" href="grundlagen/02-create/">
     <span class="crpg-card__icon">⚙️</span>
-    <strong>Technik mit Create</strong>
-    <span>Lerne die technischen Grundlagen und die Automatisierungsmöglichkeiten kennen.</span>
-    <em>Zum Kapitel →</em>
+    <strong>Technik und Maschinen</strong>
+    <span>Verbinde Zahnräder, baue Maschinen und automatisiere Abläufe mit Create.</span>
+    <em>Create entdecken →</em>
+  </a>
+  <a class="crpg-card" href="kolonie/18-die-welt-und-das-leben/">
+    <span class="crpg-card__icon">🌍</span>
+    <strong>Die Welt und das Leben</strong>
+    <span>Erkunde Landschaften, begegne Bewohnern, sichere deine Versorgung und reise zu neuen Orten.</span>
+    <em>Die Welt erkunden →</em>
   </a>
   <a class="crpg-card" href="grundlagen/04-rpg-system/">
     <span class="crpg-card__icon">⚔️</span>
-    <strong>RPG-Klassen und Ausrüstung</strong>
-    <span>Entdecke Klassen, Waffen, Rüstungen und die Ausrüstungssysteme.</span>
-    <em>Zum Kapitel →</em>
+    <strong>Dein RPG-Abenteuer</strong>
+    <span>Finde deine Klasse, lerne Fähigkeiten und entwickle deinen Charakter.</span>
+    <em>Klassen kennenlernen →</em>
   </a>
   <a class="crpg-card" href="abenteuer/05-dungeons-und-bosse/">
     <span class="crpg-card__icon">🏯</span>
     <strong>Dungeons und Bosse</strong>
-    <span>Erfahre, welche Abenteuer und besonderen Gegner dich erwarten.</span>
-    <em>Zum Kapitel →</em>
-  </a>
-  <a class="crpg-card" href="systeme/06-wirtschaft-und-waehrung/">
-    <span class="crpg-card__icon">🪙</span>
-    <strong>Währung und Handel</strong>
-    <span>Informiere dich über Münzen, Geldaufbewahrung und Shops.</span>
-    <em>Zum Kapitel →</em>
-  </a>
-  <a class="crpg-card" href="systeme/14-quests-und-auftraege/">
-    <span class="crpg-card__icon">📜</span>
-    <strong>Quests und Aufträge</strong>
-    <span>Entdecke die Aufgaben und Herausforderungen auf dem Server.</span>
-    <em>Zum Kapitel →</em>
+    <span>Stelle dich gefährlichen Dungeons, Expeditionen und mächtigen Bossen.</span>
+    <em>Abenteuer beginnen →</em>
   </a>
 </div>
 
-## Weitere Themen
+## Weitere Entdeckungen
 
+- [Wirtschaft, Münzen und Handel](systeme/06-wirtschaft-und-waehrung.md)
 - [Runen, Zauber und Magie](systeme/11-runen-zauber-magie.md)
-- [Begleiter](abenteuer/15-begleiter.md)
-- [Relikte, Schmuck und besondere Ausrüstung](systeme/16-relikte-schmuck-ausruestung.md)
 - [Waystones und Teleportation](systeme/13-waystones.md)
+- [Quests und Aufträge](systeme/14-quests-und-auftraege.md)
+- [Begleiter und Gefährten](abenteuer/15-begleiter.md)
+- [Relikte, Schmuck und besondere Ausrüstung](systeme/16-relikte-schmuck-ausruestung.md)
+- [Kreaturen und besondere Gegner](abenteuer/17-kreaturen-und-besondere-gegner.md)
 
 ---
 
-<small>Dieses Wiki richtet sich an Spieler. Technische Konfigurationen, Loot-Tabellen, Admin-Befehle und interne Serververwaltung gehören in ein separates Admin-Handbuch.</small>
+<small>Colony RPG basiert auf Minecraft 1.21.1 mit NeoForge. Dieses Wiki richtet sich an Spieler. Technische Konfigurationen, Loot-Tabellen, Admin-Befehle und interne Serververwaltung gehören in ein separates Admin-Handbuch.</small>
