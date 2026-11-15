@@ -10,6 +10,21 @@
 
 Colony RPG basiert auf Minecraft **1.21.1** mit **NeoForge**. Hier findest du Informationen zu den Spielsystemen, den Mods und den besonderen Möglichkeiten auf dem Server.
 
+## Dein Einstieg auf Colony RPG
+
+Du bist neu auf dem Server? Diese Checkliste hilft dir dabei, die wichtigsten ersten Schritte im Blick zu behalten. Du musst nicht alles sofort erledigen – entdecke die Welt in deinem eigenen Tempo!
+
+- [ ] Die [Serverregeln und Besonderheiten](grundlagen/01-willkommen.md) kennenlernen.
+- [ ] Eine [RPG-Klasse](grundlagen/04-rpg-system.md) auswählen.
+- [ ] Das passende Klassenbuch am Zauberbindetisch besorgen.
+- [ ] Die ersten Klassenfähigkeiten erlernen. Mehr dazu findest du unter [Runen, Zauber und Magie](systeme/11-runen-zauber-magie.md).
+- [ ] Einen Platz für dein eigenes Zuhause finden und einrichten und mit [MineColonies](kolonie/12-minecolonies.md) deine eigene Kolonie gründen.
+- [ ] Erste Waffen, Rüstungen und Vorräte beschaffen.
+- [ ] Das [Münzsystem](systeme/06-wirtschaft-und-waehrung.md) kennenlernen und dein Geld sicher im Tresor aufbewahren.
+- [ ] Erste [Aufträge am Auftragsbrett](systeme/14-quests-und-auftraege.md) erledigen.
+- [ ] Dich auf dein erstes [Dungeon-Abenteuer](abenteuer/05-dungeons-und-bosse.md) vorbereiten.
+- [ ] Mit besserer Ausrüstung schwierigere Dungeons und Bosse angehen.
+
 ## Entdecke die Welt
 
 <div class="crpg-card-grid">
