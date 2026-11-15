@@ -100,10 +100,6 @@ Lootr ist besonders bei gemeinsam erkundeten Strukturen und Dungeons hilfreich. 
 
 ### JEI – Just Enough Items
 
-![Die JEI-Rezeptübersicht zeigt, wie Gegenstände hergestellt werden](https://i.imgur.com/YTuxxOL.png)
-
-<small>Abbildung 4: Rezeptansicht von Just Enough Items. Bildquelle: [JEI – offizielle Modbeschreibung auf CurseForge](https://www.curseforge.com/minecraft/mc-mods/jei).</small>
-
 **Just Enough Items (JEI)** zeigt dir eine durchsuchbare Übersicht der Gegenstände und Rezepte aus den installierten Mods. Das ist besonders hilfreich, wenn du nicht weißt, wie ein bestimmter Gegenstand hergestellt wird oder wofür ein Material benötigt wird.
 
 Die wichtigsten Standardtasten:
