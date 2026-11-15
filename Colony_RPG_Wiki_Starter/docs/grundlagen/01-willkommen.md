@@ -4,9 +4,9 @@ Willkommen auf **Colony RPG**! Diese Welt verbindet verschiedene Spielweisen mit
 
 Dieses Wiki dient als Orientierung für alle Spieler. Es stellt die auf dem Server vorhandenen Spielsysteme vor und erklärt, welche Möglichkeiten sie bieten. Hier findest du einen ersten Überblick über die wichtigsten Bereiche.
 
-![Eine weitläufige MineColonies-Siedlung mit Häusern, Türmen und Gärten.](https://media.forgecdn.net/attachments/608/267/screenshot1.jpg)
+![Luftaufnahme von Eisenhain mit Stadtmauer, mittelalterlichen Häusern, Marktplatz und Hafen.](../assets/screenshots/eisenhain-uebersicht.png)
 
-<small>Eine Beispielkolonie aus der offiziellen [MineColonies-Galerie auf CurseForge](https://www.curseforge.com/minecraft/mc-mods/minecolonies/gallery). Sie zeigt die gestalterischen Möglichkeiten der Mod und ist nicht die Colony-RPG-Spielwelt.</small>
+<small>Eisenhain – eine Ansicht der tatsächlichen Colony-RPG-Spielwelt.</small>
 
 ## Eine Welt mit vielen Möglichkeiten
 
@@ -34,9 +34,9 @@ Mit Create steht dir ein umfangreiches technisches Bausystem zur Verfügung. Zah
 
 Welche Möglichkeiten Create auf dem Server bietet und welche Erweiterungen dabei eine Rolle spielen, erfährst du im Kapitel [Create – Technik und Automatisierung](02-create.md).
 
-![Ein Wasserrad aus Create erzeugt mechanische Bewegung.](https://create-france.com/wiki-media/roue-a-eau/water_wheel_courant.webp?v=2026-10-27)
+![Eine technische Anlage aus Create mit sichtbarer Lager- und Transporttechnik.](../assets/screenshots/create-lagerlogistik.png)
 
-<small>Ein Beispiel für mechanische Energiegewinnung mit Create. Abbildung: [Create France – Wasserrad](https://create-france.com/en/wiki/water-wheel).</small>
+<small>Einblick in die technische Infrastruktur auf Colony RPG.</small>
 
 ## Rollenspiel und Abenteuer
 
@@ -55,9 +55,9 @@ Jede Klasse bietet eigene Möglichkeiten bei Waffenwahl und Spielweise. Auch bes
 
 Neben der Charakterentwicklung lädt die Welt zum Erkunden ein: Dungeons, besondere Gegner und Bossbegegnungen bieten zusätzliche Herausforderungen. Einige Abenteuer führen auch in eigene Dimensionen. Die Wiki-Artikel stellen diese Inhalte vor, ohne Lösungswege oder Kampfstrategien vorwegzunehmen.
 
-![Eine befestigte MineColonies-Stadt mit Mauern, Türmen und einem großen Wehrturm.](https://media.forgecdn.net/attachments/608/278/screenshot26.jpg)
+![Eine dunkle Festungsanlage in einem Dungeon.](../assets/screenshots/dungeon-festung.png)
 
-<small>Eine befestigte Siedlung als Beispiel für die Bau- und Verteidigungsmöglichkeiten von MineColonies. Screenshot aus der [offiziellen MineColonies-Galerie](https://www.curseforge.com/minecraft/mc-mods/minecolonies/gallery).</small>
+<small>Eine der düsteren Abenteuerumgebungen, die Spieler auf Colony RPG erkunden können.</small>
 
 ## Handel und Währung
 
@@ -84,6 +84,6 @@ Dieses Wiki richtet sich an Spieler. Es erklärt öffentlich relevante Funktione
 
 Servereigene Besonderheiten werden anhand der aktuellen Modliste, freigegebener Spielinformationen und bestätigter Tests beschrieben. Wo eine Einzelheit noch nicht sicher feststeht, wird sie nicht als feste Serverregel dargestellt.
 
-<small>Bildquellen: [MineColonies-Galerie auf CurseForge](https://www.curseforge.com/minecraft/mc-mods/minecolonies/gallery) und [Create France – Wasserrad](https://create-france.com/en/wiki/water-wheel). Die verwendeten Screenshots zeigen Beispielinhalte der jeweiligen Mods, nicht die tatsächliche Colony-RPG-Spielwelt.</small>
+<small>Die eigenen Screenshots zeigen die tatsächliche Colony-RPG-Spielwelt.</small>
 
 **Viel Spaß beim Bauen, Tüfteln, Handeln und Erkunden auf Colony RPG!**
