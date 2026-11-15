@@ -10,7 +10,7 @@ Das wichtigste System dafür stammt aus **Modern Companions**. Die Mod ist auf u
 
 Die Häuser und Gebäude der Begleiter können in der Oberwelt natürlich generieren. In jedem dieser Gebäude lebt genau ein ungebundener Gefährte. Die Gebäude sind über die Welt verteilt; du kannst also beim Erkunden auf einen neuen Begleiter stoßen.
 
-Auf Colony RPG wird die Weltgenerierung zusätzlich durch ein eigenes Whitelist-Datenpaket gesteuert. Dadurch wird festgelegt, welche Begleiter-Gebäude in der Welt berücksichtigt werden.
+Auf Colony RPG wird die Weltgenerierung zusätzlich durch ein eigenes Whitelist-Datenpaket gesteuert. Dadurch wird festgelegt, welche Begleiter-Gebäude in der Welt berücksichtigt werden. Der eingestellte durchschnittliche Abstand zwischen Begleiterhäusern beträgt 20 Chunks.
 
 ## Einen Begleiter anwerben
 
@@ -38,7 +38,6 @@ Modern Companions bietet viele unterschiedliche Rollen. Auf Colony RPG ist die A
 | **Alchemist** | Unterstützer, der Tränke im Kampf einsetzt |
 
 Diese Begleiterrollen sind nicht automatisch dieselben Klassen wie deine eigene RPG-Klasse. Die Whitelist steuert die natürlich generierten Begleiterhäuser und ihre Spawnplätze. Sie sperrt jedoch keine registrierten Begleiter-Entitäten, Spawn-Eier oder eine manuelle Beschwörung. **Necromancer gehört nicht zu den Rollen, die dieses Datapack für die Weltgenerierung freigibt.**
-
 
 ## Befehle und Verhalten
 
@@ -90,7 +89,7 @@ Im Journal kannst du unter anderem Name, Alter, Beschreibung, Eigenschaften, Bin
 
 ## Nahrung, Heilung und Ausdauer
 
-Begleiter können Nahrung zu sich nehmen, wenn sie verletzt sind. Auf unserem Server ist dieses Verhalten aktiviert; sie fragen bei niedriger Gesundheit nach Nahrung und können geeignete Lebensmittel selbst verwenden.
+Begleiter können Nahrung zu sich nehmen, wenn sie verletzt sind. Auf unserem Server ist dieses Verhalten aktiviert: Bei höchstens 50 % ihrer Gesundheit essen sie oder bitten um Nahrung.
 
 Im Kampf und beim Sprinten verbrauchen sie außerdem Ausdauer. Erfolgreiche Nahkampfangriffe und Sprinten kosten Ausdauerpunkte. Ist die Ausdauer aufgebraucht, wird das Sprinten unterbrochen und Nahkampfangriffe erfolgen langsamer.
 
@@ -116,14 +115,16 @@ Die Summoning Wand ruft auch diese Beastmaster-Tiere in deiner aktuellen Dimensi
 
 ## Hinweise für Colony RPG
 
-Ein paar Einstellungen sind auf unserem Server besonders wichtig:
+Die folgenden Einstellungen sind auf unserem Server aktiv:
 
 - Begleiter starten ohne zufällige Rüstung und ohne zufällige Waffe. Du stattest sie selbst aus.
 - Automatisches Ausrüsten geeigneter Gegenstände ist aktiviert.
-- Begleiter können einander nicht versehentlich Schaden zufügen.
-- Begleiter können ihrem Besitzer weiterhin Schaden zufügen; achte deshalb auf ihre Kampfaktionen.
-- Das automatische Teleportieren zum Spieler ist aktiviert. Begleiter können dadurch wieder zu dir aufschließen, wenn sie zurückbleiben.
-- Die Begleiter-Jobs sind ebenfalls aktiviert. Du kannst ihnen beispielsweise Aufgaben wie Holzfällen, Farmen, Jagen oder Bergbau zuweisen.
+- Begleiter können weder einander noch ihrem Besitzer Schaden zufügen.
+- Fallschaden ist aktiviert – auch Begleiter können also durch Stürze verletzt werden.
+- Das automatische Teleportieren zum Spieler ist aktiviert. Wenn ein Begleiter mehr als fünf Blöcke über seinen eingestellten Folgeradius hinaus zurückbleibt und nicht aufschließen kann, versucht er nach kurzer Zeit einen sicheren Teleport.
+- Bei höchstens 50 % Gesundheit können Begleiter Nahrung verwenden oder danach fragen.
+- Die Begleiter warnen dich vor Creepern und versuchen, ihnen auszuweichen.
+- Die Jobs **Holzfäller, Jäger, Bergarbeiter, Fischer, Koch und Farmer** sind aktiviert. Du kannst ihnen beispielsweise Aufgaben wie Holzfällen, Farmen, Jagen oder Bergbau zuweisen.
 
 **Wichtiger Hinweis:** Die Job-Funktionen sind experimentell. Sie können noch Fehler verursachen oder sich unerwartet verhalten. Nutze sie daher mit etwas Vorsicht.
 
