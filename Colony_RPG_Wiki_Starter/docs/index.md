@@ -1,5 +1,9 @@
 # Colony RPG – Spieler-Wiki
 
+<div class="crpg-banner">
+  <img src="assets/images/colony-rpg-titelbild.png" alt="Colony RPG – mittelalterliche Welt mit Hafen und Technik">
+</div>
+
 <div class="crpg-hero">
   <div class="crpg-hero__eyebrow">Das öffentliche Server-Wiki</div>
   <h1>Willkommen auf Colony RPG</h1>
