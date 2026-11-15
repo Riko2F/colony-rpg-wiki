@@ -84,15 +84,29 @@ Auch die Ausrüstungsentwicklung des Barden besitzt eigene Stufen: **Entertainer
 
 ## Klassenbücher und neue Zauber lernen
 
-Zu den magischen Klassen gehören eigene **Klassenbücher**. Sie sind auf die jeweilige Klasse oder Magieschule abgestimmt und werden benötigt, um am **Zauberbindetisch** neue Zauber zu lernen.
+Für jede Klasse gibt es ein eigenes **Klassenbuch**. Du erhältst es am **Zauberbindetisch**:
 
-Je nach Klasse sieht das Buch anders aus:
+1. Setze ein **leeres Buch** in den Zauberbindetisch ein.
+2. Öffne das Auswahlmenü des Tisches.
+3. Wähle dort die gewünschte Klasse aus.
+4. Der Tisch erstellt das passende Klassenbuch.
 
-- **Wizard:** Tome of Arcane, Tome of Fire oder Tome of Frost – passend zu deiner gewählten Magieschule.
-- **Paladin:** Paladin Libram.
-- **Priest:** Holy Book.
+Für den Wizard gibt es drei Bücher – je nachdem, welche Magieschule du spielen möchtest:
 
-Der Zauberbindetisch ist damit ein wichtiger Teil der Charakterentwicklung: Mit dem passenden Klassenbuch kannst du dort neue Zauber für deinen Charakter erlernen. Das Klassenbuch und seine Rolle gehören zum RPG-System und werden deshalb hier erklärt. Die einzelnen Zauber und ihre Wirkung findest du im Kapitel [Runen, Zauber und Magie](../systeme/11-runen-zauber-magie.md).
+| Klasse | Klassenbuch |
+|---|---|
+| Archer | Bogenschützen-Handbuch |
+| Paladin | Paladin-Libram |
+| Priest | Heiliges Buch |
+| Rogue | Schurken-Handbuch |
+| Warrior | Kodex der Krieger |
+| Wizard – Arkan | Buch der Arkanen Künste |
+| Wizard – Feuer | Buch des Feuers |
+| Wizard – Frost | Buch des Frostes |
+| Berserker | Nordischer Runen Wälzer |
+| Bard | Bard's Stories |
+
+Das Klassenbuch ist nicht nur ein Gegenstand für deine Ausrüstung: Du benötigst es auch, um am ausgebauten Zauberbindetisch neue Fähigkeiten für deine Klasse zu erlernen. Wie das funktioniert, erklären wir im Kapitel [Runen, Zauber und Magie](../systeme/11-runen-zauber-magie.md).
 
 ## Waffen und Rüstungen
 
