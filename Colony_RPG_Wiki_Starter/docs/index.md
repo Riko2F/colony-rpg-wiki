@@ -72,6 +72,8 @@ Deine Geschichte auf Colony RPG beginnt vielleicht mit einer einfachen Hütte. W
 - [Begleiter und Gefährten](abenteuer/15-begleiter.md)
 - [Relikte, Schmuck und besondere Ausrüstung](systeme/16-relikte-schmuck-ausruestung.md)
 - [Kreaturen und besondere Gegner](abenteuer/17-kreaturen-und-besondere-gegner.md)
+- [Komfort- und Hilfsmods](systeme/22-komfort-und-hilfsmods.md)
+- [Kommunikation und Mehrspieler](systeme/23-kommunikation-mehrspieler.md)
 
 ---
 
