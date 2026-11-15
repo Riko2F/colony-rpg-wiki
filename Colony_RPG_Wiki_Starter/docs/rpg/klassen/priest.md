@@ -23,6 +23,14 @@ Die Klassenbeschreibung und die Zaubertexte der Mod nennen unter anderem folgend
 
 Der Priest ist leicht gepanzert. Zur Ausrüstung gehören eigene Rüstungssets sowie heilige Stäbe und Zauberstäbe. Die Mod beschreibt das Heilige Buch als zentrale Quelle für Priesterzauber.
 
+Für den Priest sind **Heilige Stäbe und Zauberstäbe** besonders wichtig. Die offizielle Modbeschreibung weist darauf hin, dass diese Waffen passende Zauberattribute bereitstellen. Achte deshalb darauf, dass dein Stab oder Zauberstab zu den Zaubern passt, die du einsetzen möchtest.
+
+## Zauberbuch und Runen verwenden
+
+Das **Heilige Buch** schaltet die Priesterzauber frei. Rüste das Buch aus und halte eine passende Waffe in der Hand, um die Zauber zu verwenden. Für gewirkte Zauber dienen Runen als Munition. Denke deshalb daran, genügend passende Runen mitzunehmen.
+
+Wie du dein Klassenbuch erhältst und Runen herstellst, steht im Kapitel [Runen, Zauber und Magie](../../systeme/11-runen-zauber-magie.md).
+
 ## Stärken und Grenzen
 
 **Stärken:** Unterstützung und Heilung von Verbündeten sowie wirksame Fähigkeiten gegen Untote.
@@ -35,3 +43,5 @@ Der Priest ist leicht gepanzert. Zur Ausrüstung gehören eigene Rüstungssets s
 - Installierte Serverdatei: Paladins 3.1.3 für Minecraft 1.21.1 / NeoForge
 
 [Zurück zur RPG-Übersicht](../../grundlagen/04-rpg-system.md)
+
+---
