@@ -12,6 +12,10 @@ Auf Colony RPG warten verschiedene Arten von Abenteuern auf dich. Manche führen
 
 ## Dimensional Dungeons
 
+![Eine weitläufige, düstere Dungeonhalle mit Lava und einem zentralen Altar.](../assets/screenshots/dungeon-altarhalle.png)
+
+<small>Einblick in eine der großen Dungeonhallen auf Colony RPG.</small>
+
 <figure>
   <img src="https://cdn.modrinth.com/data/Q8XlZjYF/images/e35d10ef91bfc970bba4de2953377018b11e6b4f_350.webp" alt="Portalrahmen aus Dimensional Dungeons" />
   <figcaption>Ein gestalteter Portalrahmen aus der offiziellen Mod-Galerie. Quelle: <a href="https://modrinth.com/mod/dimensional-dungeons/gallery">Dimensional Dungeons – Modrinth-Galerie</a>.</figcaption>
@@ -81,6 +85,10 @@ Du kannst deinen Fortschritt aber auch gezielt über das Sammeln von Materialien
 Die Cataclysm-Expeditionen bilden damit den Endgame-Bereich des Servers: Sie sind für Charaktere gedacht, die bereits viel Zeit in ihre Ausrüstung und Vorbereitung investiert haben.
 
 ## Cataclysm und Cataclysm Expeditions
+
+![Ein mächtiger Gegner in einer von Lava erleuchteten Bossarena.](../assets/screenshots/dungeon-bossarena.png)
+
+<small>Ein Bossbereich aus der Colony-RPG-Spielwelt.</small>
 
 <figure>
   <img src="https://media.forgecdn.net/attachments/1480/30/2026-01-19_20-53-08-png.png" alt="Einblick in Cataclysm Expeditions" />
