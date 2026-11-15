@@ -57,6 +57,8 @@ Beim Wirken von Zaubern werden – abhängig von Klasse und Magieschule – die 
 
 Zauberstäbe und magische Stäbe können außerdem eigene Grundzauber besitzen.
 
+**Wichtig:** Nicht jede Klassenfähigkeit ist ein Zauber mit Runenkosten. Die einzelnen Klassen besitzen auch Bewegungs-, Waffen-, Kontroll- und Unterstützungsfähigkeiten. Welche Fähigkeiten deine Klasse bietet, findest du auf den [Klassenseiten in der RPG-Übersicht](../grundlagen/04-rpg-system.md#klassenfähigkeiten-im-detail).
+
 ## Die drei Magieschulen des Wizard
 
 Der Wizard kann sich auf arkane Magie, Feuer oder Frost ausrichten. Jede Schule spielt sich anders und bietet andere Möglichkeiten im Kampf.
@@ -111,7 +113,7 @@ Zu seinen Fähigkeiten gehören direkte Heilzauber, Lichtmagie und unterstützen
 
 Die passende Ausrüstung unterstützt deinen magischen Spielstil. Zauberstäbe und Stäbe stellen Grundzauber bereit, während Zauberbücher weitere Fähigkeiten freischalten.
 
-Auch Rüstungen und Waffen können Boni auf Zauberschaden, Heilung oder Zaubergeschwindigkeit bieten. Achte deshalb bei deiner Ausrüstung nicht nur auf den Schutzwert, sondern auch auf die Werte, die zu deiner Magieschule oder Klasse passen.
+Auch Rüstungen und Waffen können Boni auf Zauberschaden, Heilung oder Zaubergeschwindigkeit bieten. Achte deshalb bei deiner Ausrüstung nicht nur auf den Schutzwert, sondern auch auf die Werte, die zu deiner Magieschule oder Klasse passen. Die Modbeschreibungen nennen solche Ausrüstungsboni ausdrücklich; die konkreten Werte können je nach Gegenstand und Konfiguration unterschiedlich sein.
 
 ## Nicht verwechseln: Runesmith
 
@@ -124,8 +126,8 @@ Der Runesmith wird deshalb im Kapitel zu MineColonies genauer vorgestellt.
 ## Weiterführende Kapitel
 
 - [RPG-Klassen und Ausrüstung](../grundlagen/04-rpg-system.md)
-- [MineColonies und Kolonieberufe](../kolonie/12-minecolonies.md)
 - [Relikte, Schmuck und besondere Ausrüstung](16-relikte-schmuck-ausruestung.md)
+- [Dungeons und Bosse](../abenteuer/05-dungeons-und-bosse.md)
 
 ### Weiterführende Links
 
