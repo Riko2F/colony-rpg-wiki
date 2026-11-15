@@ -1,4 +1,4 @@
-# Kapitel 23 – Kommunikation und Mehrspieler
+# Kommunikation und Mehrspieler
 
 Colony RPG ist eine Welt, die du gemeinsam mit anderen Spielern erkunden und gestalten kannst. Für Absprachen beim Bauen, auf Reisen oder während einer Expedition ist es praktisch, direkt miteinander sprechen zu können.
 
