@@ -1,4 +1,4 @@
-# Kapitel 22 – Komfort- und Hilfsmods
+# Komfort- und Hilfsmods
 
 Nicht jede Mod fügt neue Abenteuer oder große Spielsysteme hinzu. Viele Erweiterungen machen den Alltag angenehmer: Sie helfen beim Sammeln, erleichtern die Bedienung von Werkbänken, zeigen Rezepte an oder bieten zusätzliche Möglichkeiten für deine Ausrüstung.
 
