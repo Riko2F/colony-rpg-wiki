@@ -1,4 +1,4 @@
-# Kapitel 5 – Dungeons und Bosse
+# Dungeons und Bosse
 
 Auf Colony RPG warten verschiedene Arten von Abenteuern auf dich. Manche führen dich in immer neue, zufällig aufgebaute Dungeons. Andere stellen dich mächtigen Bossen und besonderen Gegnern. Die Zugänge unterscheiden sich je nach Mod – deshalb findest du hier nicht nur eine Übersicht, sondern auch die wichtigsten Voraussetzungen für den Einstieg.
 
