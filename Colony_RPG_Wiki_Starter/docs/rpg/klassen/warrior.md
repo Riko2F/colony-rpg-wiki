@@ -24,6 +24,14 @@ Die installierte Mod enthält unter anderem:
 
 Der Warrior ist schwer gepanzert. Die Mod enthält eine eigene Krieger-Rüstung sowie schwere Waffen wie Doppelaxt und Glefe. Weitere Waffenvarianten sind abhängig von den verfügbaren Materialien.
 
+Die offizielle Modbeschreibung empfiehlt langsame, schwere Waffen wie **Doppeläxte, Glefen und Claymores**. Diese Waffen passen zum kraftvollen Kampfstil des Warrior.
+
+## Fähigkeiten einsetzen
+
+Der **Krieger-Kodex** schaltet die Warrior-Fähigkeiten frei. Rüste das Zauberbuch aus und halte eine Waffe in der Hand, um die Fähigkeiten zu verwenden. Für den empfohlenen Spielstil sind schwere, langsamere Waffen eine gute Wahl.
+
+Wie du dein Klassenbuch erhältst, wird im Kapitel [RPG-Klassen und Ausrüstung](../../grundlagen/04-rpg-system.md) erklärt.
+
 ## Stärken und Grenzen
 
 **Stärken:** Starke Nahkampfangriffe und gute Beweglichkeit.
@@ -36,3 +44,5 @@ Der Warrior ist schwer gepanzert. Die Mod enthält eine eigene Krieger-Rüstung 
 - Installierte Serverdatei: Rogues 3.1.3 für Minecraft 1.21.1 / NeoForge
 
 [Zurück zur RPG-Übersicht](../../grundlagen/04-rpg-system.md)
+
+---
