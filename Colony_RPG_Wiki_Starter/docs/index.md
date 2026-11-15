@@ -1,55 +1,68 @@
-# Colony RPG -- Spieler-Wiki
+# Colony RPG – Spieler-Wiki
 
-Willkommen im öffentlichen Spieler-Wiki von **Colony RPG**.
+<div class="crpg-hero">
+  <div class="crpg-hero__eyebrow">Das öffentliche Server-Wiki</div>
+  <h1>Willkommen auf Colony RPG</h1>
+  <p>Eine Welt voller Kolonieaufbau, Technik, Rollenspiel und gemeinsamer Abenteuer.</p>
+</div>
 
-Colony RPG basiert auf Minecraft **1.21.1** mit **NeoForge** und
-verbindet Kolonieaufbau, Technik, Rollenspiel, Abenteuer und eine
-spielergesteuerte Wirtschaft.
+Colony RPG basiert auf Minecraft **1.21.1** mit **NeoForge**. Hier findest du Informationen zu den Spielsystemen, den Mods und den besonderen Möglichkeiten auf dem Server.
 
-## Einstieg
+## Entdecke die Welt
 
--   [Willkommen auf Colony RPG](grundlagen/01-willkommen.md)
--   [Create -- Technik und Automatisierung](grundlagen/02-create.md)
--   [MineColonies -- Kolonie und
-    Stadtentwicklung](grundlagen/03-minecolonies.md)
--   [RPG-System -- Klassen und Ausrüstung](grundlagen/04-rpg-system.md)
--   [Dungeons und Bosse](abenteuer/05-dungeons-und-bosse.md)
--   [Wirtschaft und Währung](systeme/06-wirtschaft-und-waehrung.md)
+<div class="grid cards" markdown>
 
-## Abenteuer und RPG
+-   :house_with_garden: **Kolonieaufbau mit MineColonies**
 
--   [Dungeons und Dimensionen](abenteuer/08-dungeons-und-dimensionen.md)
--   [Bosse und besondere
-    Gegner](abenteuer/09-bosse-und-besondere-gegner.md)
--   [Klassen, Waffen und
-    Rüstungen](abenteuer/10-klassen-waffen-ruestungen.md)
--   [Runen, Zauber und Magie](systeme/11-runen-zauber-magie.md)
--   [Begleiter](abenteuer/15-begleiter.md)
--   [Relikte, Schmuck und besondere
-    Ausrüstung](systeme/16-relikte-schmuck-ausruestung.md)
+    Errichte eine Siedlung, entwickle sie weiter und entdecke die Möglichkeiten des Kolonie-Systems.
 
-## Kolonie und Welt
+    [Zum Kapitel](kolonie/12-minecolonies.md)
 
--   [MineColonies](kolonie/12-minecolonies.md)
--   [Weltgenerierung und
-    Landschaften](kolonie/18-weltgenerierung-und-landschaften.md)
--   [Dorfbewohner und NPCs](kolonie/19-dorfbewohner-und-npcs.md)
--   [Landwirtschaft, Nahrung und
-    Versorgung](kolonie/20-landwirtschaft-nahrung-versorgung.md)
+-   :gear: **Technik mit Create**
 
-## Systeme und Komfort
+    Lerne die technischen Grundlagen und die Automatisierungsmöglichkeiten kennen.
 
--   [Währung und Shops](systeme/07-waehrung-und-shops.md)
--   [Waystones und Teleportation](systeme/13-waystones.md)
--   [Quests und Aufträge](systeme/14-quests-und-auftraege.md)
--   [Reisen, Navigation und
-    Ausrüstung](systeme/21-reisen-navigation-ausruestung.md)
--   [Komfort- und Hilfsmods](systeme/22-komfort-und-hilfsmods.md)
--   [Kommunikation und
-    Mehrspielerfunktionen](systeme/23-kommunikation-mehrspieler.md)
+    [Zum Kapitel](grundlagen/02-create.md)
 
-## Hinweis
+-   :crossed_swords: **RPG-Klassen und Ausrüstung**
 
-Dieses Wiki beschreibt die Spielerfunktionen. Technische
-Konfigurationen, Loot-Tabellen, Admin-Befehle und interne
-Serververwaltung gehören in ein separates Admin-Handbuch.
+    Entdecke Klassen, Waffen, Rüstungen und die Ausrüstungssysteme.
+
+    [Zum Kapitel](grundlagen/04-rpg-system.md)
+
+-   :japanese_castle: **Dungeons und Bosse**
+
+    Erfahre, welche Abenteuer und besonderen Gegner dich erwarten.
+
+    [Zum Kapitel](abenteuer/08-dungeons-und-dimensionen.md)
+
+-   :coin: **Währung und Handel**
+
+    Informiere dich über Münzen, Geldaufbewahrung und Shops.
+
+    [Zum Kapitel](systeme/07-waehrung-und-shops.md)
+
+-   :scroll: **Quests und Aufträge**
+
+    Entdecke die Aufgaben und Herausforderungen auf dem Server.
+
+    [Zum Kapitel](systeme/14-quests-und-auftraege.md)
+
+</div>
+
+## Weitere Themen
+
+- [Runen, Zauber und Magie](systeme/11-runen-zauber-magie.md)
+- [Begleiter](abenteuer/15-begleiter.md)
+- [Relikte, Schmuck und besondere Ausrüstung](systeme/16-relikte-schmuck-ausruestung.md)
+- [Waystones und Teleportation](systeme/13-waystones.md)
+- [Weltgenerierung und Landschaften](kolonie/18-weltgenerierung-und-landschaften.md)
+- [Dorfbewohner und NPCs](kolonie/19-dorfbewohner-und-npcs.md)
+- [Landwirtschaft, Nahrung und Versorgung](kolonie/20-landwirtschaft-nahrung-versorgung.md)
+- [Reisen, Navigation und Ausrüstung](systeme/21-reisen-navigation-ausruestung.md)
+- [Komfort- und Hilfsmods](systeme/22-komfort-und-hilfsmods.md)
+- [Kommunikation und Mehrspielerfunktionen](systeme/23-kommunikation-mehrspieler.md)
+
+---
+
+<small>Dieses Wiki richtet sich an Spieler. Technische Konfigurationen, Loot-Tabellen, Admin-Befehle und interne Serververwaltung gehören in ein separates Admin-Handbuch.</small>
