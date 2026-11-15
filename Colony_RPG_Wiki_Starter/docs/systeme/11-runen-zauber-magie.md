@@ -33,7 +33,7 @@ Der Wizard kann sich auf arkane Magie, Feuer oder Frost ausrichten. Jede Schule 
 
 ### Arkane Magie
 
-<text color="secondary" size="sm">Buch der Arkanen Künste</text>
+*Buch der Arkanen Künste*
 
 Arkane Zauber konzentrieren sich auf magische Energie und gezielte Angriffe. Sie eignen sich besonders, um einzelne Gegner oder eng zusammenstehende Feinde unter Druck zu setzen.
 
@@ -41,7 +41,7 @@ Zu den Fähigkeiten gehören beispielsweise arkane Geschosse und Explosionen. An
 
 ### Feuermagie
 
-<text color="secondary" size="sm">Buch des Feuers</text>
+*Buch des Feuers*
 
 Feuermagie setzt Gegner mit direktem und flächigem Schaden unter Druck. Feuerbälle, Flammenwellen und Feuerstürme können mehrere Gegner gleichzeitig treffen.
 
@@ -49,7 +49,7 @@ Einige Fähigkeiten beschwören außerdem Feuerhydras, die an deiner Seite kämp
 
 ### Frostmagie
 
-<text color="secondary" size="sm">Buch des Frostes</text>
+*Buch des Frostes*
 
 Frostmagie verbindet Schaden mit Kontrolle über das Schlachtfeld. Viele Zauber verlangsamen oder frieren Gegner ein und verschaffen dir dadurch Zeit und Abstand.
 
