@@ -1,5 +1,3 @@
-# Colony RPG – Spieler-Wiki
-
 <div class="crpg-banner">
   <img src="assets/images/colony-rpg-titelbild.png" alt="Colony RPG – mittelalterliche Welt mit Hafen und Technik">
 </div>
@@ -14,44 +12,43 @@ Colony RPG basiert auf Minecraft **1.21.1** mit **NeoForge**. Hier findest du In
 
 ## Entdecke die Welt
 
-<div class="grid cards" markdown>
-
--   :material-home-city: **Kolonieaufbau mit MineColonies**
-
-    Errichte eine Siedlung, entwickle sie weiter und entdecke die Möglichkeiten des Kolonie-Systems.
-
-    [Zum Kapitel](kolonie/12-minecolonies.md)
-
--   :material-cog: **Technik mit Create**
-
-    Lerne die technischen Grundlagen und die Automatisierungsmöglichkeiten kennen.
-
-    [Zum Kapitel](grundlagen/02-create.md)
-
--   :material-sword-cross: **RPG-Klassen und Ausrüstung**
-
-    Entdecke Klassen, Waffen, Rüstungen und die Ausrüstungssysteme.
-
-    [Zum Kapitel](grundlagen/04-rpg-system.md)
-
--   :material-castle: **Dungeons und Bosse**
-
-    Erfahre, welche Abenteuer und besonderen Gegner dich erwarten.
-
-    [Zum Kapitel](abenteuer/08-dungeons-und-dimensionen.md)
-
--   :material-coins: **Währung und Handel**
-
-    Informiere dich über Münzen, Geldaufbewahrung und Shops.
-
-    [Zum Kapitel](systeme/07-waehrung-und-shops.md)
-
--   :material-scroll: **Quests und Aufträge**
-
-    Entdecke die Aufgaben und Herausforderungen auf dem Server.
-
-    [Zum Kapitel](systeme/14-quests-und-auftraege.md)
-
+<div class="crpg-card-grid">
+  <a class="crpg-card" href="kolonie/12-minecolonies/">
+    <span class="crpg-card__icon">🏰</span>
+    <strong>Kolonieaufbau mit MineColonies</strong>
+    <span>Errichte eine Siedlung, entwickle sie weiter und entdecke die Möglichkeiten des Kolonie-Systems.</span>
+    <em>Zum Kapitel →</em>
+  </a>
+  <a class="crpg-card" href="grundlagen/02-create/">
+    <span class="crpg-card__icon">⚙️</span>
+    <strong>Technik mit Create</strong>
+    <span>Lerne die technischen Grundlagen und die Automatisierungsmöglichkeiten kennen.</span>
+    <em>Zum Kapitel →</em>
+  </a>
+  <a class="crpg-card" href="grundlagen/04-rpg-system/">
+    <span class="crpg-card__icon">⚔️</span>
+    <strong>RPG-Klassen und Ausrüstung</strong>
+    <span>Entdecke Klassen, Waffen, Rüstungen und die Ausrüstungssysteme.</span>
+    <em>Zum Kapitel →</em>
+  </a>
+  <a class="crpg-card" href="abenteuer/08-dungeons-und-dimensionen/">
+    <span class="crpg-card__icon">🏯</span>
+    <strong>Dungeons und Bosse</strong>
+    <span>Erfahre, welche Abenteuer und besonderen Gegner dich erwarten.</span>
+    <em>Zum Kapitel →</em>
+  </a>
+  <a class="crpg-card" href="systeme/07-waehrung-und-shops/">
+    <span class="crpg-card__icon">🪙</span>
+    <strong>Währung und Handel</strong>
+    <span>Informiere dich über Münzen, Geldaufbewahrung und Shops.</span>
+    <em>Zum Kapitel →</em>
+  </a>
+  <a class="crpg-card" href="systeme/14-quests-und-auftraege/">
+    <span class="crpg-card__icon">📜</span>
+    <strong>Quests und Aufträge</strong>
+    <span>Entdecke die Aufgaben und Herausforderungen auf dem Server.</span>
+    <em>Zum Kapitel →</em>
+  </a>
 </div>
 
 ## Weitere Themen
