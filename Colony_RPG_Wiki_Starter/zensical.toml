@@ -4,6 +4,45 @@ site_description = "Das öffentliche Wiki für Colony RPG"
 site_author = "Colony RPG"
 docs_dir = "docs"
 site_dir = "site"
+extra_css = ["stylesheets/extra.css"]
+
+nav = [
+  "index.md",
+  { "Grundlagen" = [
+    "grundlagen/01-willkommen.md",
+    "grundlagen/02-create.md",
+    "grundlagen/03-minecolonies.md",
+    "grundlagen/04-rpg-system.md",
+  ] },
+  { "Kolonie und Welt" = [
+    "kolonie/12-minecolonies.md",
+    "kolonie/18-die-welt-und-das-leben.md",
+  ] },
+  { "Abenteuer" = [
+    "abenteuer/05-dungeons-und-bosse.md",
+    "abenteuer/15-begleiter.md",
+    "abenteuer/17-kreaturen-und-besondere-gegner.md",
+  ] },
+  { "RPG-Klassen" = [
+    "rpg/klassen/archer.md",
+    "rpg/klassen/paladin.md",
+    "rpg/klassen/priest.md",
+    "rpg/klassen/rogue.md",
+    "rpg/klassen/warrior.md",
+    "rpg/klassen/wizard.md",
+    "rpg/klassen/berserker.md",
+    "rpg/klassen/bard.md",
+  ] },
+  { "Spielsysteme" = [
+    "systeme/06-wirtschaft-und-waehrung.md",
+    "systeme/11-runen-zauber-magie.md",
+    "systeme/13-waystones.md",
+    "systeme/14-quests-und-auftraege.md",
+    "systeme/16-relikte-schmuck-ausruestung.md",
+    "systeme/22-komfort-und-hilfsmods.md",
+    "systeme/23-kommunikation-mehrspieler.md",
+  ] },
+]
 
 [project.theme]
 features = ["navigation.sections", "navigation.top", "search.suggest", "search.highlight", "content.code.copy"]
