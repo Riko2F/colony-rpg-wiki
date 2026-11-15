@@ -42,7 +42,6 @@ Die acht freigeschalteten Klassen sind:
 
 Diese Begleiterrollen sind nicht automatisch dieselben Klassen wie deine eigene RPG-Klasse. Die Freischaltung ist eine eigene Serverentscheidung und gilt unabhängig davon, welche Klassen du selbst spielst.
 
-![Modern Companions – Begleiter in der Spielwelt](https://minecraft-inside.ru/uploads/files/2025-11/6925d1704d368.png)
 
 ## Befehle und Verhalten
 
@@ -126,9 +125,10 @@ Ein paar Einstellungen sind auf unserem Server besonders wichtig:
 - Automatisches Ausrüsten geeigneter Gegenstände ist aktiviert.
 - Begleiter können einander nicht versehentlich Schaden zufügen.
 - Begleiter können ihrem Besitzer weiterhin Schaden zufügen; achte deshalb auf ihre Kampfaktionen.
-- Das automatische Teleportieren zum Spieler ist deaktiviert. Bleib in der Nähe deiner Gefährten, damit sie nicht zurückbleiben.
+- Das automatische Teleportieren zum Spieler ist aktiviert. Begleiter können dadurch wieder zu dir aufschließen, wenn sie zurückbleiben.
+- Die Begleiter-Jobs sind ebenfalls aktiviert. Du kannst ihnen beispielsweise Aufgaben wie Holzfällen, Farmen, Jagen oder Bergbau zuweisen.
 
-Die Jobs wie Holzfäller, Farmer, Jäger oder Minenarbeiter sind in der Mod zwar vorgesehen, die Schaltfläche dafür ist auf unserem Server jedoch standardmäßig ausgeblendet. Diese Funktionen sind experimentell und gehören daher aktuell nicht zur normalen Spieler-Anleitung.
+**Wichtiger Hinweis:** Die Job-Funktionen sind experimentell. Sie können noch Fehler verursachen oder sich unerwartet verhalten. Nutze sie daher mit etwas Vorsicht.
 
 ## Quellen und weiterführende Informationen
 
