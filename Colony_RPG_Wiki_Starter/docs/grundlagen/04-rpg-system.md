@@ -43,7 +43,7 @@ Das RPG-System erweitert Colony RPG um acht spielbare Klassen. Jede Klasse bring
 
 ### Archer – der Fernkämpfer
 
-Der Archer ist auf Angriffe aus der Distanz ausgelegt. Mit Fernkampfwaffen kann er Gegner auf Abstand halten und gezielt unter Beschuss nehmen. Zu seiner Ausrüstung gehören unter anderem Bögen und weitere Fernkampfwaffen sowie die Ranger-Rüstung. Auch Speere gehören zu den verfügbaren Waffenoptionen.
+Der Archer ist auf Angriffe aus der Distanz ausgelegt. Mit Bögen und Armbrüsten kann er Gegner auf Abstand halten und gezielt unter Beschuss nehmen. Seine Fähigkeiten ergänzen den Fernkampf um Kontrolle und Angriffe auf mehrere Ziele. Zur Ausrüstung gehört unter anderem die Ranger-Rüstung.
 
 ### Paladin – der beschützende Kämpfer
 
@@ -63,7 +63,7 @@ Der Warrior ist auf den direkten Nahkampf ausgerichtet. Er nutzt schwere Rüstun
 
 ### Wizard – die arkane Magie
 
-Der Wizard konzentriert sich auf arkane Magie. Sein Erscheinungsbild und seine Ausrüstung unterscheiden sich deutlich von den schwer gepanzerten Klassen: Roben und ein Arcane Staff gehören zu den charakteristischen Gegenständen. Der Wizard ist die richtige Wahl, wenn du deinen Charakter auf magische Angriffe ausrichten möchtest.
+Der Wizard ist die Magieklasse mit drei Spezialisierungen: **Arkan**, **Feuer** und **Frost**. Arkane Magie konzentriert sich auf gezielte magische Angriffe, Feuer eignet sich besonders für Flächenschaden und Frost verbindet Schaden mit Verlangsamung und Kontrolle. Jede Spezialisierung besitzt eigene Zauberbücher und passende Stäbe sowie Roben.
 
 ### Berserker – der wilde Angreifer
 
@@ -73,7 +73,7 @@ Der Berserker ist auf hohen körperlichen Nahkampfschaden ausgelegt. Seine Stär
 
 ### Bard – vielseitig zwischen Kampf und Unterstützung
 
-Der Bard lässt dir bei der Waffenwahl besonders viel Freiheit. Du kannst entscheiden, ob du lieber selbst kämpfst oder deine Gruppe unterstützt.
+Der Bard verbindet musikalische Magie mit Kampf und Gruppenunterstützung. Sein Zauberbuch **Bard's Stories** enthält Lieder und Zauber, die Verbündete stärken, schützen oder heilen und auch Gegner beeinträchtigen können. Bei der Waffenwahl hast du besonders viel Freiheit. Du kannst entscheiden, ob du lieber selbst kämpfst oder deine Gruppe unterstützt.
 
 - **Armbrust:** für einen stärker kämpferisch ausgerichteten Spielstil.
 - **Degen:** für den direkten Kampf.
@@ -95,7 +95,7 @@ Jede Klasse besitzt eigene aktive Fähigkeiten. Dazu gehören Angriffe, Bewegung
 - [Berserker – Wut und offensive Fähigkeiten](../rpg/klassen/berserker.md)
 - [Bard – Lieder und Gruppenunterstützung](../rpg/klassen/bard.md)
 
-Die Fähigkeiten werden über die jeweiligen Klassenbücher und das Zaubersystem freigeschaltet. Die genauen Zauber und ihre Verwendung findest du im Kapitel [Runen, Zauber und Magie](../systeme/11-runen-zauber-magie.md).
+Die Klassen besitzen unterschiedliche aktive Fähigkeiten: Dazu gehören klassische Zauber, aber auch martialische Fertigkeiten und Lieder. Je nach Klasse werden sie über ein Klassenbuch, eine passende Waffe oder das zugehörige Fertigkeitssystem genutzt. Die genauen Fähigkeiten und ihre Verwendung findest du auf den verlinkten Klassenseiten sowie im Kapitel [Runen, Zauber und Magie](../systeme/11-runen-zauber-magie.md).
 
 ## Klassenbücher und neue Zauber lernen
 
@@ -129,7 +129,7 @@ Für den Wizard gibt es drei Bücher – je nachdem, welche Magieschule du spiel
 | Berserker | Nordischer Runen Wälzer |
 | Bard | Bard's Stories |
 
-Das Klassenbuch ist nicht nur ein Gegenstand für deine Ausrüstung: Du benötigst es auch, um am ausgebauten Zauberbindetisch neue Fähigkeiten für deine Klasse zu erlernen. Wie das funktioniert, erklären wir im Kapitel [Runen, Zauber und Magie](../systeme/11-runen-zauber-magie.md).
+Das Klassenbuch ist nicht nur ein Gegenstand für deine Ausrüstung: Je nach Klasse dient es dazu, Fähigkeiten freizuschalten oder Zauber zu verwenden. Beim Wizard wählst du zusätzlich eine der drei Magieschulen. Wie das Lernen und Verwenden der Fähigkeiten funktioniert, erklären wir im Kapitel [Runen, Zauber und Magie](../systeme/11-runen-zauber-magie.md).
 
 ## Waffen und Rüstungen
 
