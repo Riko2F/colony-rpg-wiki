@@ -1,9 +1,165 @@
-# Kapitel 5 -- Dungeons und Bosse (Einführung)
+# Kapitel 5 – Dungeons und Bosse
 
-> **Redaktionsstatus:** Vorhandener Entwurf; Zugang, Schlüsselmechanik
-> und Bossliste vor Veröffentlichung prüfen.
+Auf Colony RPG warten verschiedene Arten von Abenteuern auf dich. Manche führen dich in immer neue, zufällig aufgebaute Dungeons. Andere stellen dich mächtigen Bossen und besonderen Gegnern. Die Zugänge unterscheiden sich je nach Mod – deshalb findest du hier nicht nur eine Übersicht, sondern auch die wichtigsten Voraussetzungen für den Einstieg.
 
-Dieser Artikel wird im Rahmen des Colony-RPG-Wiki-Projekts
-ausgearbeitet. Servereigene Angaben müssen anhand der aktuellen
-Modliste, Konfigurationen, Datapacks oder bestätigter In-Game-Tests
-belegt werden.
+## Die Abenteuer-Systeme im Überblick
+
+| System | Was dich erwartet | Zugang |
+|---|---|---|
+| **Dimensional Dungeons** | Wiederholbare, zufällig zusammengesetzte Dungeons mit Kämpfen, Fallen, Rätseln und Beute | Eigenes Portal und aktivierte Portal-Schlüssel |
+| **Cataclysm Expeditions** | Boss-Arenen und Cataclysm-Bauwerke als eigene Expeditionen | Hub-Anker und Expeditionsportale im Hub |
+| **Vanilla-Herausforderungen** | Bekannte große Kämpfe wie Enderdrache, Wither und Warden | Die jeweiligen Voraussetzungen der Vanilla-Welt |
+
+## Dimensional Dungeons
+
+<figure>
+  <img src="https://cdn.modrinth.com/data/Q8XlZjYF/images/e35d10ef91bfc970bba4de2953377018b11e6b4f_350.webp" alt="Portalrahmen aus Dimensional Dungeons" />
+  <figcaption>Ein gestalteter Portalrahmen aus der offiziellen Mod-Galerie. Quelle: <a href="https://modrinth.com/mod/dimensional-dungeons/gallery">Dimensional Dungeons – Modrinth-Galerie</a>.</figcaption>
+</figure>
+
+**Dimensional Dungeons** fügt eine eigene Dimension mit fortlaufend neu zusammengesetzten Dungeons hinzu. Die Räume können Kämpfe, Fallen, Hindernisse, Rätsel und Schatztruhen enthalten. Da die Dungeons in einer separaten Dimension liegen, wird die normale Oberwelt nicht mit diesen Anlagen überfüllt. Die Inhalte können erneut erkundet werden.
+
+Ein wichtiger Teil des Systems ist die Begrenzung des Bauens und Abbauens innerhalb der Dungeon-Dimension. Dadurch sollen Rätsel, Fallen und Kämpfe so funktionieren, wie sie vorgesehen sind.
+
+### Zugang: Das normale Portal
+
+Für den Einstieg benötigst du ein Portal und einen aktivierten **Basic Portal Key**.
+
+**1. Portalrahmen vorbereiten**
+
+Für den grundlegenden Portalaufbau nennt das Mod-Handbuch folgende Materialien:
+
+- 9 Steinziegel
+- 3 gemeißelte Steinziegel
+- 24 Goldbarren
+- 1 Truhe mit Falle
+- 1 Enderauge
+
+Aus den gemeißelten Steinziegeln und Goldbarren stellst du drei **Gilded Portal Blocks** her. Einer davon wird zusammen mit der Truhe mit Falle und dem Enderauge zum **Portal Keystone** verarbeitet. Die beiden übrigen Gilded Portal Blocks kommen oben auf die seitlichen Pfeiler des Portalrahmens.
+
+<figure>
+  <img src="https://i.ytimg.com/vi/fmhr2bGpaCw/maxresdefault.jpg" alt="Beispiel eines normalen Dimensional-Dungeons-Portalrahmens" />
+  <figcaption>Beispiel eines normalen Portalrahmens. Die genaue Bauform und die benötigten Blöcke sind im Mod-Handbuch beschrieben. Bildquelle: <a href="https://modrinth.com/mod/dimensional-dungeons">Dimensional Dungeons</a>.</figcaption>
+</figure>
+
+**2. Portal-Schlüssel herstellen und aktivieren**
+
+Ein leerer **Blank Portal Key** wird aus einem Blaze Rod und einem Nametag hergestellt. Ein leerer Schlüssel öffnet noch keinen Dungeon: Er muss zuerst aktiviert werden.
+
+Dazu verwendest du ihn auf dem oberen Feld eines Endportalrahmens. Der Endportalrahmen muss dafür nicht Teil eines vollständigen Endportals sein. Die Mod-Handbuch-Version im hochgeladenen JAR beschreibt außerdem eine **Key Inscribing Station** als alternative Möglichkeit. Diese Station kann nur begrenzt oft verwendet werden und kann dabei beschädigt werden.
+
+**3. Dungeon betreten**
+
+Den aktivierten Schlüssel setzt du in den Portal Keystone deines Portals ein. Das Portal öffnet sich und führt dich in den zugehörigen Dungeon. Ein Schlüssel ist an sein Ziel gebunden und kann wiederverwendet werden. Für einen neuen Dungeon benötigst du einen weiteren Schlüssel, der neu aktiviert wird.
+
+### Zugang: Advanced Dungeons
+
+<figure>
+  <img src="https://github-wiki-see.page/m/AllenSeitz/DimDungeons/wiki/advanced_portal_build.png" alt="Erweiterter Portalrahmen für Advanced Dungeons mit Portal Crown Blocks" />
+  <figcaption>Beispiel für einen erweiterten Portalrahmen. Bildquelle: <a href="https://github.com/AllenSeitz/DimDungeons/wiki/Advice-About-Advanced-Dungeons">Offizielles Dimensional-Dungeons-Wiki</a>.</figcaption>
+</figure>
+
+Die **Advanced Dungeons** sind eine deutlich anspruchsvollere Stufe. Laut dem Handbuch sind sie ungefähr doppelt so groß wie normale Dungeons. Die Gegner besitzen mehr Lebenspunkte und sind stärker; dafür warten bessere Belohnungen.
+
+Der Zugang funktioniert nicht mit einem normalen Portalrahmen:
+
+- **Advanced Portal Keys** können nicht regulär hergestellt werden. Sie sind seltene Fundstücke in Portal-Keyholes innerhalb normaler Dungeons.
+- Für das Portal-Upgrade benötigst du **zwei Portal Crown Blocks**. Diese findest du als Beute in Dungeon-Truhen.
+- Zusätzlich müssen an den beiden seitlichen Pfeilern Banner in **Weiß oder Violett** angebracht werden.
+- Erst mit diesem erweiterten Rahmen lässt sich ein Advanced Portal Key verwenden.
+
+Bereite dich auf diese Dungeons gut vor: Die Mod beschreibt sie ausdrücklich als größer und gefährlicher als die normalen Varianten.
+
+## Cataclysm und Cataclysm Expeditions
+
+<figure>
+  <img src="https://media.forgecdn.net/attachments/1480/30/2026-01-19_20-53-08-png.png" alt="Einblick in Cataclysm Expeditions" />
+  <figcaption>Einblick in Cataclysm Expeditions. Bildquelle: <a href="https://www.curseforge.com/minecraft/mc-mods/cataclysm-expeditions">Cataclysm Expeditions – CurseForge</a>.</figcaption>
+</figure>
+
+**Wichtig für Colony RPG:** Bei uns werden die Cataclysm-Bauwerke nicht einfach überall zufällig in der normalen Welt verteilt. Dafür verwenden wir die Zusatzmod **Cataclysm Expeditions**. Sie ersetzt die normale Strukturverteilung durch einen eigenen Hub mit Expeditionsportalen.
+
+Wenn du ein Expeditionsportal im Hub verwendest, wird das ausgewählte Bauwerk frisch in einer eigenen Expeditionsdimension erzeugt. Dadurch können Spieler gezielt eine Boss-Herausforderung starten, ohne erst in der normalen Welt nach einer zufällig generierten Struktur suchen zu müssen.
+
+### Zugang: Der Hub von Cataclysm Expeditions
+
+**1. Hub-Anker erhalten**
+
+Die Mod stellt einen **Hub Anchor** bereit, mit dem du den Expeditions-Hub erreichst. Im mitgelieferten Rezept der hochgeladenen Version besteht das Standardrezept aus vier Obsidian und einem Diamanten. Ob das Rezept auf dem Server freigeschaltet ist, hängt von der Serverkonfiguration ab.
+
+**2. Im Hub eine Expedition auswählen**
+
+Im Hub findest du verschiedene Portale, die zu den Cataclysm-Bauwerken führen. Wenn du ein Portal aktivierst, wird eine neue Expedition vorbereitet und das Bauwerk in einer eigenen Dimension erzeugt.
+
+**3. Gemeinsam mit anderen Spielern starten**
+
+Nach dem Start einer Expedition öffnet sich ein zeitlich begrenztes Beitrittsfenster. Andere Spieler können sich in dieser Zeit deiner Expedition anschließen und werden anschließend gemeinsam teleportiert. Die Dauer ist konfigurierbar.
+
+**4. Rückkehr beachten**
+
+Der Expeditionsanker dient auch dazu, eine Expedition zu verlassen und zum Hub zurückzukehren. Die Mod weist dabei darauf hin, dass du nach dem Verlassen nicht einfach zu genau diesem Bauwerk zurückkehren kannst. Plane den Bosskampf daher möglichst als Gruppe und gut vorbereitet.
+
+### Besondere Voraussetzungen bei einzelnen Bossen
+
+Die deutsche Sprachdatei der installierten Cataclysm-Expeditions-Version nennt für bestimmte Bosskämpfe zusätzliche Beschwörungsgegenstände:
+
+- **The Harbinger:** benötigt einen Netherstern zum Beschwören.
+- **Ancient Remnant:** benötigt einen Pinsel zum Beschwören.
+- **The Leviathan:** benötigt ein Herz des Meeres zum Beschwören.
+
+Diese Gegenstände solltest du vor dem Start der entsprechenden Expedition bereithalten. Weitere Voraussetzungen können direkt am jeweiligen Expeditionsportal oder im Spiel angezeigt werden.
+
+### Bosse aus L_Ender's Cataclysm
+
+Zu den großen Bossen, die L_Ender's Cataclysm aufführt, gehören:
+
+- Ignis
+- The Leviathan
+- The Harbinger
+- Ender Guardian
+- Maledictus
+- Ancient Remnant
+- Netherite Monstrosity
+- Scylla
+
+Die Mod ergänzt außerdem zahlreiche weitere Gegner und Mini-Bosse. Nicht jeder starke Gegner ist also automatisch ein Hauptboss. Die genauen Kampfbedingungen können je nach Boss unterschiedlich sein.
+
+## Vanilla-Bosse und besondere Herausforderungen
+
+Neben den Mod-Bossen gehören auch bekannte Minecraft-Gegner zu den großen Herausforderungen auf Colony RPG:
+
+- **Enderdrache:** der finale Gegner des Ends.
+- **Wither:** ein mächtiger Boss, den Spieler selbst beschwören.
+- **Warden:** ein besonders gefährlicher Gegner der Tiefen Dunkelheit. Er ist kein klassischer Boss, stellt aber eine erhebliche Herausforderung dar.
+
+## Vorbereitung auf einen Dungeon oder Bosskampf
+
+Egal, welches Abenteuer du auswählst: Eine gute Vorbereitung macht einen großen Unterschied.
+
+- Nimm ausreichend Nahrung und Heilungsmöglichkeiten mit.
+- Prüfe deine Rüstung, Waffen und Verzauberungen.
+- Packe passende Tränke und nützliche Hilfsmittel ein.
+- Informiere deine Gruppe über den geplanten Boss oder Dungeon.
+- Bei Advanced Dungeons und Cataclysm-Expeditionen solltest du besonders gut ausgerüstet sein.
+
+## Quellen und Versionshinweise
+
+Die allgemeinen Mod-Funktionen und Zugangsschritte wurden mit den offiziellen Mod-Seiten, den jeweiligen Wikis und den von dir hochgeladenen JAR-Dateien abgeglichen. Servereigene Einstellungen können einzelne Rezepte oder Abläufe verändern.
+
+- [Dimensional Dungeons – CurseForge](https://www.curseforge.com/minecraft/mc-mods/dimensional-dungeons)
+- [Dimensional Dungeons – Modrinth](https://modrinth.com/mod/dimensional-dungeons)
+- [Dimensional Dungeons – offizielles Wiki](https://github.com/AllenSeitz/DimDungeons/wiki)
+- [Basic Portal Keys – Wiki-Anleitung](https://github.com/AllenSeitz/DimDungeons/wiki/Creating-and-Using-Basic-Portal-Keys)
+- [Advanced Dungeons – Wiki-Anleitung](https://github.com/AllenSeitz/DimDungeons/wiki/Advice-About-Advanced-Dungeons)
+- [L_Ender's Cataclysm – CurseForge](https://www.curseforge.com/minecraft/mc-mods/lendercataclysm)
+- [L_Ender's Cataclysm – Modrinth](https://modrinth.com/mod/l_enders-cataclysm)
+- [L_Ender's Cataclysm – Wiki](https://lendercataclysm.wiki.gg/)
+- [Cataclysm Expeditions – CurseForge](https://www.curseforge.com/minecraft/mc-mods/cataclysm-expeditions)
+- [Cataclysm Expeditions – Modrinth](https://modrinth.com/mod/cataclysm-expeditions)
+
+**Installierte Versionen laut hochgeladenen JAR-Dateien:**
+- Dimensional Dungeons 2.10 (Dateiname: `dimdungeons-210-neoforge-1.21.1`)
+- L_Ender's Cataclysm 3.33 für Minecraft 1.21.1
+- Cataclysm Expeditions 2.0.0 für Minecraft 1.21.1 / NeoForge
+
+[Zurück zur Abenteuer-Übersicht](./05-dungeons-und-bosse.md)
