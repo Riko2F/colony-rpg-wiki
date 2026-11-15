@@ -39,7 +39,7 @@ In die Geldbörse kannst du deine Münzen legen. Sie zeigt dir den Gesamtwert de
 
 <small>Screenshot: Create: Currency Shops – Wallet Inventory. Bildquelle: [CurseForge-Galerie der Mod](https://www.curseforge.com/minecraft/mc-mods/create-currency-shops/gallery).</small>
 
-Wenn du Geld aus der Geldbörse in deinen Safe einzahlen möchtest, musst du die Münzen zunächst wieder aus der Geldbörse in dein Inventar nehmen. Von dort kannst du sie in den Safe legen.
+Um dein Geld direkt in den Münz-Safe einzuzahlen, halte die Geldbörse in der Hand, ducke dich und klicke anschließend auf den Safe. Die Münzen werden dadurch direkt aus der Geldbörse in den Tresor übertragen. Du musst sie dafür nicht erst einzeln in dein Inventar legen.
 
 ### Münz-Safe
 
