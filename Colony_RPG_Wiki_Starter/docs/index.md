@@ -31,7 +31,7 @@ Colony RPG basiert auf Minecraft **1.21.1** mit **NeoForge**. Hier findest du In
     <span>Entdecke Klassen, Waffen, Rüstungen und die Ausrüstungssysteme.</span>
     <em>Zum Kapitel →</em>
   </a>
-  <a class="crpg-card" href="abenteuer/08-dungeons-und-dimensionen/">
+  <a class="crpg-card" href="abenteuer/05-dungeons-und-bosse/">
     <span class="crpg-card__icon">🏯</span>
     <strong>Dungeons und Bosse</strong>
     <span>Erfahre, welche Abenteuer und besonderen Gegner dich erwarten.</span>
