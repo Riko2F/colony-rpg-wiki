@@ -4,28 +4,52 @@ Magie ist ein wichtiger Teil des RPG-Systems auf Colony RPG. Vor allem der Wizar
 
 Für das Wirken vieler Zauber werden **Runen** benötigt. Sie dienen als Verbrauchsmaterial – ähnlich wie Pfeile für einen Bogen. Welche Runen du brauchst, hängt von der Art deiner Magie ab.
 
-## Runen – Munition für Zauber
+## Welche Runen brauchen die Klassen?
 
-Die RPG-Series-Mods verwenden ein eigenes Runensystem. Runen sind keine Dekoration und auch keine Ausrüstungsverbesserung: Sie werden beim Wirken bestimmter Zauber verbraucht.
+Runen sind Verbrauchsmaterial für bestimmte Zauber. Welche Rune du benötigst, hängt von deiner Klasse beziehungsweise deiner Magieschule ab.
 
-Die wichtigsten Runenarten sind:
+| Klasse / Magieschule | Benötigte Rune |
+|---|---|
+| Wizard – Arkan | Arkane Rune |
+| Wizard – Feuer | Feuerrune |
+| Wizard – Frost | Frostrune |
+| Paladin | Heilrune |
+| Priest | Heilrune |
+| Archer | Verwendet bei den geprüften Klassenzaubern Pfeile statt Runen |
+| Rogue, Warrior, Berserker und Bard | Für ihre Zauber sind in den geprüften Mod-Daten keine Runenkosten hinterlegt |
 
-| Rune | Zugehörigkeit | Typisches Herstellungsmaterial |
+Die Runen-Mod enthält außerdem eine **Blitzrune** und eine **Seelenrune**. In den mitgelieferten Klassen-Zauberdaten werden diese beiden Runen derzeit jedoch nicht als Kosten verwendet. Deshalb ist ihnen hier keine Klasse zugeordnet.
+
+## Runen herstellen
+
+Die Runen-Mod bietet vier herstellbare Runenarten: Arkane Rune, Feuerrune, Frostrune und Heilrune. Für jede Rune benötigst du einen passenden Stein als Grundlage und ein dazugehöriges Zusatzmaterial. Die Rezepte sind formlos.
+
+| Rune | Einfaches Zusatzmaterial | Zusatzmaterial für die größere Variante |
 |---|---|---|
-| Arkane Rune | Arkane Magie | Amethyst |
-| Feuerrune | Feuermagie | Kohle |
-| Frostrune | Frostmagie | Schneeball |
-| Heilungsrune | Heilmagie | Honig und Gold |
+| Arkane Rune | Amethystscherbe | Enderperle, Amethystblock oder Amethysthaufen |
+| Feuerrune | Schießpulver, Kohle oder Holzkohle | Lohenstaub |
+| Frostrune | Schneeball | Eis, Packeis oder Blaueis |
+| Heilrune | Goldnugget | Honigwabe oder Goldbarren |
 
-Die normalen Rezepte sind formlos. Du kannst Runen direkt im Inventar oder an einem gewöhnlichen Werktisch herstellen. Für eine größere Menge lohnt sich der **Runenherstellungsaltar**: Er verwendet dieselben Zutaten, liefert aber mehr Runen auf einmal.
+Du kannst die Runen direkt im Inventar oder am Werktisch herstellen. Die einfache Handwerksvariante ergibt **2 Runen**, die größere Variante **4 Runen**.
+
+Noch mehr Runen erhältst du mit dem **Runenaltar**: Dort ergibt die einfache Variante **8 Runen** und die größere Variante **16 Runen**. Der Runenaltar ist ein eigener Herstellungsblock der Runen-Mod – er ist nicht mit dem Zauberbindetisch zu verwechseln.
+
+## Neue Fähigkeiten erlernen
+
+Um deiner Klasse neue Fähigkeiten beizubringen, brauchst du drei Dinge:
+
+- das **Klassenbuch** deiner Klasse,
+- **Lapis Lazuli**,
+- einen **ausgebauten Zauberbindetisch**.
+
+Lege das passende Klassenbuch und Lapis am ausgebauten Zauberbindetisch ein, um neue Fähigkeiten für deine Klasse freizuschalten. Wie du dein Klassenbuch auswählst und erhältst, steht im Kapitel [RPG-Klassen und Ausrüstung](../grundlagen/04-rpg-system.md).
 
 ## Zauber wirken
 
-Das Magiesystem wird über Zauberbücher, Zauberstäbe und Stäbe genutzt. Einige Waffen bringen bereits einen Grundzauber mit. Zauberbücher schalten weitere Fähigkeiten frei und geben dir eine bestimmte magische Ausrichtung.
+Beim Wirken von Zaubern werden – abhängig von Klasse und Magieschule – die passenden Runen verbraucht. Der Wizard nutzt die Rune seiner gewählten Magieschule; Paladin und Priest verwenden die Heilrune. Archer-Zauber, die Pfeile benötigen, verbrauchen stattdessen Pfeile.
 
-Für neue Zauber verwendest du den **Zauberbindetisch** zusammen mit dem passenden Klassenbuch. Welche Klassenbücher es gibt und wofür du sie benötigst, erklären wir im Kapitel [RPG-Klassen und Ausrüstung](../grundlagen/04-rpg-system.md).
-
-Um Zauber zu wirken, verwendest du die zu deiner Klasse passende magische Ausrüstung und die erlernten Fähigkeiten. Zauberstäbe und magische Stäbe können außerdem eigene Grundzauber besitzen.
+Zauberstäbe und magische Stäbe können außerdem eigene Grundzauber besitzen.
 
 ## Die drei Magieschulen des Wizard
 
