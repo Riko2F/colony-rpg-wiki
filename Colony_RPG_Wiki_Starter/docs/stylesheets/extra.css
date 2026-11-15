@@ -160,3 +160,64 @@
 @media (max-width: 560px) {
   .crpg-card-grid { grid-template-columns: 1fr; }
 }
+
+
+/* Einheitliches Erscheinungsbild für alle Wiki-Kapitel */
+.md-content__inner {
+  line-height: 1.72;
+}
+
+.md-content__inner > h1 {
+  margin-bottom: 1.25rem;
+  padding-bottom: 0.7rem;
+  border-bottom: 3px solid var(--md-accent-fg-color);
+  letter-spacing: -0.02em;
+}
+
+.md-content__inner h2 {
+  margin-top: 2.2rem;
+  padding: 0.45rem 0 0.35rem 0.75rem;
+  border-bottom: 1px solid var(--md-accent-fg-color--transparent);
+  border-left: 4px solid var(--md-primary-fg-color);
+  border-radius: 0 0.25rem 0.25rem 0;
+}
+
+.md-content__inner h3 {
+  margin-top: 1.6rem;
+  color: var(--md-typeset-a-color);
+}
+
+.md-content__inner blockquote {
+  margin: 1.4rem 0;
+  padding: 0.8rem 1.1rem;
+  border-left: 4px solid var(--md-accent-fg-color);
+  border-radius: 0 0.5rem 0.5rem 0;
+  background: var(--md-code-bg-color);
+}
+
+.md-content__inner table:not([class]) {
+  display: table;
+  width: 100%;
+  overflow: hidden;
+  border: 1px solid var(--md-accent-fg-color--transparent);
+  border-radius: 0.6rem;
+}
+
+.md-content__inner table:not([class]) th {
+  background: var(--md-primary-fg-color);
+}
+
+.md-content__inner hr {
+  margin: 2rem 0;
+  border: 0;
+  border-top: 1px solid var(--md-accent-fg-color--transparent);
+}
+
+.md-content__inner img {
+  border: 1px solid var(--md-accent-fg-color--transparent);
+  border-radius: 0.65rem;
+}
+
+.md-content__inner li {
+  margin-bottom: 0.25rem;
+}
