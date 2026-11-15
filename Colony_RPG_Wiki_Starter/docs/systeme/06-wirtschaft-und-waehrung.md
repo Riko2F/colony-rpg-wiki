@@ -19,11 +19,9 @@ Alle Werte werden in Kupfer gerechnet. Eine Netheritmünze entspricht also 500 K
 
 ## Wie kommst du an Münzen?
 
-Münzen werden auf Colony RPG nicht regulär hergestellt oder frei gehandelt, sondern stammen ausschließlich aus Beute. Die wichtigste und mit Abstand häufigste Quelle sind **Monster-Drops**: Besiegst du Kreaturen und Gegner, kannst du dafür Münzen erhalten.
+Münzen werden auf Colony RPG nicht regulär hergestellt. Die wichtigste Einnahmequelle sind **Monster-Drops**: Besiegst du Kreaturen und Gegner, kannst du dafür Münzen erhalten. Auch in bestimmten **Dungeon- und Strukturtruhen** findest du Münzen.
 
-Nur in seltenen Fällen findest du Münzen zusätzlich in **Truhen und Kisten**, zum Beispiel als Teil von Beute in Dungeons. Solche Funde sind eine Ausnahme und nicht die hauptsächliche Einnahmequelle.
-
-Welche Münzen und Mengen du erhältst, hängt davon ab, welchen Gegner du besiegst oder welche Beute du findest. Anspruchsvollere Gegner und Abenteuer können entsprechend wertvollere Münzen einbringen.
+Zusätzlich können **Aufträge** Münzen als Belohnung enthalten. Welche Münzen und Mengen du erhältst, hängt davon ab, welchen Gegner du besiegst, welche Truhe du öffnest oder welchen Auftrag du abschließt. Anspruchsvollere Gegner und Abenteuer können entsprechend wertvollere Münzen einbringen.
 
 **Tipp:** Sammle auch kleinere Münzen. Viele kleine Beträge ergeben zusammen ein ordentliches Guthaben.
 
