@@ -82,6 +82,21 @@ Der Bard lässt dir bei der Waffenwahl besonders viel Freiheit. Du kannst entsch
 
 Auch die Ausrüstungsentwicklung des Barden besitzt eigene Stufen: **Entertainer**, **Troubadour** und **The Storyteller**.
 
+## Klassenfähigkeiten im Detail
+
+Jede Klasse besitzt eigene aktive Fähigkeiten. Dazu gehören Angriffe, Bewegungs- und Kontrollfähigkeiten sowie Heil- und Unterstützungseffekte. Welche Fähigkeiten zu deiner Klasse gehören und wie sie eingesetzt werden, erklären die jeweiligen Klassenseiten:
+
+- [Archer – Fernkampffähigkeiten](../rpg/klassen/archer.md)
+- [Paladin – Schutz, Heilung und heilige Angriffe](../rpg/klassen/paladin.md)
+- [Priest – Heilung und Unterstützung](../rpg/klassen/priest.md)
+- [Rogue – Bewegung, Fallen und Überraschungsangriffe](../rpg/klassen/rogue.md)
+- [Warrior – Nahkampf und Kontrolle](../rpg/klassen/warrior.md)
+- [Wizard – arkane, Feuer- und Frostmagie](../rpg/klassen/wizard.md)
+- [Berserker – Wut und offensive Fähigkeiten](../rpg/klassen/berserker.md)
+- [Bard – Lieder und Gruppenunterstützung](../rpg/klassen/bard.md)
+
+Die Fähigkeiten werden über die jeweiligen Klassenbücher und das Zaubersystem freigeschaltet. Die genauen Zauber und ihre Verwendung findest du im Kapitel [Runen, Zauber und Magie](../systeme/11-runen-zauber-magie.md).
+
 ## Klassenbücher und neue Zauber lernen
 
 Für jede Klasse gibt es ein eigenes **Klassenbuch**. Du erhältst es am **Zauberbindetisch**. Den Zauberbindetisch kannst du auch als vorgefertigte Struktur in einem natürlich generierten Dorf finden – du musst ihn also nicht unbedingt selbst aufstellen oder suchen und herstellen.
@@ -130,7 +145,7 @@ Zum RPG-System gehören unterschiedliche Ausrüstungsstufen und Verbesserungsmö
 
 - [Runen, Zauber und Magie](../systeme/11-runen-zauber-magie.md)
 - [Relikte, Schmuck und besondere Ausrüstung](../systeme/16-relikte-schmuck-ausruestung.md)
-- [Dungeons und Dimensionen](../abenteuer/08-dungeons-und-dimensionen.md)
+- [Dungeons und Dimensionen](../abenteuer/05-dungeons-und-bosse.md)
 
 ---
 
