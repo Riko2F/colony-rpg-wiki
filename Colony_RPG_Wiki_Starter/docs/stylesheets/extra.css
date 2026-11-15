@@ -49,3 +49,44 @@
   background-color: var(--md-primary-fg-color);
   color: var(--md-primary-bg-color);
 }
+
+
+/* Startseiten-Titelbereich */
+.crpg-hero {
+  position: relative;
+  overflow: hidden;
+  margin: 0 0 2rem;
+  padding: clamp(2rem, 6vw, 4.5rem) 1.5rem;
+  border: 1px solid #A17A50;
+  border-radius: 1rem;
+  color: #fff;
+  text-align: center;
+  background:
+    radial-gradient(ellipse at 50% 0%, #76549A 0%, transparent 58%),
+    linear-gradient(135deg, #211E25 0%, #39264F 55%, #29272D 100%);
+  box-shadow: 0 0.5rem 1.8rem #211E2530;
+}
+.crpg-hero h1 {
+  margin: 0.4rem 0 0.8rem;
+  color: #fff !important;
+  font-size: clamp(2rem, 5vw, 3.4rem);
+}
+.crpg-hero p {
+  max-width: 46rem;
+  margin: 0 auto;
+  color: #F1EAF7;
+  font-size: 1.08rem;
+}
+.crpg-hero__eyebrow {
+  color: #D8B98F;
+  font-size: 0.78rem;
+  font-weight: 700;
+  letter-spacing: 0.16em;
+  text-transform: uppercase;
+}
+.md-typeset .grid.cards > ul > li {
+  border-color: #A17A5055;
+}
+.md-typeset .grid.cards > ul > li:hover {
+  border-color: #76549A;
+}
