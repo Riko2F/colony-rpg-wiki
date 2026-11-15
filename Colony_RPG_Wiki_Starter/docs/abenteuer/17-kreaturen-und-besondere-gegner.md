@@ -12,21 +12,19 @@ Unterschätze auch gewöhnliche Gegner nicht. Mehrere Kreaturen können dich gle
 
 ## Besondere Kreaturen und Varianten
 
-Auf Colony RPG erweitern zusätzliche Kreaturen das normale Gegneraufkommen. Eine davon ist **Spooky Mobs**.
+Auf Colony RPG erweitert **Spooki's Unique Mobs** das normale Gegneraufkommen um zahlreiche Varianten bekannter Minecraft-Kreaturen. Die Mod enthält 46 Varianten aus den Gruppen Zombies, Skelette, Spinnen und Creeper. Die Varianten besitzen eigene Verhaltensweisen und Fähigkeiten – es handelt sich also nicht nur um andere Texturen.
 
-![Cursed Pumpkin aus Spooky Mobs bei Nacht in einer Minecraft-Welt](https://media.forgecdn.net/attachments/1133/578/2025-03-21_20.png)
+Beispiele für solche Gegner sind:
 
-<small>Abbildung: Cursed Pumpkin in der Spielwelt. Quelle: [offizielle Spooky-Mobs-Modseite auf CurseForge](https://www.curseforge.com/minecraft/mc-mods/spooky-mobs).</small>
+- **Frozen Zombie:** Kann Wasser unter seinen Füßen gefrieren lassen und Spieler verlangsamen.
+- **Infernal Zombie:** Setzt Ziele in Brand und hinterlässt eine Feuerspur.
+- **Ender Zombie:** Teleportiert sich, wenn er verletzt wird, und stirbt bei Kontakt mit Wasser oder Regen.
+- **Venomous Zombie:** Vergiftet Spieler bei Treffern und hinterlässt beim Tod eine Giftwolke.
+- **Sniper Skeleton:** Greift Spieler aus größerer Entfernung an.
 
-Die Mod ergänzt besondere, teils unheimliche Gegner, die in der Welt auftauchen können. Einige greifen aus der Distanz an oder verursachen zusätzliche Effekte. Achte deshalb nicht nur auf das Aussehen, sondern beobachte das Verhalten eines unbekannten Gegners zunächst aus sicherer Entfernung.
+Die Varianten erscheinen abhängig von ihrer Umgebung in passenden Biomen. Zusätzlich können besondere Spawner in Dungeons, Minenschächten und Netherfestungen solche Gegner hervorbringen. Beobachte unbekannte Kreaturen zunächst aus sicherer Entfernung, denn ihre Fähigkeiten können sich deutlich von denen normaler Minecraft-Gegner unterscheiden.
 
-Beispiele aus der Mod-Beschreibung sind:
-
-- **Cursed Pumpkin:** Diese Kreatur kann in Gruppen auftreten und Spieler bei zu großer Nähe mit Blindheit belegen.
-- **Angry Cactus:** Ein gefährlicher Gegner in Wüsten- und Badlands-Biomen, der aus der Entfernung angreift.
-- **Angry Ender Eye:** Ein weiterer besonderer Gegner, der nachts auftauchen und aus der Distanz schießen kann.
-
-Welche Varianten tatsächlich erscheinen und welche Eigenschaften sie besitzen, hängt von der installierten Modversion und den Spawn-Einstellungen ab. Die Modbeschreibung und Galerie findest du auf [CurseForge – Spooky Mobs](https://www.curseforge.com/minecraft/mc-mods/spooky-mobs).
+Weitere Beispiele und die vollständige Beschreibung findest du auf [Modrinth – Spooki's Unique Mobs](https://modrinth.com/mod/unique-mobs) und [CurseForge – Spooki's Unique Mobs](https://www.curseforge.com/minecraft/mc-mods/spookis-unique-mobs).
 
 ## MineColonies-Raids – wenn deine Kolonie angegriffen wird
 
@@ -72,7 +70,7 @@ Die genaue Menge ist zufallsabhängig und kann je nach Gegner und Looting beeinf
 
 ## Münzen durch Monster-Drops
 
-Viele Kreaturen sind nicht nur eine Gefahr, sondern können auch Münzen fallen lassen. Das gilt ausdrücklich auch für besondere Gegner wie die Kreaturen aus Spooky Mobs und für MineColonies-Raidgruppen. Frühere Angaben in diesem Abschnitt, nach denen diese Gegner keine Münzen droppen würden, waren falsch.
+Viele Kreaturen sind nicht nur eine Gefahr, sondern können auch Münzen fallen lassen. Das gilt ausdrücklich auch für besondere Gegner wie die Kreaturen aus Spooki's Unique Mobs und für MineColonies-Raidgruppen. Frühere Angaben in diesem Abschnitt, nach denen diese Gegner keine Münzen droppen würden, waren falsch.
 
 Die folgenden Werte sind dokumentierte Testergebnisse aus jeweils 100 besiegten normalen Gegnern. Sie sind Beispiele aus den Tests und keine garantierten Drop-Mengen:
 
@@ -125,7 +123,7 @@ Die Beschreibungen der MineColonies-Raids orientieren sich am offiziellen MineCo
 
 - [MineColonies – Raids](https://minecolonies.com/wiki/systems/raid/) – Raidbeginn, Raidtypen, Verhalten der Angreifer und Beute.
 - [MineColonies – Barracks](https://minecolonies.com/wiki/buildings/barracks/) – Spione und Verteidigung.
-- [Spooky Mobs – CurseForge](https://www.curseforge.com/minecraft/mc-mods/spooky-mobs) – Modbeschreibung und Kreaturen.
+- [Spooki's Unique Mobs – CurseForge](https://www.curseforge.com/minecraft/mc-mods/spooky-mobs) – Modbeschreibung und Kreaturen.
 - [L_Ender's Cataclysm – Wiki](https://lendercataclysm.wiki.gg/) – Informationen zu Bossen und besonderen Gegnern.
 - [Wirtschaft und Währung – Colony RPG Wiki](../systeme/06-wirtschaft-und-waehrung.md) – Münzsorten, Werte und Beute.
 
