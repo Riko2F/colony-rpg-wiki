@@ -145,7 +145,7 @@ Zum RPG-System gehören unterschiedliche Ausrüstungsstufen und Verbesserungsmö
 
 - [Runen, Zauber und Magie](../systeme/11-runen-zauber-magie.md)
 - [Relikte, Schmuck und besondere Ausrüstung](../systeme/16-relikte-schmuck-ausruestung.md)
-- [Dungeons und Dimensionen](../abenteuer/05-dungeons-und-bosse.md)
+- [Dungeons und Bosse](../abenteuer/05-dungeons-und-bosse.md)
 
 ---
 
