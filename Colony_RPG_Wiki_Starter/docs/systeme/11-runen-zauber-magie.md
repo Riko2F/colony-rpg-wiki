@@ -37,6 +37,12 @@ Noch mehr Runen erhältst du mit dem **Runenaltar**: Dort ergibt die einfache Va
 
 ## Neue Fähigkeiten erlernen
 
+Am ausgebauten Zauberbindetisch kannst du über das Menü **„Zauber binden“** die Fähigkeiten deiner Klasse auswählen und erlernen. Das folgende Bild zeigt die Auswahl im Spiel:
+
+![Auswahlmenü für Klassenfähigkeiten am Zauberbindetisch](../assets/images/klassen-faehigkeiten.png)
+
+*Im Menü des Zauberbindetisches werden die verfügbaren Fähigkeiten angezeigt.*
+
 Um deiner Klasse neue Fähigkeiten beizubringen, brauchst du drei Dinge:
 
 - das **Klassenbuch** deiner Klasse,
