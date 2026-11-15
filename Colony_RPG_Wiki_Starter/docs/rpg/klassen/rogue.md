@@ -24,6 +24,14 @@ Die deutsche Beschreibung der installierten Mod führt unter anderem diese Ferti
 
 Der Rogue ist mäßig gepanzert. Zu den Waffen gehören Dolche und Sicheln. Die Mod enthält außerdem eigene Rüstungsteile und Fertigkeitsschriftrollen.
 
+Die Mod empfiehlt besonders schnelle Waffen, die du **in beiden Händen** führst – zum Beispiel Dolche oder Sicheln. Das passt zu den Fähigkeiten des Rogue, die auf schnelle Angriffe und Beweglichkeit ausgelegt sind.
+
+## Fähigkeiten einsetzen
+
+Das **Schurken-Handbuch** schaltet die Rogue-Fähigkeiten frei. Rüste das Zauberbuch aus und halte eine Waffe in der Hand, um die Fähigkeiten einzusetzen. Für den empfohlenen Spielstil eignen sich schnelle Waffen in beiden Händen besonders gut.
+
+Wie du dein Klassenbuch erhältst, wird im Kapitel [RPG-Klassen und Ausrüstung](../../grundlagen/04-rpg-system.md) erklärt.
+
 ## Stärken und Grenzen
 
 **Stärken:** Hohe Beweglichkeit und hoher Nahkampfschaden.
@@ -36,3 +44,5 @@ Der Rogue ist mäßig gepanzert. Zu den Waffen gehören Dolche und Sicheln. Die 
 - Installierte Serverdatei: Rogues 3.1.3 für Minecraft 1.21.1 / NeoForge
 
 [Zurück zur RPG-Übersicht](../../grundlagen/04-rpg-system.md)
+
+---
