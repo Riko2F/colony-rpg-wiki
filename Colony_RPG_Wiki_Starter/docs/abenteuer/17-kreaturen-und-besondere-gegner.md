@@ -1,4 +1,4 @@
-# Kapitel 17 – Kreaturen und besondere Gegner
+# Kreaturen und besondere Gegner
 
 Nicht jede Gefahr auf Colony RPG wartet in einem Dungeon oder hinter einem Expeditionsportal. Auch auf deinen Erkundungstouren durch die Oberwelt, in Höhlen und in anderen Dimensionen kannst du auf gefährliche Kreaturen treffen. Neben den bekannten Minecraft-Monstern sorgen zusätzliche Gegner und besondere Varianten für Abwechslung.
 
