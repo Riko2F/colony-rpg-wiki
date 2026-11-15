@@ -1,4 +1,4 @@
-# Geplante Erweiterungen
+# Erweiterungen und Downloads
 
 Neben den bereits aktiven Mods werden für Colony RPG weitere Erweiterungen geprüft. Die drei hier vorgestellten Mods sind **geplant, derzeit aber noch deaktiviert**. Ihre Funktionen stehen im Spiel aktuell nicht zur Verfügung. Ob und wann sie aktiviert werden, wird zu einem späteren Zeitpunkt entschieden.
 
@@ -112,3 +112,33 @@ Die Datapacks werden **nicht** in den Mods-Ordner gelegt. Sie gehören in den Or
 - **Dungeon Rooms – Server Ready:** Das Paket stellt zusätzliche Strukturdateien für Dimensional Dungeons bereit. Eine Versionsnummer ist in der veröffentlichten ZIP nicht angegeben.
 
 **Vor der Installation:** Erstelle ein Backup deiner Welt. Teste neue oder aktualisierte Datapacks zuerst in einer Weltkopie. Aktiviere nur die Pakete, die du verwenden möchtest. Nach dem Laden kannst du mit `/datapack list` prüfen, welche Datapacks aktiv sind.
+
+
+## Deutsches Resource Pack für Modern Companions
+
+**Modern Companions Deutsch 1.2** ergänzt die deutsche Sprachdatei für Modern Companions 4.60. Es übersetzt Begleiter, Klassen, Gegenstände, Waffen, Rüstungen, Tränke, Menüs, Berufe, Eigenschaften, Hintergrundgeschichten und weitere Spieltexte.
+
+| Resource Pack | Version | Minecraft | Download |
+|---|---:|---:|---|
+| **Modern Companions – Deutsche Übersetzung** | 1.2 | 1.21.1 | [ZIP herunterladen](../downloads/Modern_Companions_Deutsch_1.2_MC1.21.1.zip) |
+
+### Resource Pack installieren
+
+Dieses Paket ist ein **clientseitiges Resource Pack**. Anders als die oben aufgeführten Datapacks gehört es nicht in den Weltordner, sondern in den Resource-Pack-Ordner des jeweiligen Minecraft-Clients. Die ZIP-Datei bleibt unverändert und wird nicht entpackt.
+
+#### Einzelspieler
+
+1. Starte das Colony-RPG-Modpack mindestens einmal.
+2. Öffne den Minecraft-Ordner der verwendeten Installation.
+3. Öffne darin den Ordner `resourcepacks`. Bei einem normalen Minecraft-Profil liegt er unter `.minecraft/resourcepacks/`.
+4. Bei einem Modpack-Launcher muss die Datei in den Ordner `resourcepacks` **der Modpack-Instanz**. Verwende nicht versehentlich den Resource-Pack-Ordner einer anderen Minecraft-Installation.
+5. Kopiere `Modern_Companions_Deutsch_1.2_MC1.21.1.zip` unverändert hinein.
+6. Starte Minecraft oder öffne die Resource-Pack-Auswahl erneut.
+7. Aktiviere **Modern Companions – Deutsche Übersetzung 1.2** unter Optionen → Resource Packs.
+8. Stelle unter Optionen → Sprache **Deutsch (Deutschland)** ein.
+
+#### Mehrspieler
+
+Das Resource Pack muss nicht auf dem Server installiert werden. Jeder Spieler installiert die ZIP-Datei im eigenen Client-Ordner `resourcepacks` bzw. im Resource-Pack-Ordner seiner Modpack-Instanz und aktiviert sie dort. Die Übersetzung wird lokal auf dem jeweiligen Spieler angezeigt. Ein Server-Administrator kann das Pack optional über die Server-Resource-Pack-Funktion bereitstellen; das ist für die normale Nutzung nicht erforderlich.
+
+**Wichtig:** Dieses Paket ist kein Datapack. Lege es nicht in `world/datapacks` und nicht in den `mods`-Ordner. Es setzt voraus, dass Modern Companions auf dem Client installiert ist.
