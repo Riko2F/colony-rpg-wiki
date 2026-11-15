@@ -1,4 +1,4 @@
-# Kapitel 6 – Wirtschaft und Währung
+# Wirtschaft und Währung
 
 Auf Colony RPG gibt es ein eigenes Münzsystem. Du kannst Münzen als Beute finden, sie sicher aufbewahren und damit bei anderen Spielern einkaufen. Zusammen mit den Handelstischen aus Create entsteht so ein Handelssystem, bei dem Käufe automatisch mit Münzen bezahlt werden können.
 
