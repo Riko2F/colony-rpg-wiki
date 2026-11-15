@@ -6,35 +6,35 @@ Das RPG-System erweitert Colony RPG um acht spielbare Klassen. Jede Klasse bring
 
 <div class="crpg-class-grid">
   <figure class="crpg-class-card">
-    <img src="../assets/images/klassen/archer.png" alt="Archer – Klassenrüstung und Erscheinungsbild">
+    <a href="../rpg/klassen/archer.md"><img src="../assets/images/klassen/archer.png" alt="Archer – Klassenporträt; zur Detailseite Archer"></a>
     <figcaption><strong>Archer</strong></figcaption>
   </figure>
   <figure class="crpg-class-card">
-    <img src="../assets/images/klassen/paladin.png" alt="Paladin – Klassenrüstung und Erscheinungsbild">
+    <a href="../rpg/klassen/paladin.md"><img src="../assets/images/klassen/paladin.png" alt="Paladin – Klassenporträt; zur Detailseite Paladin"></a>
     <figcaption><strong>Paladin</strong></figcaption>
   </figure>
   <figure class="crpg-class-card">
-    <img src="../assets/images/klassen/priest.png" alt="Priest – Klassenrüstung und Erscheinungsbild">
+    <a href="../rpg/klassen/priest.md"><img src="../assets/images/klassen/priest.png" alt="Priest – Klassenporträt; zur Detailseite Priest"></a>
     <figcaption><strong>Priest</strong></figcaption>
   </figure>
   <figure class="crpg-class-card">
-    <img src="../assets/images/klassen/rogue.png" alt="Rogue – Klassenrüstung und Erscheinungsbild">
+    <a href="../rpg/klassen/rogue.md"><img src="../assets/images/klassen/rogue.png" alt="Rogue – Klassenporträt; zur Detailseite Rogue"></a>
     <figcaption><strong>Rogue</strong></figcaption>
   </figure>
   <figure class="crpg-class-card">
-    <img src="../assets/images/klassen/warrior.png" alt="Warrior – Klassenrüstung und Erscheinungsbild">
+    <a href="../rpg/klassen/warrior.md"><img src="../assets/images/klassen/warrior.png" alt="Warrior – Klassenporträt; zur Detailseite Warrior"></a>
     <figcaption><strong>Warrior</strong></figcaption>
   </figure>
   <figure class="crpg-class-card">
-    <img src="../assets/images/klassen/wizard.png" alt="Wizard – Klassenrüstung und Erscheinungsbild">
+    <a href="../rpg/klassen/wizard.md"><img src="../assets/images/klassen/wizard.png" alt="Wizard – Klassenporträt; zur Detailseite Wizard"></a>
     <figcaption><strong>Wizard</strong></figcaption>
   </figure>
   <figure class="crpg-class-card">
-    <img src="../assets/images/klassen/berserker.png" alt="Berserker – Klassenrüstung und Erscheinungsbild">
+    <a href="../rpg/klassen/berserker.md"><img src="../assets/images/klassen/berserker.png" alt="Berserker – Klassenporträt; zur Detailseite Berserker"></a>
     <figcaption><strong>Berserker</strong></figcaption>
   </figure>
   <figure class="crpg-class-card">
-    <img src="../assets/images/klassen/bard.png" alt="Bard – Klassenrüstung und Erscheinungsbild">
+    <a href="../rpg/klassen/bard.md"><img src="../assets/images/klassen/bard.png" alt="Bard – Klassenporträt; zur Detailseite Bard"></a>
     <figcaption><strong>Bard</strong></figcaption>
   </figure>
 </div>
