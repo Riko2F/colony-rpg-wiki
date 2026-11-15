@@ -6,9 +6,13 @@ Zusätzlich verwenden wir zwei Mods zur Weltgenerierung: **Geophilic** und **Wil
 
 ## MCA Reborn – Dörfer werden lebendig
 
-![Gespräch mit einer Bewohnerin in Minecraft Comes Alive Reborn](https://cdn.modrinth.com/data/1W98a849/images/3cfd812436d5dbf095ad31c6265564fbca24233a.png)
+![Interaktion mit einer Bewohnerin in MCA Reborn](https://cdn.modrinth.com/data/1W98a849/images/557fbb024af9ff96b7f2682b8bc8e5c193fc8667_350.webp)
 
-<small>Abbildung: Interaktion mit einer Bewohnerin und das MCA-Menü. Quelle: [MCA Reborn auf Modrinth](https://modrinth.com/mod/minecraft-comes-alive-reborn).</small>
+<small>Abbildung 1: Gesprächs- und Interaktionsmenü eines MCA-Bewohners. Bildquelle: [MCA-Reborn-Galerie auf Modrinth](https://modrinth.com/mod/minecraft-comes-alive-reborn/gallery).</small>
+
+![Dorfverwaltung in MCA Reborn](https://cdn.modrinth.com/data/1W98a849/images/95a80e9b8b44ba097482180ab471cbdac8138e37_350.webp)
+
+<small>Abbildung 2: Die Dorfübersicht mit Bewohner- und Gebäudeverwaltung. Bildquelle: [MCA-Reborn-Galerie auf Modrinth](https://modrinth.com/mod/minecraft-comes-alive-reborn/gallery).</small>
 
 **Minecraft Comes Alive Reborn (MCA Reborn)** stellt auf Colony RPG das Dorfbewohner-System vollständig. Vanilla-Dorfbewohner kommen in den Dörfern nicht zusätzlich vor. Stattdessen besitzen alle Bewohner Namen und individuelle Persönlichkeiten und können unterschiedliche Stimmungen zeigen.
 
@@ -43,9 +47,13 @@ Neben MCA Reborn sind auf Colony RPG zwei Mods zur Gestaltung der Oberwelt entha
 
 ### Geophilic – mehr natürliche Details
 
-![Waldlandschaft aus der Geophilic-Galerie](https://cdn.modrinth.com/data/hl5OLM95/images/4f3bbb5398b8735da7ae788aafdfc7a29db5d180_350.webp)
+![Offene Landschaft mit sanften Hügeln aus Geophilic](https://cdn.modrinth.com/data/hl5OLM95/images/87c4cf598a85443d1b2f6434f073148a1749374f_350.webp)
 
-<small>Abbildung: Beispiel aus der offiziellen Geophilic-Galerie. Quelle: [Geophilic auf Modrinth](https://modrinth.com/datapack/geophilic/gallery).</small>
+<small>Abbildung 3: Beispiel einer überarbeiteten Landschaft. Bildquelle: [Geophilic-Galerie auf Modrinth](https://modrinth.com/datapack/geophilic/gallery).</small>
+
+![Wald mit zusätzlichen Naturdetails aus Geophilic](https://cdn.modrinth.com/data/hl5OLM95/images/605043568323e11d5918750798bd0b79dd2412dc_350.webp)
+
+<small>Abbildung 4: Waldszene mit dichter Vegetation und zusätzlichen Details. Bildquelle: [Geophilic-Galerie auf Modrinth](https://modrinth.com/datapack/geophilic/gallery).</small>
 
 **Geophilic** überarbeitet die bekannten Vanilla-Biome auf dezente Weise. Die vertraute Minecraft-Landschaft bleibt erhalten, bekommt aber zusätzliche natürliche Details. Dazu gehören zum Beispiel umgestürzte Bäume, Lichtungen, Felsen, Baumstümpfe, Büsche und Moos.
 
@@ -53,9 +61,13 @@ Die Mod fügt laut Projektbeschreibung keine neuen Blöcke, Gegenstände oder Bi
 
 ### William Wythers' Overhauled Overworld – neu gestaltete Landschaften
 
-![Landschaft aus William Wythers' Overhauled Overworld](https://cdn.modrinth.com/data/II7t6llZ/images/93f1780cd766e787c267cacc4ab317ff62e985ff_350.webp)
+![Wald- und Sumpflandschaft aus William Wythers' Overhauled Overworld](https://cdn.modrinth.com/data/II7t6llZ/images/93f1780cd766e787c267cacc4ab317ff62e985ff_350.webp)
 
-<small>Abbildung: Landschaft aus der offiziellen Galerie von William Wythers' Overhauled Overworld. Quelle: [WWOO auf Modrinth](https://modrinth.com/mod/wwoo/gallery).</small>
+<small>Abbildung 5: Beispiel einer atmosphärisch überarbeiteten Landschaft. Bildquelle: [WWOO-Galerie auf Modrinth](https://modrinth.com/mod/wwoo/gallery).</small>
+
+![Berglandschaft und Dorf aus William Wythers' Overhauled Overworld](https://cdn.modrinth.com/data/II7t6llZ/images/1eca441e2a6e1d731ec81845e4f79e628c7ead83.webp)
+
+<small>Abbildung 6: Beispiel für die abwechslungsreicheren Landschaftsformen und Biome. Bildquelle: [WWOO-Galerie auf Modrinth](https://modrinth.com/mod/wwoo/gallery).</small>
 
 **William Wythers' Overhauled Overworld (WWOO)** gestaltet die Vanilla-Biome umfassender um. Die bekannten Biome erhalten abwechslungsreichere Landschaftsformen und unterschiedliche Unterbiome. Auch die Übergänge zwischen verschiedenen Biomen wirken dadurch natürlicher.
 
@@ -76,8 +88,11 @@ So entsteht eine Welt, die nicht nur abwechslungsreicher aussieht, sondern auch 
 ### MCA Reborn
 - [MCA Reborn – Modrinth](https://modrinth.com/mod/minecraft-comes-alive-reborn) – offizielle Modbeschreibung und Versionsübersicht.
 - [MCA Reborn – CurseForge](https://www.curseforge.com/minecraft/mc-mods/minecraft-comes-alive-reborn) – Modbeschreibung und Downloads.
-- [MCA Reborn – Community-Wiki](https://minecraft-comes-alive-reborn.fandom.com/wiki/Minecraft_Comes_Alive_Reborn_Wiki) – Informationen zu Spielmechaniken und Gegenständen.
+- [MCA Reborn – Galerie auf Modrinth](https://modrinth.com/mod/minecraft-comes-alive-reborn/gallery) – offizielle Screenshots zu Interaktionen, Dorfverwaltung und weiteren Funktionen.
+- [MCA Reborn – Community-Wiki: Villager](https://minecraft-comes-alive-reborn.fandom.com/wiki/Villager) – Informationen zu Persönlichkeiten, Beziehungen, Interaktionen und Familien.
 - [MCA Reborn – Entwickler-Wiki auf GitHub](https://github.com/Luke100000/minecraft-comes-alive/wiki) – technische Dokumentation und weiterführende Informationen.
+- [MCA Reborn – Modbeschreibung auf Modrinth](https://modrinth.com/mod/minecraft-comes-alive-reborn) – Überblick über die wichtigsten Funktionen.
+- [MCA Reborn – Modbeschreibung auf CurseForge](https://www.curseforge.com/minecraft/mc-mods/minecraft-comes-alive-reborn) – weitere Funktionsübersicht und Versionsinformationen.
 
 ### Weltgenerierung
 - [Geophilic – Modrinth](https://modrinth.com/datapack/geophilic) – Beschreibung der Biome-Überarbeitung.
