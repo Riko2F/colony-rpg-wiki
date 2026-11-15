@@ -1,0 +1,9 @@
+[project]
+site_name = "Colony RPG – Spieler-Wiki"
+site_description = "Das öffentliche Wiki für Colony RPG"
+site_author = "Colony RPG"
+docs_dir = "docs"
+site_dir = "site"
+
+[project.theme]
+features = ["navigation.sections", "navigation.top", "search.suggest", "search.highlight", "content.code.copy"]
