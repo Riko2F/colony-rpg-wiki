@@ -149,6 +149,7 @@ Die folgende Übersicht basiert auf der bereitgestellten Server-Modliste für Mi
 - [Easy Magic – CurseForge](https://www.curseforge.com/minecraft/mc-mods/easy-magic) – Zaubertisch, Verzauberungen und erneutes Auswürfeln.
 - [Easy Magic – Galerie](https://www.curseforge.com/minecraft/mc-mods/easy-magic/gallery) – Screenshots der Mod-Funktionen.
 - [Easy Piglins – Modrinth](https://modrinth.com/mod/easy-piglins) – Piglin-Aufnahme und automatisches Bartering.
+- [Easy Villagers – CurseForge](https://www.curseforge.com/minecraft/mc-mods/easy-villagers) – Modbeschreibung; die Funktionen beziehen sich auf normale Minecraft-Dorfbewohner.
 - [Lootr – Modrinth](https://modrinth.com/mod/lootr) – persönliche Beute in Behältern.
 - [JEI – Modrinth](https://modrinth.com/mod/jei) – Gegenstands- und Rezeptübersicht.
 - [JEI – CurseForge](https://www.curseforge.com/minecraft/mc-mods/jei) – Modbeschreibung und Bedienung.
