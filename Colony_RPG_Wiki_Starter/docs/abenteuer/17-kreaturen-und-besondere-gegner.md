@@ -60,10 +60,6 @@ Die Raidgruppen versuchen, in die Kolonie zu gelangen und greifen Wachen sowie B
 
 Verlasse dich deshalb nicht nur auf Mauern oder Fallen. Eine gut ausgerüstete Verteidigung mit Wachen, Türmen und einer sinnvollen Aufstellung ist entscheidend. Besonders bei mehreren Angriffswellen solltest du darauf achten, dass keine einzelne Seite deiner Kolonie ungeschützt bleibt.
 
-![MineColonies-Barracks mit Anzeige der Barbarenposition und Spionageoption](https://minecolonies.com/_astro/main.COFhq_6n_736qn.webp)
-
-<small>Abbildung: Oberfläche der Kaserne mit Barbarenposition und Spionageoption. Quelle: [offizielles MineColonies-Wiki – Barracks](https://minecolonies.com/wiki/buildings/barracks/).</small>
-
 Eine Kaserne ab Stufe 3 ermöglicht es, Spione anzuheuern. Sie können Angreifer sichtbar markieren und helfen, einzelne feststeckende oder versteckte Gegner aufzuspüren. Nach dem Sieg kehren die Bürger zu ihrer Arbeit zurück. Werden Bürger getötet, kann ihre Familie trauern und an diesem Tag nicht arbeiten.
 
 ### Beute aus Raids
