@@ -6,6 +6,10 @@ Alle drei Projekte richten sich an **Minecraft 1.21.1 mit NeoForge** und erweite
 
 ## Runesmith – Ausrüstung der Kolonie verzaubern
 
+![Das Gebäude Crystal Heart aus Runesmith](https://media.forgecdn.net/attachments/2005/929/preview-webp.webp)
+
+<small>Das Crystal-Heart-Gebäude auf Stufe 5. Bildquelle: [offizielle Runesmith-Galerie auf CurseForge](https://www.curseforge.com/minecraft/mc-mods/runesmith-enchanted-equipment-for-minecolonies).</small>
+
 [Runesmith auf CurseForge](https://www.curseforge.com/minecraft/mc-mods/runesmith-enchanted-equipment-for-minecolonies) · [Quellcode auf GitHub](https://github.com/Lovkar-Squid/runesmith)
 
 Runesmith ergänzt MineColonies um ein neues Gebäude und den Beruf des **Runenschmieds**. Er verwendet verzauberte Bücher aus dem Vorrat der Kolonie, um Rüstungen, Waffen und Werkzeuge zu verzaubern. Dabei orientiert sich die Mod an den Regeln des Vanilla-Ambosses.
@@ -18,6 +22,10 @@ Für das Gebäude gibt es drei Bauvarianten: **Forge Hall**, **Rune Tower** und 
 
 ## Colonist Thieves – Diebe und Überfälle
 
+![Das Auftragsbrett im Versteck der Diebe](https://media.forgecdn.net/attachments/1945/660/1-hideout-board-jpg.jpg)
+
+<small>Das Auftragsbrett im Hideout zeigt laufende und geplante Diebesaufträge. Bildquelle: [offizielle Colonist-Thieves-Galerie auf CurseForge](https://www.curseforge.com/minecraft/mc-mods/colonist-thieves-heists-for-minecolonies/gallery).</small>
+
 [Colonist Thieves auf CurseForge](https://www.curseforge.com/minecraft/mc-mods/colonist-thieves-heists-for-minecolonies) · [Quellcode auf GitHub](https://github.com/Lovkar-Squid/colonist-thieves)
 
 Colonist Thieves ergänzt MineColonies um den Beruf des **Diebes**. Dafür wird ein Versteck (Hideout) gebaut und ein Dieb eingestellt. Mit einer hergestellten Markierung kann ein mögliches Ziel ausgewählt werden – beispielsweise ein Barbarendorf, ein normales Dorf, ein Tempel, ein Königreich aus The Waking World oder, wenn es auf dem Server erlaubt ist, eine andere Spielerkolonie.
@@ -29,6 +37,10 @@ Die Mod bietet außerdem Möglichkeiten zum Auskundschaften und Sabotieren von Z
 <small>Geprüfte Projektversion: 0.1.1 (Beta). Die Mod befindet sich in der Beta.</small>
 
 ## Colonies at War – Mauern, Verteidigung und Kriegszüge
+
+![Eine mit dem Wall Planner geplante und von der Kolonie gebaute Befestigung](https://media.forgecdn.net/attachments/1945/664/1-wall-ring-aerial-jpg.jpg)
+
+<small>Eine geschlossene Befestigung, die mit dem Wall Planner angelegt wurde. Bildquelle: [offizielle Colonies-at-War-Galerie auf CurseForge](https://www.curseforge.com/minecraft/mc-mods/colonies-at-war-walls-and-warfare-for-minecolonies).</small>
 
 [Colonies at War auf CurseForge](https://www.curseforge.com/minecraft/mc-mods/colonies-at-war-walls-and-warfare-for-minecolonies) · [Quellcode auf GitHub](https://github.com/Lovkar-Squid/colonies-at-war)
 
@@ -54,4 +66,4 @@ Die Mod ergänzt außerdem Beziehungen zwischen Kolonien. Dazu gehören Kriegs­
 
 Die Versionsangaben beziehen sich auf die für Colony RPG geprüften Dateien. Sie sind keine Zusage, dass genau diese Versionen später aktiviert werden. Vor einer möglichen Aufnahme werden Kompatibilität, Spielbalance und Zusammenspiel mit den übrigen Mods geprüft.
 
-<small>Die Beschreibungen fassen die offiziellen Projekt- und Modbeschreibungen zusammen. Alle drei Erweiterungen sind zum Zeitpunkt dieses Wiki-Eintrags noch nicht Teil der aktiven Spielinhalte.</small>
+<small>Die Beschreibungen fassen die offiziellen Projekt- und Modbeschreibungen zusammen. Die Screenshots stammen aus den offiziellen CurseForge-Galerien der jeweiligen Modprojekte. Alle drei Erweiterungen sind zum Zeitpunkt dieses Wiki-Eintrags noch nicht Teil der aktiven Spielinhalte.</small>
