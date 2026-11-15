@@ -1,73 +1,52 @@
-# Die Welt und das Leben auf Colony RPG
+# Die Welt und ihre Bewohner
 
-Die ersten Sonnenstrahlen fallen über die Berge. Vor dir liegen Wälder, Flüsse, weite Ebenen und geheimnisvolle Orte, die noch niemand aus deiner Gruppe erkundet hat. Vielleicht entdeckst du in der Ferne ein Dorf. Vielleicht findest du einen Platz, an dem eines Tages deine eigene Kolonie stehen wird. Und vielleicht führt ein unscheinbarer Weg später zu einem Abenteuer, von dem du noch lange erzählen wirst.
+Auf Colony RPG beginnt dein Abenteuer in einer vertrauten, aber neu gestalteten Oberwelt. Wälder, Ebenen, Berge und andere Landschaften sehen abwechslungsreicher aus als im unveränderten Minecraft. Dafür sorgen zwei World-Generation-Erweiterungen, die gemeinsam in unserer Mod-Auswahl enthalten sind: **Geophilic** und **William Wythers' Overhauled Overworld**.
 
-Auf **Colony RPG** ist die Welt mehr als eine Kulisse. Sie ist der Ort, an dem du deine Heimat aufbaust, Menschen begegnest, Nahrung und Rohstoffe sammelst, neue Wege erschließt und immer wieder auf Entdeckungsreise gehst.
+Doch nicht nur die Landschaft erhält mehr Leben. Auch die Dörfer und ihre Bewohner bekommen durch **Minecraft Comes Alive Reborn (MCA Reborn)** eine ganz neue Rolle.
 
-## Eine Welt, die entdeckt werden will
+## Eine abwechslungsreichere Oberwelt
 
-Schon beim Erkunden zeigt sich, wie abwechslungsreich deine Umgebung sein kann. Unterschiedliche Landschaften und Biome bieten eigene Eindrücke und Herausforderungen: Wälder und Ebenen laden zum Siedeln ein, Gebirge und Höhlen bergen Rohstoffe, während abgelegene Regionen und fremde Orte neugierig auf mehr machen.
+### Geophilic
 
-Nimm dir Zeit, die Umgebung kennenzulernen, bevor du dich für einen dauerhaften Standort entscheidest. Achte auf ausreichend Platz für Gebäude und Felder, erreichbare Rohstoffe, Wasser und mögliche Wege in die umliegende Landschaft. Eine schöne Aussicht ist ein guter Anfang – für eine wachsende Siedlung zählen aber auch praktische Dinge.
+**Geophilic** überarbeitet die bekannten Biome der Oberwelt auf eher dezente Weise. Die Landschaften erhalten zusätzliche natürliche Details und wirken dadurch abwechslungsreicher, ohne dass dafür eine große Sammlung völlig neuer Biome oder eigener Blöcke eingeführt werden muss.
 
-Auf deinen Reisen kannst du außerdem Dörfer, Strukturen und besondere Orte entdecken. Manche sind nützliche Zwischenstopps, andere führen dich zu neuen Bewohnern, Gegenständen oder Abenteuern.
+Die Idee dahinter: Die vertraute Minecraft-Welt soll erkennbar bleiben, aber natürlicher und lebendiger wirken. Kleine Veränderungen in der Gestaltung sorgen dafür, dass Wälder, Ebenen und andere Landschaften mehr Charakter bekommen.
 
-## Begegnungen unterwegs – Dörfer, Bewohner und NPCs
+### William Wythers' Overhauled Overworld
 
-In der Welt triffst du auf verschiedene Bewohner. Die bekannten Minecraft-Dorfbewohner bieten Handel und machen Dörfer zu lebendigen Orten. Weitere Mods erweitern die Möglichkeiten, Menschen und NPCs in der Welt zu begegnen.
+**William Wythers' Overhauled Overworld (WWOO)** geht bei der Überarbeitung der Oberwelt noch einen Schritt weiter. Die vorhandenen Vanilla-Biome werden umfassend neu gestaltet und durch unterschiedliche Unterbiome abwechslungsreicher aufgebaut. Auch die Übergänge zwischen den Landschaften sollen natürlicher wirken.
 
-**Minecraft Comes Alive (MCA)** erweitert das Dorfleben um eigene Bewohner und soziale Interaktionen. Dadurch können Begegnungen persönlicher wirken als der gewohnte Handel mit einem Vanilla-Dorfbewohner. Welche Interaktionen und Möglichkeiten dir offenstehen, entdeckst du am besten direkt im Spiel über die jeweiligen NPC-Menüs.
+Zusammen sorgen **Geophilic** und **WWOO** dafür, dass Erkundungstouren durch die Oberwelt immer wieder neue Landschaftseindrücke bieten. Beide Mods sind Bestandteil der Colony-RPG-Modliste für Minecraft 1.21.1 mit NeoForge.
 
-Davon zu unterscheiden sind die Bürger deiner MineColonies-Siedlung: Sie sind Teil deiner Kolonie, benötigen Arbeitsplätze und Wohnraum und übernehmen dort festgelegte Aufgaben. Mehr über ihre Berufe und die Entwicklung deiner Stadt erfährst du in [MineColonies – Kolonien aufbauen und entwickeln](../grundlagen/03-minecolonies.md) sowie im ausführlichen [MineColonies-Kapitel](12-minecolonies.md).
+Weitere Informationen findest du auf den offiziellen Projektseiten:
 
-## Nahrung, Felder und Versorgung
+- [Geophilic – Modrinth](https://modrinth.com/datapack/geophilic)
+- [William Wythers' Overhauled Overworld – Modrinth](https://modrinth.com/mod/wwoo)
 
-Eine Reise macht hungrig – und eine wachsende Siedlung braucht erst recht eine zuverlässige Versorgung. Nahrung ist nicht nur für dich wichtig, sondern auch für das tägliche Leben deiner Kolonie.
+## MCA Reborn – Dörfer werden lebendig
 
-Lege Felder an, sammle Saatgut und baue unterschiedliche Pflanzen an. Tiere und weitere Nahrungsquellen können deine Vorräte ergänzen. Plane deine Versorgung so, dass du sowohl für längere Erkundungstouren als auch für den Alltag genügend Essen zur Verfügung hast.
+Mit **Minecraft Comes Alive Reborn (MCA Reborn)** verändert sich der Umgang mit Dorfbewohnern. Statt ausschließlich auf Handel und einfache Standard-Interaktionen beschränkt zu sein, werden die Bewohner zu individuelleren NPCs, mit denen du dich beschäftigen und Beziehungen aufbauen kannst.
 
-In MineColonies übernehmen unter anderem Farmer und weitere Versorgungsberufe Aufgaben rund um Lebensmittel. Sie benötigen dafür passende Gebäude, Arbeitsmaterialien und eine funktionierende Versorgung. Mit zunehmender Größe deiner Kolonie wird es immer wichtiger, Produktion, Lagerung und Transport aufeinander abzustimmen.
+Die Bewohner besitzen eigene Persönlichkeiten, Eigenschaften und Stimmungen. Du kannst mit ihnen sprechen, ihnen Geschenke machen und sie dadurch näher kennenlernen. Je nachdem, wie sich eine Beziehung entwickelt, sind Freundschaften und sogar eine Heirat möglich. Aus einer Ehe kann eine Familie mit Kindern entstehen, die heranwachsen und Teil des Dorflebens werden.
 
-Auch hier hilft dir Create: Mit mechanischen Anlagen kannst du Produktions- und Transportabläufe gestalten und wiederkehrende Arbeitsschritte automatisieren. Die Technik ersetzt nicht die Anforderungen deiner Bürger, kann dich aber bei der Bereitstellung und Verarbeitung von Materialien unterstützen. Die Grundlagen findest du im Kapitel [Create – Technik und Automatisierung](../grundlagen/02-create.md).
+MCA Reborn bietet außerdem Funktionen, mit denen sich Dörfer weiterentwickeln und verwalten lassen. Dadurch können Dörfer mehr sein als ein kurzer Zwischenstopp auf deiner Reise: Du kannst ihre Bewohner kennenlernen und ihre Entwicklung miterleben.
 
-## Dein Zuhause wächst – die Kolonie
+Auf Colony RPG ist **MCA Reborn 7.7.36-beta.3** für Minecraft 1.21.1 installiert. Zusätzlich befindet sich die Erweiterung **MCA: Female Gender** in der Modliste. Welche Funktionen und Interaktionen im Detail verfügbar sind, richtet sich nach der installierten Version und den Servereinstellungen.
 
-Vielleicht beginnt alles mit einem kleinen Lager und einer einfachen Hütte. Mit MineColonies kann daraus nach und nach eine richtige Siedlung werden. Du bestimmst den Standort, planst die Gebäude und entscheidest, welche Berufe du zuerst benötigst.
+### MCA-Bewohner sind keine MineColonies-Bürger
 
-Deine Bürger bauen, sammeln Rohstoffe, stellen Gegenstände her, transportieren Waren und schützen die Siedlung. Damit aus einzelnen Gebäuden eine funktionierende Kolonie wird, müssen Wohnraum, Nahrung, Arbeitsplätze und Lagerlogistik zusammenpassen.
+Wichtig ist die Unterscheidung zwischen den Bewohnern aus MCA Reborn und den Bürgern deiner MineColonies-Kolonie:
 
-Wenn du deine Stadt weiterentwickelst, kannst du Create in die Versorgung einbinden und technische Anlagen direkt in deine Bauplanung integrieren. So entsteht deine ganz eigene Mischung aus mittelalterlichem Dorfleben und mechanischer Technik.
+- **MCA-Bewohner** gehören zu den Dörfern der Welt. Du kannst mit ihnen interagieren, Beziehungen aufbauen und Familien gründen.
+- **MineColonies-Bürger** gehören zu deiner eigenen Kolonie. Sie benötigen Wohnraum und Arbeitsplätze und übernehmen feste Berufe und Aufgaben.
 
-Den Einstieg in die Koloniegründung erklärt [Kapitel 3 – MineColonies](../grundlagen/03-minecolonies.md). Dort findest du auch die ersten Schritte mit Supply Camp, Rathaus und Baumeister.
+Beide Systeme ergänzen sich, erfüllen aber unterschiedliche Aufgaben. Wie du deine eigene Siedlung gründest und ihre Bürger beschäftigst, erfährst du im Kapitel [MineColonies – Kolonien aufbauen und entwickeln](../grundlagen/03-minecolonies.md).
 
-## Auf Reisen – Karten, Wegsteine und Ausrüstung
+## Quellen und Versionshinweise
 
-Nicht jeder interessante Ort liegt direkt vor deiner Haustür. Für längere Erkundungen lohnt es sich, vorbereitet aufzubrechen: Nimm Nahrung, Werkzeug, Waffen und genügend Platz für deine Funde mit.
+- [Geophilic – offizielle Modseite auf Modrinth](https://modrinth.com/datapack/geophilic)
+- [William Wythers' Overhauled Overworld – offizielle Modseite auf Modrinth](https://modrinth.com/mod/wwoo)
+- [MCA Reborn – offizielle Modseite auf Modrinth](https://modrinth.com/mod/minecraft-comes-alive-reborn)
+- [MCA Reborn – CurseForge](https://www.curseforge.com/minecraft/mc-mods/minecraft-comes-alive-reborn)
 
-**Waystones** machen bereits entdeckte Orte leichter erreichbar. Aktiviere Wegsteine, denen du unterwegs begegnest, und benenne wichtige Ziele so, dass du sie später wiedererkennst. Mit Warp Stone und Schriftrollen kannst du je nach Gegenstand auch unterwegs zu einem bekannten Wegstein zurückkehren. Die Funktionen und Hinweise zu den Reisekosten findest du in [Waystones – Reisen und Teleportation](../systeme/13-waystones.md).
-
-Eine Karte hilft dir, die Orientierung zu behalten und interessante Plätze wiederzufinden. Auf Colony RPG gehören außerdem Komfort- und Ausrüstungs-Erweiterungen zum Spielerlebnis: Rucksäcke bieten zusätzlichen Stauraum, ein zusätzlicher Elytra-Ausrüstungsplatz erleichtert die Kombination mit deiner normalen Ausrüstung, und ein Flight Ring kann dir eine weitere Möglichkeit zur Fortbewegung eröffnen. Die genaue Bedienung und mögliche Einschränkungen richten sich nach dem jeweiligen Gegenstand und den Servereinstellungen.
-
-**Tipp für unterwegs:** Sortiere deinen Rucksack vor einer Expedition, aktiviere gefundene Wegsteine und notiere dir wichtige Orte auf deiner Karte. So wird aus einer spontanen Wanderung eine gut geplante Entdeckungsreise.
-
-## Gemeinsam unterwegs
-
-Colony RPG ist auch eine Welt, die du mit anderen Spielern erleben kannst. Gemeinsam lässt sich eine Kolonie aufbauen, eine Reise planen oder ein schwieriger Gegner angehen. Sprecht euch vor größeren Expeditionen ab und stimmt eure Ausrüstung und Rollen aufeinander ab.
-
-Bei Schatzsuchen und Dungeon-Ausflügen sorgt **Lootr** dafür, dass Beutecontainer für Spieler individuell behandelt werden können. So kann gemeinsames Erkunden möglich sein, ohne dass ein einzelner Spieler automatisch die gesamte Truhenbeute für sich beansprucht. Die konkrete Beute hängt weiterhin vom jeweiligen Dungeon und seinen Loot-Tabellen ab.
-
-Für Bosskämpfe ist außerdem **Multiplayer Bosses** Teil des Spielerlebnisses. Die Erweiterung ist auf gemeinsame Bossbegegnungen ausgerichtet. Welche Bosse davon betroffen sind und wie sich das Verhalten im Einzelnen auswirkt, hängt von der jeweiligen Mod-Unterstützung ab. Eine Übersicht über die großen Herausforderungen findest du in [Dungeons und Bosse](../abenteuer/05-dungeons-und-bosse.md).
-
-## Was dich noch erwartet
-
-Die Welt auf Colony RPG verbindet Erkundung, Aufbau und Abenteuer. Du kannst dir ein Zuhause schaffen, eine Kolonie wachsen lassen, technische Abläufe entwickeln, neue Orte entdecken und gemeinsam mit anderen Spielern Herausforderungen bestehen.
-
-Wenn du unterwegs stärker wirst, öffnen sich weitere Möglichkeiten: Wähle eine RPG-Klasse, verbessere deine Ausrüstung, entdecke Runen und Relikte und wage dich schließlich in Dungeons und zu mächtigen Bossen.
-
-- [RPG-System und Klassen](../grundlagen/04-rpg-system.md)
-- [Runen, Zauber und Magie](../systeme/11-runen-zauber-magie.md)
-- [Relikte, Schmuck und besondere Ausrüstung](../systeme/16-relikte-schmuck-ausruestung.md)
-- [Begleiter und Gefährten](../abenteuer/15-begleiter.md)
-- [Dungeons und Bosse](../abenteuer/05-dungeons-und-bosse.md)
-
-<small>Versionshinweis: Colony RPG basiert auf Minecraft 1.21.1 mit NeoForge. Die beschriebenen Möglichkeiten richten sich nach den installierten Mods und den Servereinstellungen. Einzelne Funktionen und Gegenstände können sich mit späteren Mod- oder Serverupdates ändern.</small>
+<small>Versionsstand der Colony-RPG-Modliste: Minecraft 1.21.1 mit NeoForge. Genannte Serverversionen entsprechen der bereitgestellten Modliste. Funktionen können sich je nach Modversion und Serverkonfiguration unterscheiden.</small>
