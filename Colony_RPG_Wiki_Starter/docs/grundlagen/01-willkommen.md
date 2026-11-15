@@ -22,7 +22,7 @@ Ein wichtiger Bestandteil von Colony RPG ist der Aufbau eigener Siedlungen. Mine
 
 Bei der Gestaltung bist du nicht auf einen einzigen Baustil festgelegt. Du kannst unterschiedliche Baustile und architektonische Ideen miteinander kombinieren und deiner Siedlung einen eigenen Charakter geben.
 
-Mehr dazu findest du unter [MineColonies – Kolonie und Stadtentwicklung](03-minecolonies.md) sowie im ausführlichen Kapitel [MineColonies](../kolonie/12-minecolonies.md).
+Mehr dazu findest du unter [MineColonies – Kolonien aufbauen und entwickeln](03-minecolonies.md).
 
 ## Technik und Automatisierung
 
@@ -51,7 +51,7 @@ Neben der Charakterentwicklung lädt die Welt zum Erkunden ein: Dungeons, besond
 
 Auf dem Server gibt es ein eigenes Münzsystem. Die Münzen besitzen verschiedene Wertstufen und können gesammelt, aufbewahrt und zum Bezahlen verwendet werden. Zur Aufbewahrung gehören eine Geldbörse und ein persönlicher Tresor. Zusätzlich gibt es eine Karte, die mit dem Tresor verbunden werden kann.
 
-Auch Shops und die Handelsmöglichkeiten mit Create sind Teil der Serverwirtschaft. Die genauen Münzwerte und die Funktionen von Geldbörse, Tresor und Karte werden im Kapitel [Währung und Shops](../systeme/07-waehrung-und-shops.md) erklärt.
+Auch Shops und die Handelsmöglichkeiten mit Create sind Teil der Serverwirtschaft. Die genauen Münzwerte und die Funktionen von Geldbörse, Tresor und Karte werden im Kapitel [Wirtschaft und Währung](../systeme/06-wirtschaft-und-waehrung.md) erklärt.
 
 ## Orientierung im Wiki
 
