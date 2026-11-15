@@ -162,4 +162,3 @@ Die allgemeinen Mod-Funktionen und Zugangsschritte wurden mit den offiziellen Mo
 - L_Ender's Cataclysm 3.33 für Minecraft 1.21.1
 - Cataclysm Expeditions 2.0.0 für Minecraft 1.21.1 / NeoForge
 
-[Zurück zur Abenteuer-Übersicht](./05-dungeons-und-bosse.md)
