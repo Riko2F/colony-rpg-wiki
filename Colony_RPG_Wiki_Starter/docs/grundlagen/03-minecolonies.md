@@ -60,7 +60,7 @@ Auf Colony RPG ist eine gemischte Bauweise möglich: Mittelalterliche Gebäude k
 
 ### Gebäude und Baustile vorab ansehen
 
-Du möchtest dir erst einmal ansehen, wie die verschiedenen MineColonies-Gebäude aussehen, bevor du einen Baustil auswählst? Im [MineColonies Style Explorer](https://tomp2.github.io/minecolonies-style-explorer/?theme=all) kannst du die Gebäude und die offiziellen Baustile durchstöbern. So bekommst du einen Eindruck davon, welche Varianten es gibt und wie die einzelnen Gebäude gestaltet sind. Die Auswahl im Explorer ist eine Vorschau – welche Baustile du tatsächlich im Spiel verwenden kannst, richtet sich nach den auf Colony RPG installierten Style-Paketen.
+Du möchtest dir erst einmal ansehen, wie die verschiedenen MineColonies-Gebäude aussehen, bevor du einen Baustil auswählst? Im [MineColonies Style Explorer](https://tomp2.github.io/minecolonies-style-explorer/) kannst du die Gebäude und alle offiziellen MineColonies-Baustile durchstöbern. So bekommst du einen Eindruck davon, welche Varianten es gibt und wie die einzelnen Gebäude gestaltet sind. **Auf Colony RPG sind alle offiziellen Baustile aus dem Explorer installiert.** Du kannst die dort gezeigten Stile also auch für deine Kolonie verwenden.
 
 ## Weitere Entwicklung
 
