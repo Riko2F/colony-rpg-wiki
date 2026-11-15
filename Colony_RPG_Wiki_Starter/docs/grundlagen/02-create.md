@@ -18,6 +18,22 @@ Typische Bestandteile sind:
 
 Viele dieser Systeme können auf unterschiedliche Arten aufgebaut werden. Es gibt daher nicht nur eine einzige richtige Bauweise.
 
+![Ein Wasserrad wird durch fließendes Wasser angetrieben und gibt die Drehbewegung an eine Welle weiter.](https://create-france.com/wiki-media/roue-a-eau/water_wheel_courant.webp?v=2026-10-27)
+
+<small>Beispiel für einen Create-Antrieb: Ein Wasserrad nutzt fließendes Wasser, um mechanische Bewegung zu erzeugen. Illustration: [Create France – Wasserrad](https://create-france.com/en/wiki/water-wheel).</small>
+
+## Maschinen und Automatisierung
+
+Die erzeugte Drehbewegung kann an Maschinen weitergegeben werden. Eine mechanische Presse verarbeitet beispielsweise Gegenstände, die auf einem Depot oder einem Förderband unter ihr liegen. Mit Förderbändern und Trichtern lässt sich daraus eine automatische Produktionslinie aufbauen.
+
+![Eine mechanische Presse verarbeitet einen Gegenstand auf einem Depot.](https://www.create-france.com/wiki-media/presse-mecanique/mechanical_press_alimenter.webp?v=2026-10-27)
+
+<small>Eine mechanische Presse mit Depot. Illustration: [Create France – Mechanical Press](https://www.create-france.com/en/wiki/mechanical-press).</small>
+
+![Eine mechanische Presse verarbeitet Gegenstände auf einem Förderband.](https://www.create-france.com/wiki-media/presse-mecanique/mechanical_press_tapis.webp?v=2026-10-27)
+
+<small>Mit einem Förderband können Gegenstände automatisch zur Presse transportiert werden. Illustration: [Create France – Mechanical Press](https://www.create-france.com/en/wiki/mechanical-press).</small>
+
 ## Lernen direkt im Spiel
 
 Create besitzt mit **Ponder** eine visuelle Anleitung im Spiel. Damit lassen sich viele Bauteile und ihre Funktionsweise anhand kleiner Demonstrationen kennenlernen.
@@ -45,5 +61,6 @@ Die folgenden Quellen erklären die allgemeinen Funktionen von Create und die be
 - [Create-Wiki – Version 6.0.10](https://wiki.createmod.net/users/changelogs/6.0.10) – Änderungen und Hinweise zur verwendeten Create-Version.
 - [Create auf CurseForge](https://www.curseforge.com/minecraft/mc-mods/create) – Mod-Beschreibung und grundlegende Funktionsübersicht.
 - [Create: MineColonies Link auf CurseForge](https://www.curseforge.com/minecraft/mc-mods/create-minecolonies) – Beschreibung der Verbindung zwischen MineColonies-Anforderungen und dem Create-Logistiknetzwerk.
+- [Create France – Wasserrad](https://create-france.com/en/wiki/water-wheel) und [mechanische Presse](https://www.create-france.com/en/wiki/mechanical-press) – zusätzliche Erklärungen und Illustrationen. Die Abbildungen stammen aus Ponder-Szenen; Create France ist nicht das Entwicklerteam der Create-Mod.
 
 <small>Versionsstand des Wiki-Artikels: Minecraft 1.21.1, NeoForge, Create 6.0.10. Servereigene Angaben beziehen sich auf die für Colony RPG dokumentierte Mod-Auswahl und sollten bei Änderungen der Mod-Version erneut geprüft werden.</small>
