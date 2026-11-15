@@ -18,7 +18,7 @@ Du bist neu auf dem Server? Diese Checkliste hilft dir dabei, die wichtigsten er
 - [ ] Eine [RPG-Klasse](grundlagen/04-rpg-system.md) auswählen.
 - [ ] Das passende Klassenbuch am Zauberbindetisch besorgen.
 - [ ] Die ersten Klassenfähigkeiten erlernen. Mehr dazu findest du unter [Runen, Zauber und Magie](systeme/11-runen-zauber-magie.md).
-- [ ] Einen Platz für dein eigenes Zuhause finden und einrichten und mit [MineColonies](kolonie/12-minecolonies.md) deine eigene Kolonie gründen.
+- [ ] Einen Platz für dein eigenes Zuhause finden und einrichten und mit [MineColonies](grundlagen/03-minecolonies.md) deine eigene Kolonie gründen.
 - [ ] Erste Waffen, Rüstungen und Vorräte beschaffen.
 - [ ] Das [Münzsystem](systeme/06-wirtschaft-und-waehrung.md) kennenlernen und dein Geld sicher im Tresor aufbewahren.
 - [ ] Erste [Aufträge am Auftragsbrett](systeme/14-quests-und-auftraege.md) erledigen.
@@ -28,7 +28,7 @@ Du bist neu auf dem Server? Diese Checkliste hilft dir dabei, die wichtigsten er
 ## Entdecke die Welt
 
 <div class="crpg-card-grid">
-  <a class="crpg-card" href="kolonie/12-minecolonies/">
+  <a class="crpg-card" href="grundlagen/03-minecolonies/">
     <span class="crpg-card__icon">🏰</span>
     <strong>Kolonieaufbau mit MineColonies</strong>
     <span>Errichte eine Siedlung, entwickle sie weiter und entdecke die Möglichkeiten des Kolonie-Systems.</span>
@@ -72,12 +72,6 @@ Du bist neu auf dem Server? Diese Checkliste hilft dir dabei, die wichtigsten er
 - [Begleiter](abenteuer/15-begleiter.md)
 - [Relikte, Schmuck und besondere Ausrüstung](systeme/16-relikte-schmuck-ausruestung.md)
 - [Waystones und Teleportation](systeme/13-waystones.md)
-- [Weltgenerierung und Landschaften](kolonie/18-weltgenerierung-und-landschaften.md)
-- [Dorfbewohner und NPCs](kolonie/19-dorfbewohner-und-npcs.md)
-- [Landwirtschaft, Nahrung und Versorgung](kolonie/20-landwirtschaft-nahrung-versorgung.md)
-- [Reisen, Navigation und Ausrüstung](systeme/21-reisen-navigation-ausruestung.md)
-- [Komfort- und Hilfsmods](systeme/22-komfort-und-hilfsmods.md)
-- [Kommunikation und Mehrspielerfunktionen](systeme/23-kommunikation-mehrspieler.md)
 
 ---
 
