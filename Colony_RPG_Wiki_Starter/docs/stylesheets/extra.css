@@ -107,3 +107,56 @@
   object-fit: cover;
   object-position: center 48%;
 }
+
+
+/* Anklickbare Themen-Kacheln auf der Startseite */
+.crpg-card-grid {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  gap: 1rem;
+  margin: 1.25rem 0 2rem;
+}
+.crpg-card {
+  display: flex;
+  flex-direction: column;
+  gap: 0.65rem;
+  min-height: 12rem;
+  padding: 1.2rem;
+  border: 1px solid #A17A5070;
+  border-radius: 0.85rem;
+  color: inherit !important;
+  text-decoration: none !important;
+  background: var(--md-default-bg-color);
+  box-shadow: 0 0.25rem 0.9rem #211E2510;
+  transition: transform 140ms ease, border-color 140ms ease, box-shadow 140ms ease;
+}
+.crpg-card:hover {
+  transform: translateY(-3px);
+  border-color: #76549A;
+  box-shadow: 0 0.5rem 1.2rem #211E2520;
+}
+.crpg-card__icon {
+  font-size: 1.8rem;
+  line-height: 1.2;
+}
+.crpg-card strong {
+  color: var(--md-typeset-a-color);
+  font-size: 1.05rem;
+}
+.crpg-card span:not(.crpg-card__icon) {
+  font-size: 0.88rem;
+  line-height: 1.5;
+}
+.crpg-card em {
+  margin-top: auto;
+  color: var(--md-accent-fg-color);
+  font-size: 0.85rem;
+  font-style: normal;
+  font-weight: 700;
+}
+@media (max-width: 900px) {
+  .crpg-card-grid { grid-template-columns: repeat(2, minmax(0, 1fr)); }
+}
+@media (max-width: 560px) {
+  .crpg-card-grid { grid-template-columns: 1fr; }
+}
