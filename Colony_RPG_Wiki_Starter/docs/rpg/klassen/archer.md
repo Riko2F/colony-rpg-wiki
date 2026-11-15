@@ -25,6 +25,12 @@ Die Fertigkeiten werden über das **Bogenschützen-Handbuch** und die zugehörig
 
 Der Archer ist mäßig gepanzert und auf Fernkampfwaffen ausgelegt. Bögen bilden den Kern seiner Ausrüstung. Weitere klassenspezifische Ausrüstung ergänzt diesen Schwerpunkt.
 
+Die Modbeschreibung bestätigt, dass die Bogenschützen-Fähigkeiten mit **Bögen und Armbrüsten** verwendet werden können. Das gilt auch für entsprechende Waffen aus anderen Mods. Du bist also nicht ausschließlich auf Vanilla-Waffen beschränkt.
+
+## Fähigkeiten einsetzen
+
+Das **Bogenschützen-Handbuch** erhältst du über den Zauberbindetisch. Dort kannst du die Bogenschützen-Fähigkeiten freischalten. Für die Verwendung der Fähigkeiten brauchst du eine passende Fernkampfwaffe in der Hand. Achte außerdem darauf, genügend Pfeile dabeizuhaben, denn bestimmte Fähigkeiten verwenden Pfeile als Munition.
+
 ## Stärken und Grenzen
 
 **Stärken:** Hoher Schaden auf Distanz, gute Beweglichkeit und Fertigkeiten zur Kontrolle von Gegnern sowie zum Angriff auf Gruppen.
@@ -37,3 +43,5 @@ Der Archer ist mäßig gepanzert und auf Fernkampfwaffen ausgelegt. Bögen bilde
 - Installierte Serverdatei: Archers 3.1.3 für Minecraft 1.21.1 / NeoForge
 
 [Zurück zur RPG-Übersicht](../../grundlagen/04-rpg-system.md)
+
+---
