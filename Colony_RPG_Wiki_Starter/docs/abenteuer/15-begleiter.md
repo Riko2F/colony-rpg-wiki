@@ -1,6 +1,8 @@
 # Begleiter und Gefährten
 
-Nicht jedes Abenteuer musst du allein bestreiten. Auf Colony RPG kannst du menschliche Gefährten finden, sie für deine Reisen gewinnen und zu einer eigenen kleinen Kampfgruppe ausbilden. Deine Begleiter unterstützen dich im Kampf, begleiten dich auf Erkundungen und entwickeln sich mit der Zeit weiter.
+Der Bosskampf war ein Desaster. Dein Schild ist fast zerbrochen, deine Tränke sind aufgebraucht und der Gegner steht noch immer. Allein kommst du hier offenbar nicht weiter. Vielleicht ist es Zeit, Verstärkung zu suchen.
+
+Auf Colony RPG musst du nicht jedes Abenteuer allein bestreiten. Mit **Modern Companions** kannst du menschliche Gefährten finden, für dich gewinnen und zu einer eigenen kleinen Kampfgruppe ausbilden. Sie unterstützen dich im Kampf, begleiten dich auf Erkundungen und entwickeln sich mit der Zeit weiter.
 
 Das wichtigste System dafür stammt aus **Modern Companions**. Die Mod ist auf unserem Server in Version **4.60** installiert.
 
@@ -23,14 +25,24 @@ Gib dem Gefährten beide gewünschten Stapel. Erst wenn beide Anforderungen erf�
 
 ## Klassen und Rollen
 
-Modern Companions bietet verschiedene Rollen, die sich im Kampf und in ihren Fähigkeiten unterscheiden. Zu den 14 Grundrollen gehören:
+Modern Companions bietet viele unterschiedliche Rollen. Auf Colony RPG ist die Auswahl aber bewusst begrenzt: **Nur acht ausgewählte Begleiterklassen sind freigeschaltet.** Alle anderen Rollen der Mod sind auf unserem Server nicht verfügbar und sollen weder natürlich erscheinen noch von Spielern beschworen werden können.
 
-- **Nahkampf und Schutz:** Knight, Vanguard, Axeguard und Berserker
-- **Fernkampf:** Scout, Archer und Arbalist
-- **Unterstützung und besondere Fähigkeiten:** Beastmaster, Cleric und Alchemist
-- **Magische Rollen:** Stormcaller, Fire Mage, Lightning Mage und Necromancer
+Die acht freigeschalteten Klassen sind:
 
-Einige zusätzliche Magierollen werden nur verfügbar, wenn passende Magiemods installiert sind. Welche Rollen du findest, hängt daher auch von der Mod-Ausstattung des Servers ab.
+| Begleiterklasse | Aufgabe |
+|---|---|
+| **Archer** | Fernkämpfer mit Bogen |
+| **Axeguard** | Schwerer Nahkämpfer mit Axt |
+| **Berserker** | Offensiver Kämpfer, der bei niedriger Gesundheit stärker wird |
+| **Vanguard** | Robuster Verteidiger mit Schild und Schutzfähigkeiten |
+| **Cleric** | Unterstützer mit Heilfähigkeiten |
+| **Scout** | Beweglicher Kämpfer mit hoher Geschwindigkeit |
+| **Necromancer** | Magischer Kämpfer mit nekromantischen Fähigkeiten |
+| **Alchemist** | Unterstützer, der Tränke im Kampf einsetzt |
+
+Diese Begleiterrollen sind nicht automatisch dieselben Klassen wie deine eigene RPG-Klasse. Die Freischaltung ist eine eigene Serverentscheidung und gilt unabhängig davon, welche Klassen du selbst spielst.
+
+![Modern Companions – Begleiter in der Spielwelt](https://minecraft-inside.ru/uploads/files/2025-11/6925d1704d368.png)
 
 ## Befehle und Verhalten
 
@@ -123,5 +135,6 @@ Die Jobs wie Holzfäller, Farmer, Jäger oder Minenarbeiter sind in der Mod zwar
 - [Modern Companions – CurseForge](https://www.curseforge.com/minecraft/mc-mods/modern-companions): Modbeschreibung, Rollen, Rekrutierung, Befehle und Ausrüstung.
 - [Modern Companions – Modrinth](https://modrinth.com/mod/modern-companions): Beschreibung, Funktionen und Bildergalerie.
 - [Modern Companions – GitHub-Projektseite](https://github.com/Modern-Mods/ModernCompanions): technische Details und aktuelle Funktionsbeschreibung.
+- [Modern Companions – offizielle Bildergalerie auf CurseForge](https://www.curseforge.com/minecraft/mc-mods/modern-companions/gallery): weitere Screenshots aus dem Spiel.
 
-Die Angaben zu den Server-Einstellungen stammen aus der auf Colony RPG verwendeten Konfigurationsdatei. Die Angaben zur Weltgenerierung berücksichtigen außerdem das servereigene Whitelist-Datenpaket.
+Die Angaben zu den Server-Einstellungen stammen aus der auf Colony RPG verwendeten Konfigurationsdatei. Die Einschränkung auf **Archer, Axeguard, Berserker, Vanguard, Cleric, Scout, Necromancer und Alchemist** ist eine serverseitige Whitelist-Entscheidung. Die Mod selbst bietet weitere Rollen, die auf Colony RPG nicht freigeschaltet sind. Die Angaben zur Weltgenerierung berücksichtigen außerdem das servereigene Whitelist-Datenpaket.
