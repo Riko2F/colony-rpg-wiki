@@ -37,7 +37,7 @@ Colony RPG basiert auf Minecraft **1.21.1** mit **NeoForge**. Hier findest du In
     <span>Erfahre, welche Abenteuer und besonderen Gegner dich erwarten.</span>
     <em>Zum Kapitel →</em>
   </a>
-  <a class="crpg-card" href="systeme/07-waehrung-und-shops/">
+  <a class="crpg-card" href="systeme/06-wirtschaft-und-waehrung/">
     <span class="crpg-card__icon">🪙</span>
     <strong>Währung und Handel</strong>
     <span>Informiere dich über Münzen, Geldaufbewahrung und Shops.</span>
