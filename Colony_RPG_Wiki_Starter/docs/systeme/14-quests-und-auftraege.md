@@ -53,13 +53,13 @@ Nicht jeder Auftrag verlangt nach Materialien. Einige schicken dich direkt in de
 
 ### Elite-Gegner und Bosse
 
-Für erfahrene Abenteurer gibt es besonders gefährliche Ziele. Dazu gehören unter anderem:
+Für erfahrene Abenteurer gibt es besonders gefährliche Ziele. Das Colony-RPG-Datenpaket enthält insgesamt 23 Auftragsvorlagen. Dazu gehören auch mehrere Varianten für große Bosskämpfe:
 
 - **Epic:** Warden und Elder Guardian
-- **Epic:** Enderdrache und Wither
+- **Epic und Legendary:** Enderdrache und Wither
 - **Legendary:** Ender Guardian, Netherite Monstrosity, Ignis, The Harbinger, The Leviathan, Ancient Remnant, Maledictus, Aptrgangr und Wadjet
 
-Die Cataclysm-Bosse gehören damit zu den besonders anspruchsvollen Aufträgen. Für diese Kämpfe solltest du gut vorbereitet sein und deine Ausrüstung entsprechend wählen. **Scylla ist nicht Teil des Colony-RPG-Auftragspakets.**
+Der Enderdrache und der Wither können also sowohl als Epic- als auch als Legendary-Auftrag erscheinen. Die Cataclysm-Bosse gehören zu den besonders anspruchsvollen Legendary-Aufträgen. Für diese Kämpfe solltest du gut vorbereitet sein und deine Ausrüstung entsprechend wählen. **Scylla ist nicht Teil des Colony-RPG-Auftragspakets.**
 
 Boss- und Elite-Aufträge haben auf Colony RPG kein Zeitlimit. Du kannst dir also die Zeit nehmen, deine Ausrüstung vorzubereiten und Mitstreiter für den Kampf zu finden.
 
