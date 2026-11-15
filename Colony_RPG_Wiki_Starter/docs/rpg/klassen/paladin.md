@@ -25,6 +25,14 @@ Die Paladin-Mod enthält offensive und defensive Zauber. Dazu gehören unter and
 
 Die Klasse ist auf schwere Rüstung ausgelegt. Die Mod ergänzt unter anderem zwei Paladin-Rüstungssets sowie Claymores, große Hämmer und Streitkolben. Bestimmte Waffen besitzen eigene Fertigkeiten.
 
+Die offizielle Modbeschreibung empfiehlt besonders schwere Nahkampfwaffen wie **Hämmer und Claymores**. Alternativ kannst du einen Schild verwenden, wenn du defensiver spielen und deine Schutzfähigkeiten in den Vordergrund stellen möchtest.
+
+## Zauberbuch und Runen verwenden
+
+Das **Paladin-Libram** schaltet die Paladin-Zauber frei. Um die Zauber zu verwenden, rüstest du das Zauberbuch aus und hältst eine Waffe in der Hand. Für gewirkte Paladin-Zauber dienen Runen als Munition. Halte daher genügend passende Runen bereit.
+
+Wie du dein Klassenbuch erhältst und Runen herstellst, steht im Kapitel [Runen, Zauber und Magie](../../systeme/11-runen-zauber-magie.md).
+
 ## Stärken und Grenzen
 
 **Stärken:** Vielseitigkeit im Kampf, Heilung, Schutz für Verbündete und wirkungsvolle Nahkampfangriffe.
@@ -37,3 +45,5 @@ Die Klasse ist auf schwere Rüstung ausgelegt. Die Mod ergänzt unter anderem zw
 - Installierte Serverdatei: Paladins 3.1.3 für Minecraft 1.21.1 / NeoForge
 
 [Zurück zur RPG-Übersicht](../../grundlagen/04-rpg-system.md)
+
+---
