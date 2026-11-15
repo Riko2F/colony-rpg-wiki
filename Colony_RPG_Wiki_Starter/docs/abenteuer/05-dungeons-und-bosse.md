@@ -46,7 +46,7 @@ Aus den gemeißelten Steinziegeln und Goldbarren stellst du drei **Gilded Portal
 
 Ein leerer **Blank Portal Key** wird aus einem Blaze Rod und einem Nametag hergestellt. Ein leerer Schlüssel öffnet noch keinen Dungeon: Er muss zuerst aktiviert werden.
 
-Dazu verwendest du ihn auf dem oberen Feld eines Endportalrahmens. Der Endportalrahmen muss dafür nicht Teil eines vollständigen Endportals sein. Die Mod-Handbuch-Version im hochgeladenen JAR beschreibt außerdem eine **Key Inscribing Station** als alternative Möglichkeit. Diese Station kann nur begrenzt oft verwendet werden und kann dabei beschädigt werden.
+Dazu verwendest du ihn auf dem oberen Feld eines Endportalrahmens. Der Endportalrahmen muss dafür nicht Teil eines vollständigen Endportals sein. Alternativ kannst du eine **Key Inscribing Station** verwenden. Diese Station kann nur begrenzt oft verwendet werden und kann dabei beschädigt werden.
 
 **3. Dungeon betreten**
 
@@ -54,12 +54,9 @@ Den aktivierten Schlüssel setzt du in den Portal Keystone deines Portals ein. D
 
 ### Zugang: Advanced Dungeons
 
-<figure>
-  <img src="https://github-wiki-see.page/m/AllenSeitz/DimDungeons/wiki/advanced_portal_build.png" alt="Erweiterter Portalrahmen für Advanced Dungeons mit Portal Crown Blocks" />
-  <figcaption>Beispiel für einen erweiterten Portalrahmen. Bildquelle: <a href="https://github.com/AllenSeitz/DimDungeons/wiki/Advice-About-Advanced-Dungeons">Offizielles Dimensional-Dungeons-Wiki</a>.</figcaption>
-</figure>
+<p>Eine bebilderte Bauvorlage für den erweiterten Portalrahmen findest du in der <a href="https://github.com/AllenSeitz/DimDungeons/wiki/Advice-About-Advanced-Dungeons">offiziellen Anleitung zu Advanced Dungeons</a>. Das dort eingebundene Bild wird hier nicht direkt geladen, damit im Wiki kein defektes Bild angezeigt wird.</p>
 
-Die **Advanced Dungeons** sind eine deutlich anspruchsvollere Stufe. Laut dem Handbuch sind sie ungefähr doppelt so groß wie normale Dungeons. Die Gegner besitzen mehr Lebenspunkte und sind stärker; dafür warten bessere Belohnungen.
+Die **Advanced Dungeons** sind eine deutlich anspruchsvollere Stufe. Sie sind ungefähr doppelt so groß wie normale Dungeons. Die Gegner besitzen mehr Lebenspunkte und sind stärker; dafür warten bessere Belohnungen.
 
 Der Zugang funktioniert nicht mit einem normalen Portalrahmen:
 
