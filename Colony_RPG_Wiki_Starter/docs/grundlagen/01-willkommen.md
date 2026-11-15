@@ -1,48 +1,57 @@
 # Willkommen auf Colony RPG
 
-Willkommen auf **Colony RPG**! Diese Welt verbindet mehrere Spielweisen miteinander: Du kannst eigene Bauprojekte verwirklichen, eine Kolonie aufbauen, technische Anlagen entwickeln, deine Ausrüstung verbessern und die Welt auf Abenteuern erkunden.
+Willkommen auf **Colony RPG**! Diese Welt verbindet verschiedene Spielweisen miteinander: Du kannst Bauprojekte verwirklichen, eine Kolonie aufbauen, technische Anlagen entwickeln, deinen Charakter weiterentwickeln und die Welt auf Abenteuern erkunden.
 
-Das Wiki ist als Orientierung für alle Spieler gedacht. Es erklärt die auf dem Server vorhandenen Spielsysteme und zeigt, welche Möglichkeiten sie bieten. Die folgenden Abschnitte geben dir einen ersten Überblick.
+Dieses Wiki dient als Orientierung für alle Spieler. Es stellt die auf dem Server vorhandenen Spielsysteme vor und erklärt, welche Möglichkeiten sie bieten. Hier findest du einen ersten Überblick über die wichtigsten Bereiche.
 
 ## Eine Welt mit vielen Möglichkeiten
 
-Colony RPG basiert auf **Minecraft 1.21.1** und verwendet **NeoForge** als Modloader. Die Mod-Auswahl erweitert das normale Minecraft-Spiel um mehrere miteinander kombinierte Bereiche:
+Colony RPG basiert auf **Minecraft 1.21.1** und verwendet **NeoForge** als Modloader. Die installierten Mods erweitern das normale Minecraft-Spiel um mehrere miteinander kombinierte Bereiche:
 
-- **Kolonie und Städte:** Mit MineColonies können Spieler eine eigene Siedlung entwickeln und Gebäude sowie Arbeitsbereiche errichten.
-- **Technik und Automatisierung:** Create ergänzt mechanische Maschinen, Transportwege und automatisierte Produktionsabläufe.
-- **Rollenspiel und Ausrüstung:** Verschiedene RPG-Klassen, Waffen und Rüstungen erweitern die Möglichkeiten bei der Charakterentwicklung.
-- **Abenteuer:** Dungeons, besondere Gegner und Bosskämpfe bieten zusätzliche Herausforderungen und Beute.
-- **Wirtschaft:** Physische Münzen, sichere Aufbewahrung und Shops bilden die Grundlage des servereigenen Handelssystems.
+- **Kolonie und Städte:** Mit MineColonies kannst du eine eigene Siedlung gründen, Gebäude errichten und verschiedene Arbeitsbereiche aufbauen.
+- **Technik und Automatisierung:** Create bietet mechanische Bauteile, Maschinen, Transportmöglichkeiten und automatisierte Produktionsabläufe.
+- **Rollenspiel und Ausrüstung:** Unterschiedliche RPG-Klassen sowie passende Waffen und Rüstungen erweitern die Charakterentwicklung.
+- **Abenteuer:** Dungeons, besondere Gegner und Bosskämpfe sorgen für zusätzliche Herausforderungen und Beute.
+- **Wirtschaft:** Ein physisches Münzsystem, Möglichkeiten zur sicheren Aufbewahrung und Shops bilden die Grundlage des servereigenen Handels.
 
 Die einzelnen Systeme werden in eigenen Wiki-Kapiteln genauer vorgestellt.
 
 ## Kolonien, Städte und Bauprojekte
 
-Ein wichtiger Teil von Colony RPG ist der Aufbau eigener Siedlungen. MineColonies bietet dafür ein umfangreiches System aus Gebäuden und verschiedenen Tätigkeiten. Eine Kolonie kann nach und nach wachsen und sich zu einer größeren Stadt entwickeln.
+Ein wichtiger Bestandteil von Colony RPG ist der Aufbau eigener Siedlungen. MineColonies bietet dafür ein umfangreiches System aus Gebäuden, Bewohnern und verschiedenen Berufen. Eine Kolonie kann Schritt für Schritt wachsen und sich zu einer größeren Stadt entwickeln.
 
-Dabei ist nicht eine einzige Bauweise vorgeschrieben. Unterschiedliche Baustile können miteinander kombiniert werden. Ein Beispiel aus der Welt ist **Eisenhain**: eine Stadtidee, die mittelalterliche Bauweise mit einer dezenten industriellen und steampunkartigen Gestaltung verbindet.
+Bei der Gestaltung bist du nicht auf einen einzigen Baustil festgelegt. Du kannst unterschiedliche Baustile und architektonische Ideen miteinander kombinieren und deiner Siedlung einen eigenen Charakter geben.
 
-Mehr dazu findest du unter [MineColonies – Kolonie und Stadtentwicklung](03-minecolonies.md) und im ausführlichen Kapitel [MineColonies](../kolonie/12-minecolonies.md).
+Mehr dazu findest du unter [MineColonies – Kolonie und Stadtentwicklung](03-minecolonies.md) sowie im ausführlichen Kapitel [MineColonies](../kolonie/12-minecolonies.md).
 
 ## Technik und Automatisierung
 
-Mit Create steht ein technisches Bausystem zur Verfügung, mit dem sich mechanische Anlagen und Produktionsketten gestalten lassen. Zahnräder, Wellen, Antriebe und weitere Bauteile können zu funktionierenden Maschinen verbunden werden.
+Mit Create steht dir ein umfangreiches technisches Bausystem zur Verfügung. Zahnräder, Wellen, Antriebe und weitere Bauteile lassen sich zu Maschinen und Produktionsketten verbinden. So kannst du eigene technische Anlagen entwerfen und Abläufe automatisieren.
 
-Create ist nicht nur ein eigener Baubereich: Über die installierte Verbindung zwischen Create und MineColonies können auch Abläufe rund um die Versorgung einer Kolonie miteinander verknüpft werden. Welche Möglichkeiten sich daraus ergeben, wird im Kapitel [Create – Technik und Automatisierung](02-create.md) erklärt.
+Welche Möglichkeiten Create auf dem Server bietet und welche Erweiterungen dabei eine Rolle spielen, erfährst du im Kapitel [Create – Technik und Automatisierung](02-create.md).
 
 ## Rollenspiel und Abenteuer
 
-Das RPG-System erweitert Minecraft um unterschiedliche Klassen und passende Ausrüstung. Auf Colony RPG sind unter anderem die Klassen **Archer, Paladin, Priest, Rogue, Warrior, Wizard, Berserker und Bard** vertreten.
+Das RPG-System erweitert Minecraft um verschiedene Klassen und passende Ausrüstung. Auf Colony RPG gibt es acht Klassen:
 
-Zu den Klassen gehören unterschiedliche Waffen- und Ausrüstungsangebote. Weitere Systeme ergänzen das Rollenspiel um Runen, Zauber, Schmuck und besondere Ausrüstungsgegenstände.
+- Archer
+- Paladin
+- Priest
+- Rogue
+- Warrior
+- Wizard
+- Berserker
+- Bard
 
-Auch die Erkundung gehört dazu: In der Welt gibt es Dungeons und besondere Gegner. Einige Inhalte führen in eigene Dimensionen oder bieten Bossbegegnungen. Die Wiki-Artikel zu diesen Themen beschreiben die vorhandenen Inhalte und ihre Besonderheiten, ohne Lösungswege oder Kampfstrategien vorwegzunehmen.
+Jede Klasse bietet eigene Möglichkeiten bei Waffenwahl und Spielweise. Auch besondere Ausrüstung, Runen und Magie gehören zum Rollenspielsystem.
+
+Neben der Charakterentwicklung lädt die Welt zum Erkunden ein: Dungeons, besondere Gegner und Bossbegegnungen bieten zusätzliche Herausforderungen. Einige Abenteuer führen auch in eigene Dimensionen. Die Wiki-Artikel stellen diese Inhalte vor, ohne Lösungswege oder Kampfstrategien vorwegzunehmen.
 
 ## Handel und Währung
 
-Auf dem Server gibt es ein eigenes Münzsystem. Die Münzen besitzen unterschiedliche Wertstufen und können gesammelt, aufbewahrt und zum Bezahlen eingesetzt werden. Ergänzend gibt es ein System aus Geldbörse, Tresor und einer mit dem Tresor verbundenen Karte.
+Auf dem Server gibt es ein eigenes Münzsystem. Die Münzen besitzen verschiedene Wertstufen und können gesammelt, aufbewahrt und zum Bezahlen verwendet werden. Zur Aufbewahrung gehören eine Geldbörse und ein persönlicher Tresor. Zusätzlich gibt es eine Karte, die mit dem Tresor verbunden werden kann.
 
-Shops und die Handelsmöglichkeiten mit Create bilden weitere Bestandteile der Wirtschaft. Die genauen Münzwerte und die Funktionen der Aufbewahrung werden im Kapitel [Währung und Shops](../systeme/07-waehrung-und-shops.md) erläutert.
+Auch Shops und die Handelsmöglichkeiten mit Create sind Teil der Serverwirtschaft. Die genauen Münzwerte und die Funktionen von Geldbörse, Tresor und Karte werden im Kapitel [Währung und Shops](../systeme/07-waehrung-und-shops.md) erklärt.
 
 ## Orientierung im Wiki
 
@@ -59,8 +68,8 @@ Du kannst die Suche im Wiki verwenden oder über die Themenbereiche zu den einze
 
 ## Was gehört in dieses Wiki?
 
-Dieses Wiki richtet sich an Spieler. Es erklärt öffentlich relevante Funktionen und Inhalte der Spielwelt. Interne Einstellungen, technische Konfigurationen, Loot-Tabellen, Admin-Befehle und Hinweise zur Serververwaltung sind nicht Bestandteil dieser Spieler-Wiki. Solche Informationen gehören in ein getrenntes Admin-Handbuch.
+Dieses Wiki richtet sich an Spieler. Es erklärt öffentlich relevante Funktionen und Inhalte der Spielwelt. Interne Einstellungen, technische Konfigurationen, Loot-Tabellen, Admin-Befehle und Hinweise zur Serververwaltung gehören nicht in diese Spieler-Wiki, sondern in ein getrenntes Admin-Handbuch.
 
-Die Beschreibungen servereigener Funktionen werden bei Bedarf anhand der aktuellen Modliste, der freigegebenen Spielinformationen und bestätigter Tests ergänzt. Wo eine Einzelheit nicht sicher feststeht, wird sie nicht als feste Serverregel dargestellt.
+Servereigene Besonderheiten werden anhand der aktuellen Modliste, freigegebener Spielinformationen und bestätigter Tests beschrieben. Wo eine Einzelheit noch nicht sicher feststeht, wird sie nicht als feste Serverregel dargestellt.
 
 **Viel Spaß beim Bauen, Tüfteln, Handeln und Erkunden auf Colony RPG!**
