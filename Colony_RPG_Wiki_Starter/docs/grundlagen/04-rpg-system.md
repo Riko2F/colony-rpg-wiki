@@ -86,10 +86,18 @@ Auch die Ausrüstungsentwicklung des Barden besitzt eigene Stufen: **Entertainer
 
 Für jede Klasse gibt es ein eigenes **Klassenbuch**. Du erhältst es am **Zauberbindetisch**:
 
+![Zauberbindetisch in der Spielwelt](../assets/images/zauberbindetisch.png)
+
+*Der Zauberbindetisch ist der Ort, an dem du dein Klassenbuch auswählst.*
+
 1. Setze ein **leeres Buch** in den Zauberbindetisch ein.
 2. Öffne das Auswahlmenü des Tisches.
 3. Wähle dort die gewünschte Klasse aus.
 4. Der Tisch erstellt das passende Klassenbuch.
+
+![Auswahlmenü für die Klassenbücher am Zauberbindetisch](../assets/images/klassenbuch-auswahl.png)
+
+*Im Menü „Zauber binden“ kannst du das gewünschte Klassenbuch auswählen.*
 
 Für den Wizard gibt es drei Bücher – je nachdem, welche Magieschule du spielen möchtest:
 
