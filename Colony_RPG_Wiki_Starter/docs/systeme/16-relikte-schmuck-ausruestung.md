@@ -1,4 +1,4 @@
-# Kapitel 16 – Relikte, Schmuck und besondere Ausrüstung
+# Relikte, Schmuck und besondere Ausrüstung
 
 ## Wenn gewöhnliche Ausrüstung nicht mehr genügt
 
