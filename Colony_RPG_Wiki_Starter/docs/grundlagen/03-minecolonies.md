@@ -18,6 +18,14 @@ Das Zentrum einer neuen Kolonie ist das **Rathaus (Town Hall)**. Über das Ratha
 
 MineColonies bietet unterschiedliche Möglichkeiten, eine Kolonie zu beginnen. Dazu gehören Versorgungslager beziehungsweise Versorgungsschiffe sowie bereits in der Welt generierte Kolonien, sofern diese Funktion in der jeweiligen Welt aktiviert ist.
 
+### Tipp: Mit einem Supply Camp starten
+
+Für den Einstieg empfiehlt sich ein **Versorgungslager (Supply Camp)**. Es bringt dir einen vorbereiteten Startpunkt mit ersten Materialien. Im Lager findest du außerdem ein **Rathaus (Town Hall)** und ein **Bauwerkzeug (Build Tool)**, die du für die nächsten Schritte benötigst. Alternativ kannst du ein **Versorgungsschiff (Supply Ship)** verwenden.
+
+Das Supply Camp wird hergestellt und anschließend mit einem Rechtsklick direkt auf dem Boden platziert – nicht über das Bauwerkzeug. Dafür brauchst du eine ausreichend große, ebene und freie Fläche. Beim Versorgungsschiff ist stattdessen genügend Wasserfläche erforderlich.
+
+Das **Herstellungsrezept** kann sich je nach MineColonies-Version oder Modpack unterscheiden. Du findest weitere Informationen auf der [offiziellen MineColonies-Seite zu Supply Camps und Supply Ships](https://minecolonies.com/wiki/items/supply_camp_and_ship/). Prüfe das konkrete Rezept am besten zusätzlich in der Rezeptanzeige deines Spiels, damit du die für Colony RPG gültige Variante verwendest.
+
 Wähle den Standort sorgfältig: Das Rathaus legt das Zentrum deiner Kolonie fest. Die genauen Schutzbereiche und weitere Regeln können von den Einstellungen der jeweiligen Welt abhängen.
 
 ## Der Baumeister
