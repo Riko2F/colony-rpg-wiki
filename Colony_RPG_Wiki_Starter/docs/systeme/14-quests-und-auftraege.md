@@ -94,3 +94,12 @@ Lies dir vor dem Aufbruch immer die Anforderungen und die Belohnung durch. So we
 Nicht jeder Auftrag muss allein erledigt werden. Gerade bei den mächtigen Bossen lohnt es sich, Freunde oder andere Spieler zu fragen, ob sie dich begleiten. Bereitet eure Ausrüstung vor, besprecht eure Rollen und macht euch gemeinsam auf den Weg.
 
 Vielleicht ist der Auftrag am Brett nur ein kleiner Zettel – aber daraus kann das nächste große Abenteuer auf Colony RPG werden.
+
+## Quellen und weiterführende Informationen
+
+- [Bountiful – Modrinth](https://modrinth.com/mod/Bountiful): Modbeschreibung, Grundmechanik und unterstützte Minecraft-Versionen.
+- [Bountiful – offizielle Dokumentation von Kambrik](https://kambrik.ejekta.io/mods/bountiful/): Informationen zu Auftragsbrettern und ihrer Funktionsweise.
+- [Decrees – offizielle Bountiful-Dokumentation](https://kambrik.ejekta.io/mods/bountiful/general/decrees): Erklärung, wie Dekrete die Aufträge und Belohnungen bestimmen und miteinander kombiniert werden können.
+- [Bounty Boards – offizielle Bountiful-Dokumentation](https://kambrik.ejekta.io/mods/bountiful/general/bounty-boards): Informationen zu natürlich generierten und herstellbaren Auftragsbrettern sowie zur Verwendung.
+
+Die Angaben zum **Colony-RPG-Dekret**, zu den konkreten Aufgaben und Belohnungen stammen aus dem servereigenen Quest-Datenpaket. Das Rezeptbild für das Auftragsbrett wurde direkt im Spiel auf dem Colony-RPG-Server aufgenommen.
