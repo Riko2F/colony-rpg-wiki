@@ -34,29 +34,46 @@ Die folgenden Themen sind bereits in vorhandenen Artikeln enthalten. Dafür werd
 | Bosse und besondere Gegner (Kapitel 9) | [Kapitel 5 – Dungeons und Bosse](docs/abenteuer/05-dungeons-und-bosse.md) und [Kapitel 17 – Kreaturen und besondere Gegner](docs/abenteuer/17-kreaturen-und-besondere-gegner.md) |
 | Klassen, Waffen und Rüstungen (Kapitel 10) | [Grundlagen – RPG-System](docs/grundlagen/04-rpg-system.md) und [Kapitel 16 – Relikte, Schmuck und besondere Ausrüstung](docs/systeme/16-relikte-schmuck-ausruestung.md) |
 | Dorfbewohner und NPCs (Kapitel 19) | [Kapitel 18 – MCA Reborn und die lebendige Spielwelt](docs/kolonie/18-die-welt-und-das-leben.md); MineColonies-Bürger zusätzlich in [Kapitel 12](docs/kolonie/12-minecolonies.md) |
-| Reisen, Navigation und Ausrüstung (Kapitel 21) | Waystones in [Kapitel 13](docs/systeme/13-waystones.md); Traveler's Backpack wird in Kapitel 22 bei den Komfort- und Inventarhilfen eingeordnet |
+| Reisen, Navigation und Ausrüstung (Kapitel 21) | Waystones in [Kapitel 13](docs/systeme/13-waystones.md); Traveler's Backpack in [Kapitel 22](docs/systeme/22-komfort-und-hilfsmods.md) |
 
-Kapitel 7 bis 10, 19 und 21 sind damit keine eigenständigen Artikel mehr. Die entsprechenden Themen bleiben in den genannten Kapiteln erhalten.
+Kapitel 7 bis 10, 19 und 21 sind keine eigenständigen Artikel mehr. Die entsprechenden Themen bleiben in den genannten Kapiteln erhalten.
 
-### Noch vorgesehene Inhalte
+**Kapitel 20 – Landwirtschaft, Nahrung und Versorgung entfällt.** Es gibt dafür auf Colony RPG kein eigenständiges wichtiges Spielersystem, das einen separaten Artikel rechtfertigt.
 
-| Thema | Status / Planung |
-|---|---|
-| Landwirtschaft, Nahrung und Versorgung (bisher Kapitel 20) | Noch prüfen, ob ein eigener Spielerartikel nötig ist oder ob die vorhandenen Erklärungen zu MineColonies ausreichen |
-| Komfort- und Hilfsmods (Kapitel 22) | Inhaltlicher Artikel fehlt noch; Traveler's Backpack passt hier als Inventar- und Transporthilfe hinein |
-| Kommunikation und Mehrspieler (Kapitel 23) | Auf Simple Voice Chat konzentrieren; weitere Multiplayer-Funktionen nur aufnehmen, wenn sie nicht bereits in den Kapiteln zu Dungeons, Loot und Begleitern erklärt sind |
+## Aktuelle Artikel
 
-## Kapitel 23 – geplanter Umfang
+| Kapitel | Thema | Stand |
+|---|---|---|
+| 18 | MCA Reborn und die lebendige Spielwelt | Überarbeitet, Bilder und Quellen ergänzt |
+| 22 | Komfort- und Hilfsmods | Ausgearbeitet, Bilder und Quellen ergänzt |
+| 23 | Kommunikation und Mehrspieler | Ausgearbeitet, Simple Voice Chat mit Bildern und Quellen |
 
-Der Artikel soll Spielern erklären, wie sie auf Colony RPG miteinander sprechen können:
+### Kapitel 22 – Komfort- und Hilfsmods
 
-- Simple Voice Chat: Sprachchat in der Nähe anderer Spieler (Proximity Chat).
-- Push-to-talk und grundlegende Bedienung.
-- Private Sprachgruppen, etwa für eine feste Gruppe oder gemeinsame Expedition.
-- Hinweise zu Mikrofon, Lautstärke und Fehlersuche, soweit sie für Spieler relevant sind.
-- Servereigene Regeln oder Einstellungen nur ergänzen, wenn sie bestätigt sind.
+Der Artikel behandelt die auf Colony RPG installierten Komfortfunktionen, unter anderem:
 
-Multiplayer-Bosskämpfe, persönliche Dungeon-Beute und Begleiter werden nicht erneut ausführlich erklärt, da diese Themen bereits in den entsprechenden Kapiteln behandelt werden.
+- Traveler's Backpack
+- Tree Harvester
+- Easy Anvils und Easy Magic
+- Easy Piglins
+- Lootr
+- Just Enough Items (JEI)
+- Elytra Slot und Flight Ring
+- Xaero's Minimap und Xaero's World Map
+
+Easy Villagers ist zwar in der Modliste enthalten, wird aber nicht als reguläres Spielersystem beschrieben, weil die Mod für normale Minecraft-Dorfbewohner ausgelegt ist und diese auf Colony RPG durch MCA Reborn ersetzt werden. Eine Kompatibilität mit MCA-Bewohnern ist nicht als Serverfunktion bestätigt.
+
+### Kapitel 23 – Kommunikation und Mehrspieler
+
+Der Artikel erklärt Simple Voice Chat mit:
+
+- Nähe-Sprachchat (Proximity Chat)
+- Push-to-talk und Sprachaktivierung
+- Standardtasten und Audioeinstellungen
+- privaten Sprachgruppen
+- grundlegender Fehlerbehebung
+
+Die Modliste bestätigt Simple Voice Chat 2.6.22 für NeoForge. Konkrete serverseitige Sprachreichweiten oder Netzwerkeinstellungen werden nicht als feste Spielerregeln angegeben.
 
 ## Zentrale redaktionelle Regeln
 
@@ -73,8 +90,7 @@ Multiplayer-Bosskämpfe, persönliche Dungeon-Beute und Begleiter werden nicht e
 1. Vorhandene Kapiteltexte und ältere Entwürfe vollständig abgleichen, damit keine Inhalte fehlen oder doppelt vorkommen.
 2. Kapitelnummerierung, Navigation und Querverweise vereinheitlichen.
 3. Mod- und Datapack-Aussagen einzeln gegen die Quelldateien prüfen.
-4. Fehlende Quellen ergänzen und unzuverlässige Links ersetzen.
-5. Kapitel 22 ausarbeiten und Traveler's Backpack dort einordnen.
-6. Kapitel 23 zu Simple Voice Chat ausarbeiten und serverseitige Angaben prüfen.
-7. Entscheiden, ob Kapitel 20 als eigener Artikel benötigt wird.
-8. Online-Wiki und PDF-Export konfigurieren und testen.
+4. Bilder, Bildnachweise und externe Links auf Erreichbarkeit prüfen.
+5. Website-Navigation und Startseite finalisieren.
+6. Online-Wiki mit GitHub Pages veröffentlichen.
+7. PDF-Export konfigurieren und beide Ausgabeformate testen.
