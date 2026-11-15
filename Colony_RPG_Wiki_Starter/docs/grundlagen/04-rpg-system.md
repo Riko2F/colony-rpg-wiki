@@ -82,6 +82,18 @@ Der Bard lässt dir bei der Waffenwahl besonders viel Freiheit. Du kannst entsch
 
 Auch die Ausrüstungsentwicklung des Barden besitzt eigene Stufen: **Entertainer**, **Troubadour** und **The Storyteller**.
 
+## Klassenbücher und neue Zauber lernen
+
+Zu den magischen Klassen gehören eigene **Klassenbücher**. Sie sind auf die jeweilige Klasse oder Magieschule abgestimmt und werden benötigt, um am **Zauberbindetisch** neue Zauber zu lernen.
+
+Je nach Klasse sieht das Buch anders aus:
+
+- **Wizard:** Tome of Arcane, Tome of Fire oder Tome of Frost – passend zu deiner gewählten Magieschule.
+- **Paladin:** Paladin Libram.
+- **Priest:** Holy Book.
+
+Der Zauberbindetisch ist damit ein wichtiger Teil der Charakterentwicklung: Mit dem passenden Klassenbuch kannst du dort neue Zauber für deinen Charakter erlernen. Das Klassenbuch und seine Rolle gehören zum RPG-System und werden deshalb hier erklärt. Die einzelnen Zauber und ihre Wirkung findest du im Kapitel [Runen, Zauber und Magie](../systeme/11-runen-zauber-magie.md).
+
 ## Waffen und Rüstungen
 
 Die Klassen unterscheiden sich nicht nur durch ihre Ausrichtung, sondern auch durch ihre Ausrüstung. Manche setzen auf schwere Rüstungen und große Waffen, andere auf leichte Kleidung, Fernkampfwaffen oder magische Stäbe.
