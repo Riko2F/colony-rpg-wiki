@@ -67,6 +67,19 @@ Der Zugang funktioniert nicht mit einem normalen Portalrahmen:
 
 Bereite dich auf diese Dungeons gut vor: Die Mod beschreibt sie ausdrücklich als größer und gefährlicher als die normalen Varianten.
 
+
+### Ausrüstung finden und den Charakter verbessern
+
+Die Dungeons sind nicht nur eine Herausforderung, sondern auch ein wichtiger Teil deines Ausrüstungsfortschritts. Auf Colony RPG hast du dabei zwei Möglichkeiten, an die Rüstungen der **RPG-Serie** zu gelangen: Du kannst passende Ausrüstung direkt in den Dungeons finden oder die benötigten Materialien sammeln und dir deine Rüstung anschließend selbst herstellen.
+
+In den **Dimensional Dungeons** kannst du Ausrüstung der **Tier-1- und Tier-2-Stufen** finden. Mit etwas Glück liegt dort auch ein besonders begehrtes **Set-Teil einer Tier-3-Rüstung** in einer Truhe. Diese Tier-3-Gegenstände sind seltene Funde und daher keine Belohnung, mit der du bei jedem Dungeon rechnen solltest.
+
+Du kannst deinen Fortschritt aber auch gezielt über das Sammeln von Materialien vorantreiben. Wenn du die benötigten Rohstoffe zusammen hast, kannst du damit die RPG-Serien-Rüstungen herstellen und deinen Charakter Schritt für Schritt verbessern.
+
+**Unser Tipp:** Nutze die normalen und Advanced Dungeons, um deine Ausrüstung aufzubauen, bevor du dich an die großen Cataclysm-Expeditionen wagst. Die Cataclysm-Bosse gehören zu den schwierigsten Herausforderungen auf Colony RPG. Eine gut entwickelte Rüstung und passende Waffen sind deshalb eine wichtige Voraussetzung, wenn du diese Kämpfe bestehen möchtest.
+
+Die Cataclysm-Expeditionen bilden damit den Endgame-Bereich des Servers: Sie sind für Charaktere gedacht, die bereits viel Zeit in ihre Ausrüstung und Vorbereitung investiert haben.
+
 ## Cataclysm und Cataclysm Expeditions
 
 <figure>
