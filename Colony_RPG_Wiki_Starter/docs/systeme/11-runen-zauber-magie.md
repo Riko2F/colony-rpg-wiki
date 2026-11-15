@@ -1,4 +1,4 @@
-# Kapitel 11 – Runen, Zauber und Magie
+# Runen, Zauber und Magie
 
 Magie ist ein wichtiger Teil des RPG-Systems auf Colony RPG. Vor allem der Wizard, der Paladin und der Priest nutzen Zauber, um Gegner zu bekämpfen, sich selbst zu schützen oder Verbündete zu unterstützen.
 
