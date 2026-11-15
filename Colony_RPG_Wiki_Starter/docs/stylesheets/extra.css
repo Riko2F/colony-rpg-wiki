@@ -1,0 +1,51 @@
+/* Colony RPG – Farbwelt von Eisenhain
+   Violett als Leitfarbe, ergänzt durch warme Metall- und Steinfarben. */
+
+/* Helles Farbschema */
+[data-md-color-scheme="default"] {
+  --md-primary-fg-color: #563A78;
+  --md-primary-fg-color--light: #76549A;
+  --md-primary-fg-color--dark: #39264F;
+  --md-primary-bg-color: #FFFFFF;
+  --md-accent-fg-color: #A17A50;
+  --md-accent-fg-color--transparent: #A17A501A;
+
+  --md-default-bg-color: #FAF8F5;
+  --md-default-fg-color: #29272D;
+  --md-default-fg-color--light: #514B45;
+  --md-code-bg-color: #F0ECE7;
+  --md-typeset-a-color: #644486;
+}
+
+/* Dunkles Farbschema */
+[data-md-color-scheme="slate"] {
+  --md-hue: 270;
+  --md-primary-fg-color: #76549A;
+  --md-primary-fg-color--light: #A58AC4;
+  --md-primary-fg-color--dark: #563A78;
+  --md-primary-bg-color: #FFFFFF;
+  --md-accent-fg-color: #C49A6C;
+  --md-accent-fg-color--transparent: #C49A6C1A;
+
+  --md-default-bg-color: #211E25;
+  --md-default-fg-color: #EAE4EF;
+  --md-default-fg-color--light: #C7BDCE;
+  --md-code-bg-color: #2D2832;
+  --md-typeset-a-color: #C4A5E4;
+}
+
+/* Dezente Akzente für Überschriften und Tabellen */
+.md-typeset h1,
+.md-typeset h2 {
+  color: var(--md-default-fg-color);
+}
+
+.md-typeset h2 {
+  border-bottom: 2px solid var(--md-accent-fg-color--transparent);
+  padding-bottom: 0.25em;
+}
+
+.md-typeset table:not([class]) th {
+  background-color: var(--md-primary-fg-color);
+  color: var(--md-primary-bg-color);
+}
