@@ -89,7 +89,7 @@ Ersetze \`Spielername\` durch den Namen des Spielers, den du einladen möchtest.
 
 Simple Voice Chat zeigt kleine Symbole an, damit du den Sprachstatus anderer Spieler einschätzen kannst. Dazu gehören Hinweise darauf, ob jemand gerade spricht oder flüstert. Auch ein stummgeschaltetes Mikrofon oder eine getrennte Sprachchat-Verbindung kann angezeigt werden.
 
-Wenn du selbst kein Sprachchat-Symbol beziehungsweise keine Verbindung siehst, bedeutet das nicht automatisch, dass dein Mikrofon defekt ist. Die Verbindung zwischen Client und Server muss ebenfalls funktionieren.
+Wenn du selbst kein Sprachchat-Symbol beziehungsweise keine Verbindung siehst, bedeutet das nicht automatisch, dass dein Mikrofon defekt ist. Die Verbindung zwischen Client und Server muss ebenfalls funktionieren. Hörst du Spieler scheinbar über große Entfernungen, prüfe außerdem, ob du einer Sprachgruppe beigetreten bist: Gruppenmitglieder können unabhängig von ihrer Position miteinander sprechen.
 
 ## Wenn der Sprachchat nicht funktioniert
 
