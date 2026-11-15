@@ -8,8 +8,6 @@ Auf dem Server verwenden wir die Mod **Waystones** von BlayTheNinth. Sie ist in 
 
 Waystones können an verschiedenen Orten in der Welt auftauchen. Laut offizieller Dokumentation können sie sowohl in Dörfern als auch vereinzelt in der Wildnis generieren. Halte bei deinen Reisen also die Augen offen – ein entdeckter Wegstein kann später eine wichtige Verbindung zu einem anderen Ort werden.
 
-![Ein Waystone in der Minecraft-Welt](https://media.forgecdn.net/attachments/1771/149/2026-07-03_18-28-29-png.png)
-
 ## Einen Wegstein aktivieren
 
 Damit du einen Wegstein für deine Reisen verwenden kannst, musst du ihn zuerst aktivieren:
@@ -61,6 +59,7 @@ Mit jedem entdeckten und aktivierten Wegstein wird die Welt ein Stück leichter 
 - [Waystone – Wegsteine aktivieren und verwenden](https://mods.twelveiterations.com/minecraft/waystones/waystone): Aktivierung, Auswahlmenü, Benennung und Sichtbarkeit.
 - [Warp Stone – offizieller Wiki-Eintrag](https://mods.twelveiterations.com/minecraft/waystones/warp-stone): Verwendung, Haltbarkeit und Reparatur.
 - [Return Scroll – offizieller Wiki-Eintrag](https://mods.twelveiterations.com/minecraft/waystones/return-scroll): Rückkehr zum nächstgelegenen aktivierten Wegstein.
+- [Warp Scroll – offizieller Wiki-Eintrag](https://mods.twelveiterations.com/minecraft/waystones/warp-scroll): Einmalige Teleportation zu einem aktivierten Wegstein.
 - [World Generation – offizieller Wiki-Eintrag](https://mods.twelveiterations.com/minecraft/waystones/guides/worldgen): Generierung in Dörfern und in der Wildnis.
 
 **Hinweis zu Colony RPG:** Die Modbeschreibung und das Wiki erklären die allgemeinen Funktionen. Die Versionsangabe stammt aus der Server-Modliste. Die konkreten Teleportationskosten richten sich nach den Servereinstellungen; deshalb werden hier keine festen XP-Werte genannt.
