@@ -20,6 +20,11 @@ MineColonies bietet unterschiedliche Möglichkeiten, eine Kolonie zu beginnen. D
 
 ### Tipp: Mit einem Supply Camp starten
 
+
+![Supply-Camp-Gegenstand aus der offiziellen MineColonies-Wiki](https://minecolonies.com/images/wiki/items/12100/minecolonies/supplycampdeployer.png)
+
+<small>Abbildung: Supply-Camp-Gegenstand – Quelle: [offizielle MineColonies-Wiki](https://minecolonies.com/wiki/items/supply_camp_and_ship/).</small>
+
 Für den Einstieg empfiehlt sich ein **Versorgungslager (Supply Camp)**. Es bringt dir einen vorbereiteten Startpunkt mit ersten Materialien. Im Lager findest du außerdem ein **Rathaus (Town Hall)** und ein **Bauwerkzeug (Build Tool)**, die du für die nächsten Schritte benötigst. Alternativ kannst du ein **Versorgungsschiff (Supply Ship)** verwenden.
 
 Das Supply Camp wird hergestellt und anschließend mit einem Rechtsklick direkt auf dem Boden platziert – nicht über das Bauwerkzeug. Dafür brauchst du eine ausreichend große, ebene und freie Fläche. Beim Versorgungsschiff ist stattdessen genügend Wasserfläche erforderlich.
