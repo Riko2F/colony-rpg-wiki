@@ -84,7 +84,7 @@ Auch die Ausrüstungsentwicklung des Barden besitzt eigene Stufen: **Entertainer
 
 ## Klassenbücher und neue Zauber lernen
 
-Für jede Klasse gibt es ein eigenes **Klassenbuch**. Du erhältst es am **Zauberbindetisch**:
+Für jede Klasse gibt es ein eigenes **Klassenbuch**. Du erhältst es am **Zauberbindetisch**. Den Zauberbindetisch kannst du auch als vorgefertigte Struktur in einem natürlich generierten Dorf finden – du musst ihn also nicht unbedingt selbst aufstellen oder suchen und herstellen.
 
 ![Zauberbindetisch in der Spielwelt](../assets/images/zauberbindetisch.png)
 
