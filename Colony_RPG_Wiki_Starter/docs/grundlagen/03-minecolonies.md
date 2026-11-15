@@ -58,6 +58,10 @@ MineColonies bietet verschiedene Baustile, aus denen du für deine Gebäude wäh
 
 Auf Colony RPG ist eine gemischte Bauweise möglich: Mittelalterliche Gebäude können beispielsweise neben industriell oder steampunkartig gestalteten Bauwerken stehen. Entscheidend ist, dass deine Kolonie deinen eigenen Vorstellungen entspricht.
 
+### Gebäude und Baustile vorab ansehen
+
+Du möchtest dir erst einmal ansehen, wie die verschiedenen MineColonies-Gebäude aussehen, bevor du einen Baustil auswählst? Im [MineColonies Style Explorer](https://tomp2.github.io/minecolonies-style-explorer/?theme=all) kannst du die Gebäude und die offiziellen Baustile durchstöbern. So bekommst du einen Eindruck davon, welche Varianten es gibt und wie die einzelnen Gebäude gestaltet sind. Die Auswahl im Explorer ist eine Vorschau – welche Baustile du tatsächlich im Spiel verwenden kannst, richtet sich nach den auf Colony RPG installierten Style-Paketen.
+
 ## Weitere Entwicklung
 
 Mit der Zeit kannst du deine Kolonie um zusätzliche Arbeitsgebäude, Wohnhäuser, Versorgungsbetriebe und Verteidigungsanlagen erweitern. Auch die Verbesserung bestehender Gebäude gehört zur Entwicklung dazu.
