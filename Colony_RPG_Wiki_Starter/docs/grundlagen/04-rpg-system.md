@@ -1,10 +1,8 @@
 # RPG-System: Klassen und Ausrüstung
 
-Das RPG-System erweitert Colony RPG um verschiedene Klassen und passende Ausrüstung. Du kannst aus acht Klassen wählen und deinen Charakter so gestalten, dass er zu deiner bevorzugten Spielweise passt.
+Das RPG-System erweitert Colony RPG um acht spielbare Klassen. Jede Klasse bringt einen eigenen Stil und passende Waffen sowie Rüstungen mit. So kannst du entscheiden, ob du lieber aus der Entfernung angreifst, dich direkt ins Getümmel stürzt, Magie einsetzt oder deine Gruppe unterstützt.
 
-## Die acht Klassen
-
-Auf dem Server stehen folgende Klassen zur Auswahl:
+## Die acht Klassen im Überblick
 
 <div class="crpg-class-grid">
   <figure class="crpg-class-card">
@@ -41,30 +39,58 @@ Auf dem Server stehen folgende Klassen zur Auswahl:
   </figure>
 </div>
 
-Die Bilder zeigen die jeweiligen Klassencharaktere in ihrer Ausrüstung. Die genaue Auswahl an Waffen, Rüstungen und weiteren Gegenständen wird in den zugehörigen Abschnitten dieses Wikis behandelt.
+## Die Klassen und ihre Ausrichtung
 
-## Der Barde: Waffen nach Spielstil
+### Archer – der Fernkämpfer
 
-Beim **Barden** kannst du zwischen mehreren Waffen wählen. Welche davon am besten passt, hängt davon ab, ob du lieber offensiv kämpfst oder deine Gruppe unterstützt.
+Der Archer ist auf Angriffe aus der Distanz ausgelegt. Mit Fernkampfwaffen kann er Gegner auf Abstand halten und gezielt unter Beschuss nehmen. Zu seiner Ausrüstung gehören unter anderem Bögen und weitere Fernkampfwaffen sowie die Ranger-Rüstung. Auch Speere gehören zu den verfügbaren Waffenoptionen.
 
-- **Armbrust:** eine Wahl für einen stärker kämpferisch ausgerichteten Spielstil.
-- **Degen:** ebenfalls eine kämpferische Waffenwahl.
-- **Harfe:** eine Wahl für einen stärker unterstützenden Spielstil.
-- **Laute:** ebenfalls für einen Support-orientierten Spielstil.
+### Paladin – der beschützende Kämpfer
 
-So kannst du den Barden passend zu deiner persönlichen Vorliebe ausrichten.
+Der Paladin verbindet schwere Ausrüstung mit einer standhaften Kampfweise. Er kann mit schweren Waffen und einem Schild kämpfen. Zu den passenden Ausrüstungsstücken zählen der Kite Shield und die Crusader-Rüstung. Damit eignet sich diese Klasse besonders für Spieler, die gerne gut geschützt in vorderster Reihe stehen.
+
+### Priest – Magie und Unterstützung
+
+Der Priest setzt auf eine magisch und unterstützend geprägte Ausrichtung. Statt schwerer Nahkampfwaffen stehen Stäbe und Zauberutensilien im Mittelpunkt. Zu seiner Ausrüstung gehören unter anderem Holy Staff, Zauberstäbe und passende Roben.
+
+### Rogue – flink und beweglich
+
+Der Rogue setzt auf leichte Ausrüstung und schnelle Waffen. Dolche und Sicheln gehören zu seinen typischen Waffen. Mit seiner leichten Rüstung ist er eine passende Wahl für Spieler, die einen beweglichen und direkten Kampfstil bevorzugen.
+
+### Warrior – der schwer bewaffnete Nahkämpfer
+
+Der Warrior ist auf den direkten Nahkampf ausgerichtet. Er nutzt schwere Rüstungen und wuchtige Waffen. Zu seinen Waffen gehören unter anderem Doppelaxt und Glaive. Diese Klasse passt zu Spielern, die den Kampf lieber aus nächster Nähe führen.
+
+### Wizard – die arkane Magie
+
+Der Wizard konzentriert sich auf arkane Magie. Sein Erscheinungsbild und seine Ausrüstung unterscheiden sich deutlich von den schwer gepanzerten Klassen: Roben und ein Arcane Staff gehören zu den charakteristischen Gegenständen. Der Wizard ist die richtige Wahl, wenn du deinen Charakter auf magische Angriffe ausrichten möchtest.
+
+### Berserker – der wilde Angreifer
+
+Der Berserker ist auf hohen körperlichen Nahkampfschaden ausgelegt. Seine Stärke nimmt zu, wenn seine Lebenspunkte niedrig sind. Wut und erhöhte Angriffsgeschwindigkeit unterstützen seinen aggressiven Kampfstil; außerdem verfügt er über Möglichkeiten zur Selbstheilung und zum Aufbau zusätzlicher Absorption.
+
+Äxte und leichtere Rüstungen passen zu seiner Ausrichtung. Seine offensive Spielweise bringt aber auch ein Risiko mit sich: Angriffe aus der Entfernung können für ihn besonders gefährlich werden. Zu seiner Ausrüstungsentwicklung gehören unter anderem die Bezeichnungen **Wildling**, **Northling** und **Norse Warlord**.
+
+### Bard – vielseitig zwischen Kampf und Unterstützung
+
+Der Bard lässt dir bei der Waffenwahl besonders viel Freiheit. Du kannst entscheiden, ob du lieber selbst kämpfst oder deine Gruppe unterstützt.
+
+- **Armbrust:** für einen stärker kämpferisch ausgerichteten Spielstil.
+- **Degen:** für den direkten Kampf.
+- **Harfe:** für einen unterstützenden Spielstil.
+- **Laute:** ebenfalls für die Unterstützung deiner Gruppe.
+
+Auch die Ausrüstungsentwicklung des Barden besitzt eigene Stufen: **Entertainer**, **Troubadour** und **The Storyteller**.
 
 ## Waffen und Rüstungen
 
-Zum RPG-System gehören klassenspezifische Waffen und Rüstungen. Im Laufe des Spiels kannst du unterschiedliche Ausrüstungsgegenstände entdecken und deinen Charakter damit weiterentwickeln.
+Die Klassen unterscheiden sich nicht nur durch ihre Ausrichtung, sondern auch durch ihre Ausrüstung. Manche setzen auf schwere Rüstungen und große Waffen, andere auf leichte Kleidung, Fernkampfwaffen oder magische Stäbe.
 
-Welche Gegenstände verfügbar sind und wie sie sich unterscheiden, wird in den jeweiligen Ausrüstungs- und Klassenartikeln genauer beschrieben. Konkrete Werte, Rezepte oder Fundorte werden nur aufgenommen, wenn sie für die aktuelle Serverversion geprüft wurden.
+Im Laufe deiner Abenteuer kannst du weitere klassenspezifische Ausrüstung entdecken. Achte bei der Wahl deiner Gegenstände darauf, welche Klasse du spielst und welchen Stil du bevorzugst.
 
-## Runen und weitere Systeme
+## Ausrüstung weiterentwickeln
 
-Runen und Magie werden in einem eigenen Kapitel behandelt: [Runen, Zauber und Magie](../systeme/11-runen-zauber-magie.md).
-
-**Wichtig:** Runesmith ist eine eigenständige Mod und gehört nicht zur RPG-Serie. Die Runen, die für Ausrüstung aus der RPG-Serie benötigt werden, sind davon zu unterscheiden. Die beiden Systeme werden im Wiki getrennt erklärt.
+Zum RPG-System gehören unterschiedliche Ausrüstungsstufen und Verbesserungsmöglichkeiten. Neben den Waffen und Rüstungen deiner Klasse gibt es weitere besondere Gegenstände, die deinen Charakter ergänzen können. Relikte und Schmuck werden in einem eigenen Kapitel vorgestellt.
 
 ## Weiterführende Kapitel
 
@@ -74,4 +100,4 @@ Runen und Magie werden in einem eigenen Kapitel behandelt: [Runen, Zauber und Ma
 
 ---
 
-<small>Stand: Minecraft 1.21.1 · NeoForge. Die Klassenbilder zeigen den derzeitigen Stand der Charakterdarstellung. Servereigene Werte und Details werden vor Veröffentlichung anhand der installierten Mods und bestätigter Tests geprüft.</small>
+<small>Dieses Kapitel beschreibt die Klassen und ihre grundlegende Ausrichtung auf Colony RPG. Einzelne Gegenstände und Ausrüstungsstufen können je nach Klasse unterschiedlich sein.</small>
