@@ -1,32 +1,8 @@
-# Die Welt und ihre Bewohner
+# MCA Reborn und die lebendige Spielwelt
 
-Auf Colony RPG beginnt dein Abenteuer in einer vertrauten, aber sichtbar veränderten Oberwelt. Die Landschaften wirken abwechslungsreicher und auch die Dörfer bekommen mehr Leben. Dafür sorgen drei Erweiterungen aus unserer Mod-Auswahl: **Geophilic**, **William Wythers' Overhauled Overworld** und **Minecraft Comes Alive Reborn (MCA Reborn)**.
+Auf Colony RPG ergänzen wir das klassische Minecraft-Dorfleben um **Minecraft Comes Alive Reborn (MCA Reborn)**. Die Mod macht aus den gewöhnlichen Dorfbewohnern menschenähnliche NPCs, mit denen du sprechen, Beziehungen aufbauen und eine Familie gründen kannst.
 
-## Eine abwechslungsreichere Oberwelt
-
-Für die Weltgenerierung sind auf Colony RPG zwei Erweiterungen enthalten. Sie verfolgen unterschiedliche Ansätze und ergänzen sich in der Gestaltung der Oberwelt.
-
-### Geophilic – mehr natürliche Details
-
-![Waldlandschaft aus der Geophilic-Galerie](https://cdn.modrinth.com/data/hl5OLM95/images/4f3bbb5398b8735da7ae788aafdfc7a29db5d180_350.webp)
-
-<small>Abbildung: Beispiel aus der offiziellen Geophilic-Galerie. Quelle: [Geophilic auf Modrinth](https://modrinth.com/datapack/geophilic/gallery).</small>
-
-**Geophilic** überarbeitet die bekannten Vanilla-Biome auf dezente Weise. Die vertraute Minecraft-Landschaft bleibt erhalten, bekommt aber zusätzliche natürliche Details: zum Beispiel umgestürzte Bäume, Lichtungen, Felsen, Baumstümpfe, Büsche und Moos.
-
-Die Mod fügt dabei laut Projektbeschreibung keine neuen Blöcke, Gegenstände oder Biome hinzu. Stattdessen werden vorhandene Landschaften behutsam ausgestaltet. So fühlt sich die Oberwelt weiterhin nach Minecraft an, wirkt aber an vielen Stellen lebendiger und abwechslungsreicher.
-
-### William Wythers' Overhauled Overworld – neu gestaltete Landschaften
-
-![Neu gestaltete Wald- und Berglandschaft aus William Wythers' Overhauled Overworld](https://cdn.modrinth.com/data/II7t6llZ/images/93f1780cd766e787c267cacc4ab317ff62e985ff_350.webp)
-
-<small>Abbildung: Waldlandschaft aus der offiziellen Galerie von William Wythers' Overhauled Overworld. Quelle: [WWOO auf Modrinth](https://modrinth.com/mod/wwoo/gallery).</small>
-
-**William Wythers' Overhauled Overworld (WWOO)** gestaltet die Vanilla-Biome umfassender um. Die bekannten Biome erhalten unterschiedliche Unterbereiche und abwechslungsreichere Landschaftsformen. Auch die Übergänge zwischen verschiedenen Biomen sollen natürlicher wirken, statt abrupt zu wechseln.
-
-Während Geophilic vor allem zusätzliche Details in die vertrauten Landschaften bringt, verändert WWOO den Aufbau und das Erscheinungsbild der Biome stärker. Zusammen sorgen die beiden World-Generation-Erweiterungen dafür, dass Erkundungstouren durch die Oberwelt immer wieder neue Landschaftseindrücke bieten.
-
-Beide Projekte unterstützen Minecraft 1.21.1 und NeoForge. Auf Colony RPG sind sie gemeinsam Bestandteil der Mod-Auswahl. Die Bilder auf dieser Seite stammen aus den offiziellen Projektgalerien und zeigen Beispiele der jeweiligen Gestaltung; die Landschaften in deiner Welt können je nach Biom und Weltgeneration anders aussehen.
+Zusätzlich verwenden wir zwei Mods zur Weltgenerierung: **Geophilic** und **William Wythers' Overhauled Overworld**. Sie sorgen dafür, dass die Welt, in der diese Bewohner leben, abwechslungsreicher und natürlicher wirkt.
 
 ## MCA Reborn – Dörfer werden lebendig
 
@@ -34,37 +10,79 @@ Beide Projekte unterstützen Minecraft 1.21.1 und NeoForge. Auf Colony RPG sind 
 
 <small>Abbildung: Interaktion mit einer Bewohnerin und das MCA-Menü. Quelle: [MCA Reborn auf Modrinth](https://modrinth.com/mod/minecraft-comes-alive-reborn).</small>
 
-Mit **Minecraft Comes Alive Reborn (MCA Reborn)** verändert sich der Umgang mit den Dorfbewohnern. Die vertrauten Vanilla-Dorfbewohner werden durch menschenähnliche NPCs ersetzt, mit denen du sprechen und auf unterschiedliche Weise interagieren kannst. Ein Dorf ist damit nicht mehr nur ein Ort zum Handeln – seine Bewohner können zu Figuren werden, die du mit der Zeit kennenlernst.
+**Minecraft Comes Alive Reborn (MCA Reborn)** verändert das vertraute Dorfbewohner-System. Die klassischen Bewohner werden durch menschenähnliche NPCs ersetzt. Sie besitzen Namen und individuelle Persönlichkeiten und können unterschiedliche Stimmungen zeigen.
 
-Die wichtigsten Möglichkeiten im Überblick:
+Du kannst mit ihnen über ein Interaktionsmenü sprechen, Witze erzählen und Geschenke machen. Durch solche Begegnungen baust du Beziehungen auf. Je nach Beziehung und Situation entwickeln sich daraus Freundschaften oder romantische Beziehungen.
 
-- **Gespräche führen:** Du kannst Bewohner ansprechen und über das Interaktionsmenü mit ihnen kommunizieren.
-- **Geschenke machen:** Mit passenden Gegenständen kannst du Bewohnern eine Freude machen und eure Beziehung beeinflussen.
-- **Persönlichkeiten kennenlernen:** Bewohner besitzen eigene Persönlichkeiten und Stimmungen. Dadurch reagieren nicht alle gleich auf deine Aktionen.
-- **Beziehungen aufbauen:** Aus Begegnungen können Freundschaften und engere Beziehungen entstehen. Mit ausreichend hoher Beziehung ist auch eine Heirat möglich.
-- **Familie gründen:** Nach einer Heirat können Kinder Teil deiner Familie werden. Sie wachsen mit der Zeit heran und entwickeln sich weiter.
-- **Dörfer unterstützen:** MCA Reborn bietet außerdem Möglichkeiten, die Entwicklung eines Dorfes zu unterstützen und innerhalb der Dorfgemeinschaft aufzusteigen.
+### Beziehungen, Heirat und Familie
 
-Im Mehrspieler gibt es auch die Möglichkeit, andere Spieler zu heiraten. Welche Interaktionen im Einzelnen verfügbar sind, hängt von der installierten Version und den Servereinstellungen ab.
+Wenn sich eine Beziehung ausreichend entwickelt hat, kannst du einen Bewohner heiraten. Anschließend ist es möglich, gemeinsam Kinder zu bekommen oder Kinder zu adoptieren.
 
-Auf Colony RPG ist **MCA Reborn 7.7.36-beta.3** für Minecraft 1.21.1 mit NeoForge installiert. Zusätzlich ist die Erweiterung **MCA: Female Gender** in der Mod-Auswahl enthalten.
+Die Kinder wachsen mit der Zeit heran. Auch genetische Merkmale und die Entwicklung der Charaktere gehören zum Familiensystem der Mod. Herangewachsene Kinder können außerdem Aufgaben übernehmen – zum Beispiel in der Landwirtschaft oder beim Holzfällen.
 
-### MCA-Bewohner und MineColonies-Bürger sind nicht dasselbe
+Im Mehrspieler können Spieler außerdem andere Spieler heiraten. MCA Reborn ist damit nicht nur für Einzelspieler gedacht, sondern erweitert auch das gemeinsame Rollenspiel auf einem Server.
 
-Auch wenn beide Systeme Bewohner in die Welt bringen, erfüllen sie unterschiedliche Aufgaben:
+### Das Dorf weiterentwickeln
 
-- **MCA-Bewohner** gehören zu den natürlich generierten Dörfern. Du kannst mit ihnen interagieren, Beziehungen aufbauen und eine Familie gründen.
-- **MineColonies-Bürger** leben in deiner selbst gegründeten Kolonie. Sie benötigen Wohnraum und Arbeitsplätze und übernehmen feste Berufe und Aufgaben.
+MCA Reborn enthält neben den sozialen Funktionen auch ein eigenes System zur Dorfverwaltung. Mit dem Bauplan (Blueprint) lassen sich Gebäude erkennen und die Entwicklung eines Dorfes vorantreiben. Durch Fortschritt und bessere Beziehungen können höhere Ränge erreicht werden.
 
-Wenn du selbst eine Siedlung gründen und verwalten möchtest, findest du alle wichtigen Schritte im Kapitel [MineColonies – Kolonien aufbauen und entwickeln](../grundlagen/03-minecolonies.md).
+Damit ergänzt MCA Reborn das Dorfleben um zusätzliche Aufgaben und Entwicklungsmöglichkeiten.
 
-## Offizielle Projektseiten und Quellen
+### MCA-Bewohner und MineColonies-Bürger
 
-- [Geophilic – Modrinth](https://modrinth.com/datapack/geophilic) – Beschreibung der dezenten Überarbeitung von Vanilla-Biomen und zusätzliche Landschaftsdetails.
-- [Geophilic – Galerie](https://modrinth.com/datapack/geophilic/gallery) – offizielle Beispielbilder der Biome.
-- [William Wythers' Overhauled Overworld – Modrinth](https://modrinth.com/mod/wwoo) – überarbeitete Biome und Unterbiome.
-- [William Wythers' Overhauled Overworld – Galerie](https://modrinth.com/mod/wwoo/gallery) – offizielle Landschaftsbilder.
-- [MCA Reborn – Modrinth](https://modrinth.com/mod/minecraft-comes-alive-reborn) – Interaktionen, Beziehungen, Heirat und Familien.
-- [MCA Reborn – CurseForge](https://www.curseforge.com/minecraft/mc-mods/minecraft-comes-alive-reborn) – Modbeschreibung und Versionsübersicht.
+Die beiden Systeme bringen unterschiedliche Bewohner in die Spielwelt:
 
-<small>Versionsstand der Colony-RPG-Modliste: Minecraft 1.21.1 mit NeoForge. Die genannten installierten Versionen stammen aus der Server-Modliste. Die allgemeinen Funktionsbeschreibungen orientieren sich an den offiziellen Projektseiten. Servereinstellungen und Modupdates können einzelne Funktionen verändern.</small>
+- **MCA-Bewohner** gehören zu den natürlich generierten Dörfern. Im Mittelpunkt stehen Gespräche, Beziehungen, Familie und die Entwicklung des Dorfes.
+- **MineColonies-Bürger** leben in deiner selbst gegründeten Kolonie. Sie übernehmen feste Berufe und Aufgaben und sind Teil des Kolonie-Aufbaus.
+
+Wenn du eine eigene Siedlung gründen und verwalten möchtest, findest du weitere Informationen im Kapitel [MineColonies – Kolonien aufbauen und entwickeln](../grundlagen/03-minecolonies.md).
+
+## Die Weltgenerierung – zwei Mods für abwechslungsreiche Landschaften
+
+Neben MCA Reborn sind auf Colony RPG zwei Mods zur Gestaltung der Oberwelt enthalten. Beide verändern die Landschaften, setzen dabei aber unterschiedliche Schwerpunkte.
+
+### Geophilic – mehr natürliche Details
+
+![Waldlandschaft aus der Geophilic-Galerie](https://cdn.modrinth.com/data/hl5OLM95/images/4f3bbb5398b8735da7ae788aafdfc7a29db5d180_350.webp)
+
+<small>Abbildung: Beispiel aus der offiziellen Geophilic-Galerie. Quelle: [Geophilic auf Modrinth](https://modrinth.com/datapack/geophilic/gallery).</small>
+
+**Geophilic** überarbeitet die bekannten Vanilla-Biome auf dezente Weise. Die vertraute Minecraft-Landschaft bleibt erhalten, bekommt aber zusätzliche natürliche Details. Dazu gehören zum Beispiel umgestürzte Bäume, Lichtungen, Felsen, Baumstümpfe, Büsche und Moos.
+
+Die Mod fügt laut Projektbeschreibung keine neuen Blöcke, Gegenstände oder Biome hinzu. Stattdessen gestaltet sie vorhandene Landschaften behutsam aus und bewahrt dabei das typische Minecraft-Spielgefühl.
+
+### William Wythers' Overhauled Overworld – neu gestaltete Landschaften
+
+![Landschaft aus William Wythers' Overhauled Overworld](https://cdn.modrinth.com/data/II7t6llZ/images/93f1780cd766e787c267cacc4ab317ff62e985ff_350.webp)
+
+<small>Abbildung: Landschaft aus der offiziellen Galerie von William Wythers' Overhauled Overworld. Quelle: [WWOO auf Modrinth](https://modrinth.com/mod/wwoo/gallery).</small>
+
+**William Wythers' Overhauled Overworld (WWOO)** gestaltet die Vanilla-Biome umfassender um. Die bekannten Biome erhalten abwechslungsreichere Landschaftsformen und unterschiedliche Unterbiome. Auch die Übergänge zwischen verschiedenen Biomen wirken dadurch natürlicher.
+
+Während Geophilic vor allem zusätzliche Details in vertraute Landschaften bringt, verändert WWOO den Aufbau und das Erscheinungsbild der Biome stärker. Zusammen sorgen beide Mods für mehr Abwechslung bei Erkundungstouren durch die Oberwelt.
+
+## Zusammenspiel auf Colony RPG
+
+Die drei Mods ergänzen sich auf unterschiedliche Weise:
+
+- **MCA Reborn** bringt menschlich gestaltete Bewohner, Beziehungen und Familien in die Dörfer.
+- **Geophilic** ergänzt die bekannten Biome um natürliche Details.
+- **William Wythers' Overhauled Overworld** gestaltet die Landschaften und Biome umfangreicher um.
+
+So entsteht eine Welt, die nicht nur abwechslungsreicher aussieht, sondern auch mehr Möglichkeiten für Geschichten und gemeinsames Rollenspiel bietet.
+
+## Offizielle Projektseiten und weiterführende Quellen
+
+### MCA Reborn
+- [MCA Reborn – Modrinth](https://modrinth.com/mod/minecraft-comes-alive-reborn) – offizielle Modbeschreibung und Versionsübersicht.
+- [MCA Reborn – CurseForge](https://www.curseforge.com/minecraft/mc-mods/minecraft-comes-alive-reborn) – Modbeschreibung und Downloads.
+- [MCA Reborn – Community-Wiki](https://minecraft-comes-alive-reborn.fandom.com/wiki/Minecraft_Comes_Alive_Reborn_Wiki) – Informationen zu Spielmechaniken und Gegenständen.
+- [MCA Reborn – Entwickler-Wiki auf GitHub](https://github.com/Luke100000/minecraft-comes-alive/wiki) – technische Dokumentation und weiterführende Informationen.
+
+### Weltgenerierung
+- [Geophilic – Modrinth](https://modrinth.com/datapack/geophilic) – Beschreibung der Biome-Überarbeitung.
+- [Geophilic – Galerie](https://modrinth.com/datapack/geophilic/gallery) – offizielle Beispielbilder.
+- [William Wythers' Overhauled Overworld – Modrinth](https://modrinth.com/mod/wwoo) – Beschreibung der überarbeiteten Biome.
+- [WWOO – Galerie](https://modrinth.com/mod/wwoo/gallery) – offizielle Landschaftsbilder.
+
+<small>Versionshinweis: In der vorliegenden Colony-RPG-Modliste sind MCA Reborn 7.7.36-beta.3, Geophilic 3.7 und William Wythers' Overhauled Overworld 2.6.7 für Minecraft 1.21.1 aufgeführt. Die Abbildungen stammen aus den offiziellen Projektgalerien. Das Aussehen der Landschaften kann je nach Biom und Weltgeneration variieren. Einzelne Funktionen von MCA Reborn können von der installierten Version und den Serverbedingungen abhängen.</small>
