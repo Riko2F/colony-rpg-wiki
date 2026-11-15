@@ -71,19 +71,44 @@ Die Versionsangaben beziehen sich auf die für Colony RPG geprüften Dateien. Si
 
 ## Datapacks zum Download
 
-Neben den Mods verwendet Colony RPG eigene Datapacks, die bestimmte Spielinhalte ergänzen oder anpassen. Die folgenden Pakete sind für **Minecraft 1.21.1** erstellt und verwenden Datapack-Format 48.
+Für Colony RPG stehen eigene Datapacks bereit. Sie ergänzen Quests, Dungeon-Beute und die Weltgenerierung. Alle vier Downloads sind für **Minecraft 1.21.1** erstellt und verwenden Datapack-Format 48.
 
-| Datapack | Version | Inhalt |
-|---|---:|---|
-| Bountiful RPG Quest Add-on | 1.5 | Ergänzt Bountiful um das Dekret „Colony RPG“ und 23 Quest-Vorlagen – darunter Lieferaufträge, Monsterjagden und Bossaufträge. |
-| Dimensional Dungeons RPG Loot Pack | 1.9.3 | Erweitert Dungeon- und Mob-Beute. Enthält unter anderem Berserker- und Barden-Rüstungen sowie die passenden Upgrade-Kristalle. |
-| Modern Companions Worldgen Whitelist | 1.1 | Begrenzt die natürlich generierten Begleiter-Strukturen auf die vorgesehenen sieben Rollen: Archer, Axeguard, Berserker, Vanguard, Cleric, Scout und Alchemist. |
-| Dungeon Rooms – Server Ready | Keine Versionsnummer angegeben | Enthält 30 zusätzliche NBT-Strukturdateien für Dimensional Dungeons. |
+| Datapack | Version | Was es macht | Download |
+|---|---:|---|---|
+| **Bountiful RPG Quest Add-on** | 1.5 | Ergänzt Bountiful um das Dekret „Colony RPG“ und 23 Quest-Vorlagen: Lieferaufträge, Monsterjagden und Bossaufträge. Enthält unter anderem Aufträge für Cataclysm-Bosse. | [ZIP herunterladen](../downloads/Bountiful_RPG_Quest_Addon_1.5.zip) |
+| **Dimensional Dungeons RPG Loot Pack** | 1.9.3 | Erweitert Dungeon- und Mob-Beute. Enthält unter anderem Berserker- und Barden-Rüstungen, passende Armory-Upgrade-Kristalle sowie Münzbeute für bestimmte MineColonies-Gegner und Cataclysm-Bosse. | [ZIP herunterladen](../downloads/Dimensional_Dungeons_RPG_Loot_Pack_v1.9.3.zip) |
+| **Modern Companions Worldgen Whitelist** | 1.1 | Beschränkt die natürlich generierten Begleiter-Strukturen auf sieben Rollen: Archer, Axeguard, Berserker, Vanguard, Cleric, Scout und Alchemist. | [ZIP herunterladen](../downloads/Modern_Companions_Whitelist_Worldgen_1.1%20(1).zip) |
+| **Dungeon Rooms – Server Ready** | Keine Versionsnummer angegeben | Enthält 30 zusätzliche NBT-Strukturdateien für Dimensional Dungeons, darunter Räume und Fallen. | [ZIP herunterladen](../downloads/Dungeon_Rooms_Server_Ready.zip) |
 
-### Installation
+### Datapacks installieren
 
-Sofern bei einem einzelnen Paket nichts anderes angegeben ist, werden die Datapacks in den Ordner `datapacks` der jeweiligen Welt gelegt. Die ZIP-Datei bleibt dabei unverändert. Entferne ältere Versionen desselben Pakets, damit sich keine doppelten oder konkurrierenden Änderungen überlagern. Anschließend die Welt bzw. den Server neu starten oder `/reload` ausführen und mit `/datapack list` prüfen, ob das Paket aktiviert ist.
+Die Datapacks werden **nicht** in den Mods-Ordner gelegt. Sie gehören in den Ordner `datapacks` der jeweiligen Minecraft-Welt. Die ZIP-Dateien müssen dabei **nicht entpackt** werden.
 
-**Wichtig:** Sichere deine Welt vor Änderungen und teste neue oder aktualisierte Datapacks zuerst in einer Weltkopie. Änderungen an Weltgenerierung – wie bei der Modern-Companions-Whitelist – wirken nur auf neu generierte Chunks. Bereits erzeugte Gebiete werden nicht rückwirkend umgebaut.
+#### Einzelspieler
 
-Die Download-Links werden ergänzt, sobald die ZIP-Dateien im öffentlichen Wiki-Repository abgelegt sind. Die Dungeon-Rooms-Datei enthält keine eigene Versionsnummer; deshalb wird dafür keine Versionsangabe erfunden.
+1. Starte Minecraft mit dem Colony-RPG-Modpack und öffne die gewünschte Welt mindestens einmal.
+2. Öffne den Speicherordner dieser Welt. Du findest ihn im Minecraft-Verzeichnis unter `.minecraft/saves/<Weltname>/`.
+3. Öffne dort den Ordner `datapacks`. Falls er noch nicht existiert, kannst du ihn selbst erstellen.
+4. Kopiere die gewünschte ZIP-Datei unverändert in diesen Ordner.
+5. Lade die Welt neu oder führe im Spiel den Befehl `/reload` aus.
+6. Kontrolliere mit `/datapack list`, ob das Datapack geladen ist.
+
+#### Mehrspieler-Server
+
+1. Stoppe den Minecraft-Server, bevor du Dateien hinzufügst oder austauschst.
+2. Öffne den Ordner der aktiven Serverwelt. Standardmäßig heißt er häufig `world`; maßgeblich ist der in der Serverkonfiguration unter `level-name` eingetragene Weltname.
+3. Öffne im Weltordner den Unterordner `datapacks`. Er liegt also beispielsweise unter `<Serverordner>/world/datapacks/`. Falls er fehlt, erstelle ihn.
+4. Lade die gewünschte ZIP-Datei in diesen Ordner hoch. Nicht in den übergeordneten Serverordner und nicht in `mods`.
+5. Starte den Server wieder. Alternativ kann ein Administrator bei laufendem Server `/reload` ausführen.
+6. Prüfe mit `/datapack list`, ob das Datapack aktiviert ist.
+
+**Für Mitspieler:** Bei einem Mehrspieler-Server müssen die Spieler die Datapacks nicht zusätzlich in ihren eigenen Client-Ordner kopieren. Die Datapacks werden von der Serverwelt geladen. Das Modpack und die jeweils benötigten Mods müssen auf Client und Server weiterhin passend installiert sein.
+
+### Wichtige Hinweise zu den einzelnen Datapacks
+
+- **Bountiful RPG Quest Add-on:** Nach dem Aktivieren kann das zusätzliche Dekret mit `/bo gen decree type colony_rpg` erzeugt werden. Dafür werden ausreichende Rechte benötigt. Die Auswahl und Zusammenstellung der Aufträge und Belohnungen kann durch die interne Wert- und Seltenheitslogik von Bountiful beeinflusst werden.
+- **Dimensional Dungeons RPG Loot Pack:** Entferne ältere Versionen dieses Loot-Packs aus dem Weltordner, bevor du Version 1.9.3 einfügst.
+- **Modern Companions Worldgen Whitelist:** Entferne eine ältere Version 1.0, bevor du Version 1.1 installierst. Die Änderungen an der Weltgenerierung gelten nur für **neu generierte Chunks**. Bereits erkundete und generierte Gebiete werden nicht rückwirkend verändert.
+- **Dungeon Rooms – Server Ready:** Das Paket stellt zusätzliche Strukturdateien für Dimensional Dungeons bereit. Eine Versionsnummer ist in der veröffentlichten ZIP nicht angegeben.
+
+**Vor der Installation:** Erstelle ein Backup deiner Welt. Teste neue oder aktualisierte Datapacks zuerst in einer Weltkopie. Aktiviere nur die Pakete, die du verwenden möchtest. Nach dem Laden kannst du mit `/datapack list` prüfen, welche Datapacks aktiv sind.
