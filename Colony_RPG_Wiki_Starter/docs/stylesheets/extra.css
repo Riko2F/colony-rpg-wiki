@@ -90,3 +90,20 @@
 .md-typeset .grid.cards > ul > li:hover {
   border-color: #76549A;
 }
+
+
+/* Eingebundenes Titelbild der Startseite */
+.crpg-banner {
+  overflow: hidden;
+  margin: 0 0 1.5rem;
+  border: 1px solid #A17A50;
+  border-radius: 1rem;
+  box-shadow: 0 0.5rem 1.8rem #211E2530;
+}
+.crpg-banner img {
+  display: block;
+  width: 100%;
+  max-height: 28rem;
+  object-fit: cover;
+  object-position: center 48%;
+}
