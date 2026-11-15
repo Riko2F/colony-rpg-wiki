@@ -86,4 +86,4 @@ Sofern bei einem einzelnen Paket nichts anderes angegeben ist, werden die Datapa
 
 **Wichtig:** Sichere deine Welt vor Änderungen und teste neue oder aktualisierte Datapacks zuerst in einer Weltkopie. Änderungen an Weltgenerierung – wie bei der Modern-Companions-Whitelist – wirken nur auf neu generierte Chunks. Bereits erzeugte Gebiete werden nicht rückwirkend umgebaut.
 
-Die ZIP-Dateien werden als separate Downloads bereitgestellt. Die Dungeon-Rooms-Datei enthält keine eigene Versionsnummer; deshalb wird dafür keine Versionsangabe erfunden.
+Die Download-Links werden ergänzt, sobald die ZIP-Dateien im öffentlichen Wiki-Repository abgelegt sind. Die Dungeon-Rooms-Datei enthält keine eigene Versionsnummer; deshalb wird dafür keine Versionsangabe erfunden.
