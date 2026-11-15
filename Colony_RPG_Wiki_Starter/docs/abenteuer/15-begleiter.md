@@ -25,9 +25,7 @@ Gib dem Gefährten beide gewünschten Stapel. Erst wenn beide Anforderungen erf�
 
 ## Klassen und Rollen
 
-Modern Companions bietet viele unterschiedliche Rollen. Auf Colony RPG ist die Auswahl aber bewusst begrenzt: **Nur acht ausgewählte Begleiterklassen sind freigeschaltet.** Alle anderen Rollen der Mod sind auf unserem Server nicht verfügbar und sollen weder natürlich erscheinen noch von Spielern beschworen werden können.
-
-Die acht freigeschalteten Klassen sind:
+Modern Companions bietet viele unterschiedliche Rollen. Auf Colony RPG ist die Auswahl für **natürlich generierte Begleiterhäuser** bewusst begrenzt: Das aktuelle Whitelist-Datenpaket berücksichtigt sieben Begleiterrollen.
 
 | Begleiterklasse | Aufgabe |
 |---|---|
@@ -37,10 +35,9 @@ Die acht freigeschalteten Klassen sind:
 | **Vanguard** | Robuster Verteidiger mit Schild und Schutzfähigkeiten |
 | **Cleric** | Unterstützer mit Heilfähigkeiten |
 | **Scout** | Beweglicher Kämpfer mit hoher Geschwindigkeit |
-| **Necromancer** | Magischer Kämpfer mit nekromantischen Fähigkeiten |
 | **Alchemist** | Unterstützer, der Tränke im Kampf einsetzt |
 
-Diese Begleiterrollen sind nicht automatisch dieselben Klassen wie deine eigene RPG-Klasse. Die Freischaltung ist eine eigene Serverentscheidung und gilt unabhängig davon, welche Klassen du selbst spielst.
+Diese Begleiterrollen sind nicht automatisch dieselben Klassen wie deine eigene RPG-Klasse. Die Whitelist steuert die natürlich generierten Begleiterhäuser und ihre Spawnplätze. Sie sperrt jedoch keine registrierten Begleiter-Entitäten, Spawn-Eier oder eine manuelle Beschwörung. **Necromancer gehört nicht zu den Rollen, die dieses Datapack für die Weltgenerierung freigibt.**
 
 
 ## Befehle und Verhalten
@@ -137,4 +134,4 @@ Ein paar Einstellungen sind auf unserem Server besonders wichtig:
 - [Modern Companions – GitHub-Projektseite](https://github.com/Modern-Mods/ModernCompanions): technische Details und aktuelle Funktionsbeschreibung.
 - [Modern Companions – offizielle Bildergalerie auf CurseForge](https://www.curseforge.com/minecraft/mc-mods/modern-companions/gallery): weitere Screenshots aus dem Spiel.
 
-Die Angaben zu den Server-Einstellungen stammen aus der auf Colony RPG verwendeten Konfigurationsdatei. Die Einschränkung auf **Archer, Axeguard, Berserker, Vanguard, Cleric, Scout, Necromancer und Alchemist** ist eine serverseitige Whitelist-Entscheidung. Die Mod selbst bietet weitere Rollen, die auf Colony RPG nicht freigeschaltet sind. Die Angaben zur Weltgenerierung berücksichtigen außerdem das servereigene Whitelist-Datenpaket.
+Die Angaben zur Weltgenerierung stammen aus dem servereigenen Whitelist-Datenpaket **Modern Companions 4.60 – Worldgen-Whitelist 1.1**. Es begrenzt die natürlich generierten Begleiterhäuser und Spawnplätze auf die oben genannten Rollen. Manuelle Beschwörungen und Spawn-Eier werden durch dieses Datapack ausdrücklich nicht gesperrt.
