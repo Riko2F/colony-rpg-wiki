@@ -18,9 +18,9 @@ Typische Bestandteile sind:
 
 Viele dieser Systeme können auf unterschiedliche Arten aufgebaut werden. Es gibt daher nicht nur eine einzige richtige Bauweise.
 
-![Ein Wasserrad wird durch fließendes Wasser angetrieben und gibt die Drehbewegung an eine Welle weiter.](https://create-france.com/wiki-media/roue-a-eau/water_wheel_courant.webp?v=2026-10-27)
+![Ketten, Fördertechnik und Lagerkomponenten in einer technischen Anlage auf Colony RPG.](../assets/screenshots/create-lagerlogistik.png)
 
-<small>Beispiel für einen Create-Antrieb: Ein Wasserrad nutzt fließendes Wasser, um mechanische Bewegung zu erzeugen. Illustration: [Create France – Wasserrad](https://create-france.com/en/wiki/water-wheel).</small>
+<small>Ein eigener Einblick in die Lager- und Transporttechnik auf dem Server.</small>
 
 ## Maschinen und Automatisierung
 
