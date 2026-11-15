@@ -4,9 +4,9 @@ Mit **MineColonies** kannst du in Minecraft eine eigene Siedlung gründen und Sc
 
 Auf Colony RPG ist MineColonies ein zentraler Bestandteil des Bau- und Stadtentwicklungssystems. Du kannst deine Kolonie nach deinen Vorstellungen gestalten und verschiedene Baustile miteinander kombinieren.
 
-![Panorama einer MineColonies-Siedlung mit Wohnhäusern, Türmen und Feldern.](https://media.forgecdn.net/attachments/608/267/screenshot1.jpg)
+![Eine Gasse zwischen mittelalterlichen Fachwerkhäusern und steinernen Gebäuden in Eisenhain.](../assets/screenshots/eisenhain-stadtgasse.png)
 
-<small>Eine Beispielkolonie aus der offiziellen MineColonies-Galerie auf CurseForge. Die gezeigte Siedlung ist ein Anschauungsbeispiel und nicht die Colony-RPG-Spielwelt.</small>
+<small>Ein eigener Einblick in die Bebauung und Atmosphäre von Eisenhain auf Colony RPG.</small>
 
 ## Was ist eine Kolonie?
 
@@ -57,10 +57,6 @@ Dafür benötigt er eine **Baumeisterhütte (Builder's Hut)**. Wichtig: Du kanns
 
 Auch die Baumeisterhütte selbst muss zuerst errichtet werden. Die Fähigkeiten des Baumeisters und die Ausbaustufe seiner Hütte beeinflussen, welche Bau- und Ausbauarbeiten er übernehmen kann.
 
-![Ein MineColonies-Bürger arbeitet an einem Gebäude.](https://media.forgecdn.net/attachments/211/246/2017-06-16_21.png)
-
-<small>Ein Blick auf die Bauarbeiten und die Gebäude einer Kolonie. Screenshot aus der [MineColonies-Galerie auf CurseForge](https://www.curseforge.com/minecraft/mc-mods/minecolonies/gallery).</small>
-
 ## Bürger und Berufe
 
 Die Bewohner deiner Kolonie übernehmen verschiedene Aufgaben. Dafür benötigen sie jeweils einen passenden Arbeitsplatz. Zu den möglichen Tätigkeiten gehören unter anderem:
@@ -72,10 +68,6 @@ Die Bewohner deiner Kolonie übernehmen verschiedene Aufgaben. Dafür benötigen
 - **Verteidigung:** Wachen schützen die Kolonie vor Gefahren.
 
 Welche Berufe und Gebäude du zuerst benötigst, hängt davon ab, wie du deine Kolonie entwickeln möchtest.
-
-![MineColonies-Farmer bei der Arbeit auf einem Feld.](https://media.forgecdn.net/attachments/211/232/2017-06-16_18.png)
-
-<small>Beispiel für einen Bürger bei der Feldarbeit. Screenshot aus der [MineColonies-Galerie auf CurseForge](https://www.curseforge.com/minecraft/mc-mods/minecolonies/gallery).</small>
 
 ## Wohnen, Nahrung und Wachstum
 
@@ -95,10 +87,6 @@ MineColonies bietet verschiedene Baustile, aus denen du für deine Gebäude wäh
 
 Auf Colony RPG ist eine gemischte Bauweise möglich: Mittelalterliche Gebäude können beispielsweise neben industriell oder steampunkartig gestalteten Bauwerken stehen. Entscheidend ist, dass deine Kolonie deinen eigenen Vorstellungen entspricht.
 
-![Eine MineColonies-Siedlung mit einem großen Luftschiff und Gebäuden im Steampunk-Stil.](https://media.forgecdn.net/attachments/608/276/screenshot22.jpg)
-
-<small>Beispiel für eine außergewöhnliche Gestaltung im Steampunk-Stil. Screenshot aus der [MineColonies-Galerie auf CurseForge](https://www.curseforge.com/minecraft/mc-mods/minecolonies/gallery).</small>
-
 ### Gebäude und Baustile vorab ansehen
 
 Du möchtest dir erst einmal ansehen, wie die verschiedenen MineColonies-Gebäude aussehen, bevor du einen Baustil auswählst? Im [MineColonies Style Explorer](https://tomp2.github.io/minecolonies-style-explorer/) kannst du die Gebäude und alle offiziellen MineColonies-Baustile durchstöbern. So bekommst du einen Eindruck davon, welche Varianten es gibt und wie die einzelnen Gebäude gestaltet sind. **Auf Colony RPG sind alle offiziellen Baustile aus dem Explorer installiert.** Du kannst die dort gezeigten Stile also auch für deine Kolonie verwenden.
@@ -117,6 +105,6 @@ Die folgenden Quellen erklären die allgemeinen Funktionen von MineColonies und 
 - [Getting Started – Offizielle Einstiegshilfe](https://minecolonies.com/wiki/tutorials/getting-started/) – Gründung einer Kolonie und erste Entwicklungsschritte.
 - [Town Hall – Offizielle Gebäude-Dokumentation](https://minecolonies.com/wiki/buildings/townhall/) – Aufgaben des Rathauses und Verwaltung der Kolonie.
 - [MineColonies auf CurseForge](https://www.curseforge.com/minecraft/mc-mods/minecolonies) – Mod-Beschreibung und unterstützte Spielversionen.
-- [MineColonies-Galerie auf CurseForge](https://www.curseforge.com/minecraft/mc-mods/minecolonies/gallery) – Screenshots aus verschiedenen Kolonien und Baustilen. Die im Artikel verwendeten Galerie-Bilder sind Beispiele aus der Mod und zeigen nicht die Colony-RPG-Welt.
+- Die im Artikel verwendeten eigenen Screenshots zeigen die Colony-RPG-Spielwelt.
 
 <small>Versionsstand des Wiki-Artikels: Minecraft 1.21.1 mit NeoForge. Die beschriebenen Grundlagen beziehen sich auf die allgemeinen MineColonies-Funktionen. Einzelne Einstellungen und Schutzbereiche können je nach Serverkonfiguration abweichen.</small>
