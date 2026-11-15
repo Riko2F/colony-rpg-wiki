@@ -99,11 +99,6 @@ Die Anordnung im 3×3-Feld ist einfach: Drei Obsidian liegen nebeneinander in de
 
 Nach dem Herstellen erhältst du den fertigen **Hub-Anker**. Auf deinem Screenshot ist der Block mit einem dunklen violett-schwarzen Sockel, einer hellen quadratischen Oberseite und einer dunklen Öffnung in der Mitte zu sehen. Stelle ihn an einem gut erreichbaren Ort auf und benutze ihn, um in den Expeditions-Hub zu gelangen.
 
-<figure>
-  <img src="https://cdn.modrinth.com/data/cached_images/1807576bd455a33d9b66b15e03f0cae55a3d6bcb.png" alt="Darstellung des Hub-Anker-Rezepts; der fertige Block ist im JEI-Ausgabefeld abgebildet" />
-  <figcaption>Der fertige Hub-Anker ist rechts im Rezept-Ausgabefeld zu erkennen. Das zweite Bild in diesem Abschnitt zeigt den Block aufgestellt in deiner Welt.</figcaption>
-</figure>
-
 **2. Im Hub eine Expedition auswählen**
 
 Im Hub findest du verschiedene Portale, die zu den Cataclysm-Bauwerken führen. Wenn du ein Portal aktivierst, wird eine neue Expedition vorbereitet und das Bauwerk in einer eigenen Dimension erzeugt.
