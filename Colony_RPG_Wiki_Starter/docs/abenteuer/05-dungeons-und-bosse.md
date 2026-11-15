@@ -54,7 +54,7 @@ Den aktivierten Schlüssel setzt du in den Portal Keystone deines Portals ein. D
 
 ### Zugang: Advanced Dungeons
 
-<p>Eine bebilderte Bauvorlage für den erweiterten Portalrahmen findest du in der <a href="https://github.com/AllenSeitz/DimDungeons/wiki/Advice-About-Advanced-Dungeons">offiziellen Anleitung zu Advanced Dungeons</a>. Das dort eingebundene Bild wird hier nicht direkt geladen, damit im Wiki kein defektes Bild angezeigt wird.</p>
+<p>Eine bebilderte Bauvorlage für den erweiterten Portalrahmen findest du in der <a href="https://github.com/AllenSeitz/DimDungeons/wiki/Advice-About-Advanced-Dungeons">offiziellen Anleitung zu Advanced Dungeons</a>.</p>
 
 Die **Advanced Dungeons** sind eine deutlich anspruchsvollere Stufe. Sie sind ungefähr doppelt so groß wie normale Dungeons. Die Gegner besitzen mehr Lebenspunkte und sind stärker; dafür warten bessere Belohnungen.
 
