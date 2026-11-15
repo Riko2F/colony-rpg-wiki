@@ -21,6 +21,11 @@ Welche Gebäude du zuerst errichtest, hängt von deinen Zielen und den verfügba
 
 ## Der Baumeister und Bauaufträge
 
+
+![Benutzeroberfläche der Baumeisterhütte mit Arbeiterzuweisung und Bauoptionen](https://minecolonies.com/_astro/main.ldbNfPgk_zqBAe.webp)
+
+<small>Abbildung: Hauptansicht der Baumeisterhütte – Quelle: [offizielle MineColonies-Wiki](https://minecolonies.com/wiki/buildings/builder/).</small>
+
 Der Baumeister ist für fast alle Bauprojekte deiner Kolonie zuständig. Über das Bauwerkzeug wählst du ein Gebäude, einen Baustil und den Standort aus. Anschließend erhält der Baumeister den Bauauftrag und fordert die benötigten Materialien an.
 
 Beachte dabei:
