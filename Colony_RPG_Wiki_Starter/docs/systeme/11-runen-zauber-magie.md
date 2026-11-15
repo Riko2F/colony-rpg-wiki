@@ -23,9 +23,9 @@ Die normalen Rezepte sind formlos. Du kannst Runen direkt im Inventar oder an ei
 
 Das Magiesystem wird über Zauberbücher, Zauberstäbe und Stäbe genutzt. Einige Waffen bringen bereits einen Grundzauber mit. Zauberbücher schalten weitere Fähigkeiten frei und geben dir eine bestimmte magische Ausrichtung.
 
-Bei den Wizards findest du Zauberbücher für drei Magieschulen. Du kannst sie an einem **Zauberbindetisch** erhalten. Solche Tische findest du in den Pavillons von Dörfern oder kannst sie selbst aufstellen. Achte beim Aufbau auf Bücherregale rund um den Tisch.
+Für neue Zauber verwendest du den **Zauberbindetisch** zusammen mit dem passenden Klassenbuch. Welche Klassenbücher es gibt und wofür du sie benötigst, erklären wir im Kapitel [RPG-Klassen und Ausrüstung](../grundlagen/04-rpg-system.md).
 
-Um Zauber aus einem Zauberbuch zu wirken, rüstest du das Buch aus und hältst eine passende Waffe in der Hand. Zauberstäbe und magische Stäbe besitzen dagegen bereits eigene Grundzauber.
+Um Zauber zu wirken, verwendest du die zu deiner Klasse passende magische Ausrüstung und die erlernten Fähigkeiten. Zauberstäbe und magische Stäbe können außerdem eigene Grundzauber besitzen.
 
 ## Die drei Magieschulen des Wizard
 
