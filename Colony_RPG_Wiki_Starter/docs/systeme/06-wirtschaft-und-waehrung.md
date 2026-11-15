@@ -35,6 +35,10 @@ Wenn du Münzen bei dir trägst, können sie beim Tod verloren gehen. Das betrif
 
 In die Geldbörse kannst du deine Münzen legen. Sie zeigt dir den Gesamtwert deines Geldes an, sodass du nicht jede Münzsorte einzeln zusammenrechnen musst.
 
+![Die Geldbörsen-Oberfläche aus Create: Currency Shops mit Münzslots und angezeigtem Gesamtwert](https://media.forgecdn.net/attachments/1506/698/wallet-inventory-complementary-shaders-png.png)
+
+<small>Screenshot: Create: Currency Shops – Wallet Inventory. Bildquelle: [CurseForge-Galerie der Mod](https://www.curseforge.com/minecraft/mc-mods/create-currency-shops/gallery).</small>
+
 Wenn du Geld aus der Geldbörse in deinen Safe einzahlen möchtest, musst du die Münzen zunächst wieder aus der Geldbörse in dein Inventar nehmen. Von dort kannst du sie in den Safe legen.
 
 ### Münz-Safe
