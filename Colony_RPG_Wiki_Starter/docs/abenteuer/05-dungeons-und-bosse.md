@@ -156,13 +156,29 @@ Neben den Mod-Bossen gehören auch bekannte Minecraft-Gegner zu den großen Hera
 
 ## Vorbereitung auf einen Dungeon oder Bosskampf
 
-Egal, welches Abenteuer du auswählst: Eine gute Vorbereitung macht einen großen Unterschied.
+Eine gute Vorbereitung hilft dir, deine Ausrüstung und Fähigkeiten sinnvoll einzusetzen. Welche Zusammenstellung am besten passt, hängt von deiner Klasse, dem Gegner und davon ab, ob du allein oder mit anderen Spielern unterwegs bist.
 
+**Vor dem Aufbruch:**
+
+- Prüfe, ob deine Waffen und Rüstungen zu deiner Klasse und deinem Spielstil passen.
 - Nimm ausreichend Nahrung und Heilungsmöglichkeiten mit.
-- Prüfe deine Rüstung, Waffen und Verzauberungen.
-- Packe passende Tränke und nützliche Hilfsmittel ein.
-- Informiere deine Gruppe über den geplanten Boss oder Dungeon.
-- Bei Advanced Dungeons und Cataclysm-Expeditionen solltest du besonders gut ausgerüstet sein.
+- Packe passende Tränke und weitere nützliche Verbrauchsgegenstände ein.
+- Wenn deine Klasse Zauber mit Runenkosten verwendet, nimm genügend passende Runen mit. Archer sollten außerdem an ihre Pfeile denken.
+- Sieh dir die Fähigkeiten deiner Klasse an und überlege, welche davon für den bevorstehenden Kampf hilfreich sein können.
+- Bei einer Expedition mit mehreren Spielern solltet ihr vorher absprechen, wer angreift, wer Verbündete unterstützt und wer sich um Heilung oder Schutz kümmert.
+
+**Die Stärken der Gruppe nutzen:**
+
+- Ein **Archer** kann Gegner aus der Entfernung unter Beschuss nehmen.
+- Ein **Paladin** kann an vorderster Front kämpfen und Schutz- sowie Heilfähigkeiten einsetzen.
+- Ein **Priest** kann sich auf Heilung und Unterstützung konzentrieren.
+- Ein **Bard** kann Verbündete mit Liedern stärken, schützen und heilen.
+- **Warrior, Rogue und Berserker** bringen unterschiedliche offensive Nahkampffähigkeiten mit.
+- Ein **Wizard** kann je nach Magieschule gezielt Schaden verursachen oder Gegner mit Frostmagie kontrollieren.
+
+Das sind mögliche Rollen, keine Pflichtaufteilung. Du kannst deine Klasse so spielen, wie es zu dir und deiner Gruppe passt. Mehr zu den einzelnen Fähigkeiten findest du in der [RPG-Klassenübersicht](../grundlagen/04-rpg-system.md#klassenfähigkeiten-im-detail).
+
+Bei Advanced Dungeons und Cataclysm-Expeditionen solltest du besonders gut ausgerüstet sein. Wenn du einen Boss noch nicht kennst, kann es sinnvoll sein, ihn zunächst gemeinsam mit anderen Spielern anzugehen.
 
 ## Quellen und Versionshinweise
 
@@ -178,9 +194,16 @@ Die allgemeinen Mod-Funktionen und Zugangsschritte wurden mit den offiziellen Mo
 - [L_Ender's Cataclysm – Wiki](https://lendercataclysm.wiki.gg/)
 - [Cataclysm Expeditions – CurseForge](https://www.curseforge.com/minecraft/mc-mods/cataclysm-expeditions)
 - [Cataclysm Expeditions – Modrinth](https://modrinth.com/mod/cataclysm-expeditions)
+- [Archers (RPG Series) – CurseForge](https://www.curseforge.com/minecraft/mc-mods/archers)
+- [Paladins & Priests (RPG Series) – CurseForge](https://www.curseforge.com/minecraft/mc-mods/paladins-and-priests)
+- [Rogues & Warriors (RPG Series) – CurseForge](https://www.curseforge.com/minecraft/mc-mods/rogues-and-warriors)
+- [Wizards (RPG Series) – CurseForge](https://www.curseforge.com/minecraft/mc-mods/wizards)
+- [Berserker RPG – CurseForge](https://www.curseforge.com/minecraft/mc-mods/berserker-rpg)
+- [Bards RPG – CurseForge](https://www.curseforge.com/minecraft/mc-mods/bards-rpg)
 
 **Installierte Versionen laut hochgeladenen JAR-Dateien:**
 - Dimensional Dungeons 2.10 (Dateiname: `dimdungeons-210-neoforge-1.21.1`)
 - L_Ender's Cataclysm 3.33 für Minecraft 1.21.1
 - Cataclysm Expeditions 2.0.0 für Minecraft 1.21.1 / NeoForge
 
+---
