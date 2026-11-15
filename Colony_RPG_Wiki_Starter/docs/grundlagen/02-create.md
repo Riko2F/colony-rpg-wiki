@@ -36,7 +36,7 @@ Die Verbindung ersetzt nicht das MineColonies-Bausystem: Die Kolonie stellt weit
 
 Create bietet auf dem Server einen eigenen technischen Spielbereich. Du kannst Anlagen zur Verarbeitung von Materialien bauen, Transportwege gestalten und Automatisierung mit dem Aufbau deiner Kolonie verbinden.
 
-Welche konkreten Maschinen, Rezepte und Abläufe sich daraus ergeben, hängt von den installierten Create-Erweiterungen und den jeweiligen Rezepten ab. Servereigene Handelsregeln und Shop-Funktionen werden im Kapitel [Währung und Shops](../systeme/07-waehrung-und-shops.md) behandelt.
+Welche konkreten Maschinen, Rezepte und Abläufe sich daraus ergeben, hängt von den installierten Create-Erweiterungen und den jeweiligen Rezepten ab. Servereigene Handelsregeln und Shop-Funktionen werden im Kapitel [Wirtschaft und Währung](../systeme/06-wirtschaft-und-waehrung.md) behandelt.
 
 ## Quellen und Versionshinweise
 
