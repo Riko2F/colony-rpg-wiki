@@ -12,7 +12,11 @@ Unterschätze auch gewöhnliche Gegner nicht. Mehrere Kreaturen können dich gle
 
 ## Besondere Kreaturen und Varianten
 
-Auf Colony RPG erweitern zusätzliche Kreaturen das normale Gegneraufkommen. Eine davon ist **Spooky Mobs**. Die Mod ergänzt besondere, teils unheimliche Gegner, die in der Welt auftauchen können. Einige greifen aus der Distanz an oder verursachen zusätzliche Effekte. Achte deshalb nicht nur auf das Aussehen, sondern beobachte das Verhalten eines unbekannten Gegners zunächst aus sicherer Entfernung.
+Auf Colony RPG erweitern zusätzliche Kreaturen das normale Gegneraufkommen. Eine davon ist **Spooky Mobs**.
+
+![Cursed Pumpkin aus Spooky Mobs bei Nacht in einer Minecraft-Welt](https://media.forgecdn.net/attachments/1133/578/2025-03-21_20.png)
+
+<small>Abbildung: Cursed Pumpkin in der Spielwelt. Quelle: [offizielle Spooky-Mobs-Modseite auf CurseForge](https://www.curseforge.com/minecraft/mc-mods/spooky-mobs).</small> Die Mod ergänzt besondere, teils unheimliche Gegner, die in der Welt auftauchen können. Einige greifen aus der Distanz an oder verursachen zusätzliche Effekte. Achte deshalb nicht nur auf das Aussehen, sondern beobachte das Verhalten eines unbekannten Gegners zunächst aus sicherer Entfernung.
 
 Beispiele aus der Mod-Beschreibung sind:
 
@@ -66,7 +70,11 @@ Die Fähigkeiten deiner Klasse können dir dabei helfen, unterschiedliche Situat
 
 ## Besondere Gegner und große Bosskämpfe
 
-Einige Gegner sind deutlich mehr als normale Kreaturen. Dazu gehören der Enderdrache, der Wither und der Warden aus Minecraft sowie die mächtigen Bosse aus L_Ender's Cataclysm. Diese Kämpfe erfordern eine gezielte Vorbereitung und werden deshalb nicht hier im Detail erklärt.
+Einige Gegner sind deutlich mehr als normale Kreaturen. Dazu gehören der Enderdrache, der Wither und der Warden aus Minecraft sowie die mächtigen Bosse aus L_Ender's Cataclysm.
+
+![Ender Golem aus L_Ender's Cataclysm in einer Tempelruine](https://media.forgecdn.net/attachments/411/941/2021-12-02_10.png)
+
+<small>Abbildung: Ender Golem. Quelle: [offizielle L_Ender's-Cataclysm-Galerie auf CurseForge](https://www.curseforge.com/minecraft/mc-mods/lendercataclysm/gallery).</small> Diese Kämpfe erfordern eine gezielte Vorbereitung und werden deshalb nicht hier im Detail erklärt.
 
 Alle Informationen zu Dungeon-Zugängen, Cataclysm-Expeditionen und den großen Bossen findest du in [Kapitel 5 – Dungeons und Bosse](05-dungeons-und-bosse.md).
 
