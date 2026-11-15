@@ -2,21 +2,34 @@
 
 ![Archer – Klassenporträt](../../assets/images/klassen/archer.png)
 
-Der Archer ist die auf Fernkampf und Bogenschießen ausgerichtete Klasse der RPG-Serie. Sein Schwerpunkt liegt darauf, Gegner aus sicherer Entfernung mit gezielten Schüssen unter Druck zu setzen. Die Klasse bietet damit eine andere Kampfweise als die auf Nahkampf spezialisierten Rollen.
+Der Archer ist die auf Fernkampf spezialisierte Klasse der RPG-Serie. Mit Bögen und besonderen Fertigkeiten hält er Gegner auf Abstand und kann einzelne Ziele ebenso wie Gruppen unter Druck setzen. Seine Stärken liegen im hohen Fernkampfschaden und in seiner Beweglichkeit. Schwer gepanzerte Gegner können dagegen eine Herausforderung darstellen.
 
 ## Spielstil
 
-Der Archer eignet sich für Spieler, die den Abstand zum Gegner kontrollieren und ihre Angriffe aus der Distanz vorbereiten möchten. Positionierung und das richtige Timing beim Schießen sind wichtige Bestandteile dieses Spielstils.
+Der Archer spielt seine Vorteile aus, indem er Abstand hält, seine Position geschickt wählt und seine Fertigkeiten passend zur Situation einsetzt. Er ist nicht dafür ausgelegt, dauerhaft Treffer an vorderster Front einzustecken. Stattdessen kontrolliert er den Kampf aus der Distanz und nutzt seine Beweglichkeit, um gefährlichen Nahkämpfern auszuweichen.
 
-## Fähigkeiten und Ausrüstung
+## Fähigkeiten
 
-Die Mod Archers ergänzt den Fernkampf um klassenbezogene Fertigkeiten und Ausrüstung. Die genauen Fertigkeiten sind im Spiel über das Archer-Zauberbuch und die zugehörigen Fertigkeitsschriftrollen zugänglich. Zur Mod gehören außerdem eigene Ausrüstungsgegenstände und Fernkampf-Inhalte.
+Das Bogenschützen-Handbuch bietet mehrere aktive Fertigkeiten, die den Fernkampf ergänzen:
 
-Die Mod benötigt unter anderem AzureLib Armor, Ranged Weapon API und Spell Engine. Better Combat wird vom Mod-Autor für die passenden Waffenmechaniken empfohlen.
+- **Sperrfeuer:** Feuert mehrere Pfeile in schneller Folge ab und eignet sich damit für anhaltenden Beschuss.
+- **Verstrickende Wurzeln:** Lässt Wurzeln in der Nähe aus dem Boden schießen, die Gegner für kurze Zeit verlangsamen.
+- **Magischer Pfeil:** Verschießt einen magischen Pfeil, der Gegner auf seiner Flugbahn durchdringt. Durch längeres Aufladen kann der Schuss stärker werden und weiter fliegen.
+- **Kraftschuss:** Markiert getroffene Gegner mit der Jägermarke. Markierte Ziele erleiden zusätzlichen Schaden; die Markierung kann mehrfach gestapelt werden.
+- **Pfeilregen:** Lässt für mehrere Sekunden Pfeile auf ein Zielgebiet niedergehen und verursacht Flächenschaden.
+- **Geisterwolfsrudel:** Beschwört Geisterwölfe, die für begrenzte Zeit an deiner Seite kämpfen und von deinem Fernkampfschaden profitieren.
+
+Die Fertigkeiten werden über das **Bogenschützen-Handbuch** und die zugehörigen Fertigkeitsschriftrollen freigeschaltet beziehungsweise verwendet. Werte und Wirkungsdauer können von der Serverkonfiguration abhängen.
+
+## Waffen und Rüstung
+
+Der Archer ist mäßig gepanzert und auf Fernkampfwaffen ausgelegt. Bögen bilden den Kern seiner Ausrüstung. Weitere klassenspezifische Ausrüstung ergänzt diesen Schwerpunkt.
 
 ## Stärken und Grenzen
 
-Der Schwerpunkt des Archers liegt auf dem Angriff aus der Entfernung. Wie bei jeder spezialisierten Klasse hängt der Erfolg davon ab, die eigene Kampfweise passend zur Situation einzusetzen. Konkrete Schadenswerte und Abklingzeiten werden hier bewusst nicht festgeschrieben, da sie von der Serverkonfiguration und den verwendeten Daten abhängen können.
+**Stärken:** Hoher Schaden auf Distanz, gute Beweglichkeit und Fertigkeiten zur Kontrolle von Gegnern sowie zum Angriff auf Gruppen.
+
+**Grenzen:** Schwer gepanzerte Gegner sind eine besondere Herausforderung. Außerdem sollte der Archer vermeiden, sich ohne Not in längere Nahkämpfe verwickeln zu lassen.
 
 ## Quelle und Version
 
