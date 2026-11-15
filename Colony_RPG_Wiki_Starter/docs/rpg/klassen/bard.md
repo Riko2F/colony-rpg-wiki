@@ -13,9 +13,13 @@ Auf Colony RPG kannst du beim Barden zwischen vier Waffen wählen. Die Entscheid
 - **Harfe:** für einen stärker unterstützenden Musikstil.
 - **Laute:** ebenfalls für einen unterstützenden Musikstil.
 
-## Lieder und Unterstützungszauber
+Die Mod ergänzt außerdem Instrumente zum Spielen von Liedern und Balladen sowie schnelle Rapier-Waffen. Die Bardenausrüstung ist darauf ausgelegt, deine Bewegungsgeschwindigkeit zu erhöhen, damit du bei deinen Verbündeten bleiben kannst.
 
-Die Mod enthält verschiedene Lieder und musikalische Zauber. Dazu gehören Effekte, die:
+## Zauberbuch und Lieder
+
+Das Zauberbuch des Barden heißt **Bard's Stories**. Es enthält unterstützende Zauber, stärkende Effekte und kleinere Heilungen. Wie bei den anderen Klassenbüchern der Spell Engine rüstest du das Buch aus und hältst eine passende Waffe in der Hand, um die Zauber zu verwenden.
+
+Die Mod bietet verschiedene Lieder und musikalische Zauber. Dazu gehören Effekte, die:
 
 - Verbündete heilen und ihnen Absorption gewähren,
 - die Bewegungsgeschwindigkeit von Verbündeten erhöhen,
@@ -30,9 +34,14 @@ Einige Lieder kombinieren mehrere Wirkungen: Sie können Gegnern schaden und gle
 
 Der Barde kann je nach Waffenwahl und eingesetzten Liedern unterschiedliche Aufgaben übernehmen. Er kann sich stärker auf eigene Angriffe konzentrieren oder die Gruppe mit Heilung, Schutz und Stärkung begleiten. Dadurch ist er eine flexible Klasse für gemeinsames Spielen.
 
+**Hinweis:** Welche Lieder und Waffenfertigkeiten sich mit den vier Waffenoptionen auf Colony RPG im Einzelnen verwenden lassen, wurde noch nicht im Spiel getestet. Die genaue Zuordnung wird deshalb hier bewusst nicht festgelegt.
+
 ## Quelle und Version
 
-- [Bards RPG – CurseForge](https://www.curseforge.com/minecraft/mc-mods/bards-rpg)
+- [Bard (RPG Series Plus) – Modrinth](https://modrinth.com/mod/bard-more-rpg-classes)
+- [Bard (RPG Series Plus) – CurseForge](https://www.curseforge.com/minecraft/mc-mods/bard-more-rpg-classes)
 - Installierte Serverdatei: Bards RPG 1.2.1 für Minecraft 1.21.1 / NeoForge
 
 [Zurück zur RPG-Übersicht](../../grundlagen/04-rpg-system.md)
+
+---
