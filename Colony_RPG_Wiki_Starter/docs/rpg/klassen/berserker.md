@@ -8,6 +8,8 @@ Der Berserker ist eine aggressive Nahkampfklasse. Seine Spielweise dreht sich um
 
 Der Berserker ist auf den direkten Kampf ausgelegt. Seine Fähigkeiten können Gegner erschrecken, den Berserker vorübergehend stärken oder Schaden in zusätzliche Absorption umwandeln. Einige Fertigkeiten kosten den Berserker selbst Gesundheit oder nutzen seine Wut, um ihre Wirkung zu steigern.
 
+Ein wichtiges Merkmal der Klasse ist der **Rage-Attributbonus**: Je weniger Lebenspunkte du hast, desto mehr Schaden kannst du verursachen. Das passt zum riskanten Spielstil des Berserkers. Gehe dabei trotzdem vorsichtig vor – wenig Leben macht dich zugleich verwundbarer.
+
 ## Fähigkeiten
 
 Die deutsche Sprachdatei der installierten Mod beschreibt unter anderem:
@@ -24,11 +26,23 @@ Die deutsche Sprachdatei der installierten Mod beschreibt unter anderem:
 
 ## Ausrüstung
 
-Die Mod ergänzt eigene Berserker-Ausrüstung und passende Waffen. Dein Bärenkopf mit goldenen Hörnern ist ein besonderes Merkmal des von dir gezeigten Charakter-Looks; die konkrete Herkunft dieses kosmetischen Ausrüstungsteils ist in dieser Modbeschreibung nicht belegt.
+Die Mod ergänzt eigene Berserker-Ausrüstung und passende Waffen. Die Klasse ist auf hohen physischen Nahkampfschaden ausgelegt. Einige Waffen können hergestellt werden, andere sind als Beute in Truhen zu finden.
+
+Die Ausrüstung profitiert vom Attribut **Rage**: Mit sinkenden Lebenspunkten steigt der verursachte Schaden. Die Modbeschreibung weist außerdem darauf hin, dass Berserker-Ausrüstung als Beute häufiger für Spieler vorgesehen ist, die das passende Klassenbuch bei sich tragen.
+
+## Fähigkeiten einsetzen
+
+Für Berserker-Zauber kannst du ein Zauberbuch mit einem gebundenen Zauber-Pool ausrüsten oder Waffen verwenden, an die ein Zauber gebunden wurde. Das Berserker-Zauberbuch lässt sich am Zauberbindetisch herstellen. Die genauen Fähigkeiten und ihre Werte können von der installierten Modversion abhängen.
+
+## Hinweis zur Spielweise
+
+Der Berserker wird stärker, wenn seine Lebenspunkte sinken. Das bedeutet aber nicht, dass du dich absichtlich bis kurz vor den Tod bringen solltest. Nutze Absorption und Heilfähigkeiten bewusst und achte darauf, dass du den nächsten gegnerischen Treffer überstehen kannst.
 
 ## Quelle und Version
 
-- [Berserker RPG – CurseForge](https://www.curseforge.com/minecraft/mc-mods/berserker-rpg)
+- [Berserker (RPG Series Plus) – CurseForge](https://www.curseforge.com/minecraft/mc-mods/berserker-rpg-class)
 - Installierte Serverdatei: Berserker RPG 3.2.0 für Minecraft 1.21.1 / NeoForge
 
 [Zurück zur RPG-Übersicht](../../grundlagen/04-rpg-system.md)
+
+---
