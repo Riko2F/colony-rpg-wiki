@@ -67,3 +67,23 @@ Die Mod ergänzt außerdem Beziehungen zwischen Kolonien. Dazu gehören Kriegs­
 Die Versionsangaben beziehen sich auf die für Colony RPG geprüften Dateien. Sie sind keine Zusage, dass genau diese Versionen später aktiviert werden. Vor einer möglichen Aufnahme werden Kompatibilität, Spielbalance und Zusammenspiel mit den übrigen Mods geprüft.
 
 <small>Die Beschreibungen fassen die offiziellen Projekt- und Modbeschreibungen zusammen. Die Screenshots stammen aus den offiziellen CurseForge-Galerien der jeweiligen Modprojekte. Alle drei Erweiterungen sind zum Zeitpunkt dieses Wiki-Eintrags noch nicht Teil der aktiven Spielinhalte.</small>
+
+
+## Datapacks zum Download
+
+Neben den Mods verwendet Colony RPG eigene Datapacks, die bestimmte Spielinhalte ergänzen oder anpassen. Die folgenden Pakete sind für **Minecraft 1.21.1** erstellt und verwenden Datapack-Format 48.
+
+| Datapack | Version | Inhalt |
+|---|---:|---|
+| Bountiful RPG Quest Add-on | 1.5 | Ergänzt Bountiful um das Dekret „Colony RPG“ und 23 Quest-Vorlagen – darunter Lieferaufträge, Monsterjagden und Bossaufträge. |
+| Dimensional Dungeons RPG Loot Pack | 1.9.3 | Erweitert Dungeon- und Mob-Beute. Enthält unter anderem Berserker- und Barden-Rüstungen sowie die passenden Upgrade-Kristalle. |
+| Modern Companions Worldgen Whitelist | 1.1 | Begrenzt die natürlich generierten Begleiter-Strukturen auf die vorgesehenen sieben Rollen: Archer, Axeguard, Berserker, Vanguard, Cleric, Scout und Alchemist. |
+| Dungeon Rooms – Server Ready | Keine Versionsnummer angegeben | Enthält 30 zusätzliche NBT-Strukturdateien für Dimensional Dungeons. |
+
+### Installation
+
+Sofern bei einem einzelnen Paket nichts anderes angegeben ist, werden die Datapacks in den Ordner `datapacks` der jeweiligen Welt gelegt. Die ZIP-Datei bleibt dabei unverändert. Entferne ältere Versionen desselben Pakets, damit sich keine doppelten oder konkurrierenden Änderungen überlagern. Anschließend die Welt bzw. den Server neu starten oder `/reload` ausführen und mit `/datapack list` prüfen, ob das Paket aktiviert ist.
+
+**Wichtig:** Sichere deine Welt vor Änderungen und teste neue oder aktualisierte Datapacks zuerst in einer Weltkopie. Änderungen an Weltgenerierung – wie bei der Modern-Companions-Whitelist – wirken nur auf neu generierte Chunks. Bereits erzeugte Gebiete werden nicht rückwirkend umgebaut.
+
+Die ZIP-Dateien werden als separate Downloads bereitgestellt. Die Dungeon-Rooms-Datei enthält keine eigene Versionsnummer; deshalb wird dafür keine Versionsangabe erfunden.
