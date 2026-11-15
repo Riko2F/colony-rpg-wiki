@@ -10,6 +10,19 @@ Das Auftragsbrett stammt aus der Mod **Bountiful**. Du findest es als natürlich
 
 Wenn du das Brett mit einem Rechtsklick öffnest, siehst du die aktuell verfügbaren Aufträge. Jeder Auftrag zeigt dir, was erledigt werden muss und welche Belohnung dafür vorgesehen ist.
 
+### Ein eigenes Auftragsbrett herstellen
+
+Du musst nicht erst ein Dorf finden, um Aufträge anzunehmen. Du kannst das Auftragsbrett auch selbst herstellen. Dafür benötigst du:
+
+- 4 Holzbretter
+- 2 Holzstämme
+- 2 Papier
+- 1 Diamant
+
+Lege die Zutaten wie im Rezeptbild gezeigt in den Werktisch:
+
+![Herstellungsrezept für das Auftragsbrett](../assets/images/auftragsbrett-rezept.png)
+
 ## Dekrete bestimmen die Aufträge
 
 Ein **Dekret** legt fest, welche Arten von Aufträgen auf einem Auftragsbrett erscheinen können. Die normalen Dekrete von Bountiful decken verschiedene Themen ab. Das Brett in einem generierten Dorf enthält zufällig eines dieser Standard-Dekrete.
