@@ -24,7 +24,19 @@ Für den Einstieg empfiehlt sich ein **Versorgungslager (Supply Camp)**. Es brin
 
 Das Supply Camp wird hergestellt und anschließend mit einem Rechtsklick direkt auf dem Boden platziert – nicht über das Bauwerkzeug. Dafür brauchst du eine ausreichend große, ebene und freie Fläche. Beim Versorgungsschiff ist stattdessen genügend Wasserfläche erforderlich.
 
-Das **Herstellungsrezept** kann sich je nach MineColonies-Version oder Modpack unterscheiden. Du findest weitere Informationen auf der [offiziellen MineColonies-Seite zu Supply Camps und Supply Ships](https://minecolonies.com/wiki/items/supply_camp_and_ship/). Prüfe das konkrete Rezept am besten zusätzlich in der Rezeptanzeige deines Spiels, damit du die für Colony RPG gültige Variante verwendest.
+Das **Herstellungsrezept** für das Supply Camp stimmt auch auf Colony RPG. Du findest es außerdem auf der [offiziellen MineColonies-Seite zu Supply Camps und Supply Ships](https://minecolonies.com/wiki/items/supply_camp_and_ship/). Die Rezeptanzeige im Spiel zeigt dir ebenfalls die benötigten Zutaten.
+
+### Wichtig: Erst das Rathaus, dann die Baumeisterhütte
+
+Das Supply Camp allein gründet noch keine Kolonie. Gehe in dieser Reihenfolge vor:
+
+1. Öffne das platzierte Supply Camp und nimm das **Rathaus (Town Hall)** sowie das **Bauwerkzeug (Build Tool)** aus der Vorratskiste beziehungsweise dem Regal.
+2. Suche dir einen geeigneten Standort für deine Kolonie. Überlege gut, wo das Rathaus stehen soll: Seine Position bestimmt das Zentrum deiner Kolonie und lässt sich später nicht einfach verschieben.
+3. Wähle mit dem Bauwerkzeug das Rathaus aus, platziere es an der gewünschten Stelle und bestätige den Bau.
+4. Klicke anschließend mit der rechten Maustaste auf den gesetzten **Rathaus-Block**, um deine Kolonie zu gründen. Folge der angezeigten Bestätigung und gib deiner Kolonie bei Bedarf einen Namen.
+5. **Erst nachdem die Kolonie gegründet wurde**, stellst du die **Baumeisterhütte (Builder's Hut)** her und platzierst sie mit dem Bauwerkzeug innerhalb deiner Kolonie.
+
+Wichtig ist diese Reihenfolge: Ohne gegründete Kolonie kannst du nicht mit dem Bau der Baumeisterhütte und dem eigentlichen Ausbau deiner Siedlung beginnen.
 
 Wähle den Standort sorgfältig: Das Rathaus legt das Zentrum deiner Kolonie fest. Die genauen Schutzbereiche und weitere Regeln können von den Einstellungen der jeweiligen Welt abhängen.
 
@@ -32,7 +44,7 @@ Wähle den Standort sorgfältig: Das Rathaus legt das Zentrum deiner Kolonie fes
 
 Der **Baumeister (Builder)** ist für den Aufbau deiner Kolonie besonders wichtig. Er errichtet und verbessert die Gebäude, für die du Bauaufträge erteilst.
 
-Dafür benötigt er eine **Baumeisterhütte (Builder's Hut)**. Nach dem Platzieren kannst du über das Gebäude einen Bauauftrag auswählen. Während der Arbeit fordert der Baumeister benötigte Materialien und Werkzeuge an. Diese Anforderungen müssen erfüllt werden, damit der Bau fortgesetzt werden kann.
+Dafür benötigt er eine **Baumeisterhütte (Builder's Hut)**. Wichtig: Du kannst sie erst bauen, wenn du zuvor den Rathaus-Block platziert und deine Kolonie gegründet hast. Platziere die Baumeisterhütte anschließend mit dem Bauwerkzeug innerhalb deiner Kolonie. Danach kannst du über das Gebäude einen Bauauftrag auswählen. Während der Arbeit fordert der Baumeister benötigte Materialien und Werkzeuge an. Diese Anforderungen müssen erfüllt werden, damit der Bau fortgesetzt werden kann.
 
 Auch die Baumeisterhütte selbst muss zuerst errichtet werden. Die Fähigkeiten des Baumeisters und die Ausbaustufe seiner Hütte beeinflussen, welche Bau- und Ausbauarbeiten er übernehmen kann.
 
