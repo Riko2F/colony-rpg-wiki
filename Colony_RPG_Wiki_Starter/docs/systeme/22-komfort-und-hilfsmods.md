@@ -121,6 +121,19 @@ Die Mod **Easy Villagers** ist ebenfalls in der Modliste enthalten. Ihre Funktio
 
 Auf Colony RPG werden die normalen Dorfbewohner jedoch durch **MCA Reborn** ersetzt. Deshalb beschreiben wir Easy Villagers hier nicht als reguläres Spielersystem: Die Kompatibilität ihrer Funktionen mit den MCA-Bewohnern ist nicht als Serverfunktion bestätigt. Die Bewohner und ihre Interaktionen werden in [Kapitel 18 – MCA Reborn und die lebendige Spielwelt](../kolonie/18-die-welt-und-das-leben.md) erklärt.
 
+## Performance und flüssigeres Spielen
+
+Colony RPG verwendet zusätzlich mehrere Optimierungsmods, die den Speicherbedarf und die Darstellung des Spiels verbessern können. Sie sind besonders bei großen Kolonien, umfangreichen Maschinenanlagen und vielen Kreaturen hilfreich.
+
+- **ModernFix** und **FerriteCore** optimieren verschiedene interne Abläufe und den Speicherverbrauch. Beide Mods sind sowohl auf dem Spielclient als auch auf dem Server installiert.
+- **Sodium** verbessert die grafische Darstellung und kann dadurch die Bildrate erhöhen.
+- **ImmediatelyFast** optimiert die Darstellung von Benutzeroberflächen und weiteren Grafikelementen.
+- **Entity Culling** vermeidet unnötige Grafikberechnungen für Objekte und Kreaturen, die von anderen Blöcken verdeckt werden.
+
+Sodium, ImmediatelyFast und Entity Culling sind Client-Optimierungen: Sie müssen auf dem PC des Spielers installiert sein und entlasten nicht direkt den Server. ModernFix und FerriteCore werden dagegen auf Client und Server eingesetzt.
+
+Die Optimierungen können je nach Hardware und Spielsituation unterschiedlich stark wirken. Sie ersetzen keine ausreichende Leistungsreserve des PCs oder Servers.
+
 ## Installierte Versionen auf Colony RPG
 
 Die folgende Übersicht basiert auf der bereitgestellten Server-Modliste für Minecraft 1.21.1 mit NeoForge.
