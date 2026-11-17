@@ -8,6 +8,8 @@
   <p>Eine Welt voller Kolonieaufbau, Technik, Rollenspiel und gemeinsamer Abenteuer.</p>
 </div>
 
+<p><strong>Colony RPG herunterladen:</strong> <a href="https://www.curseforge.com/minecraft/modpacks/colony-rpg" target="_blank" rel="noopener">Offizielle Modpack-Seite auf CurseForge</a></p>
+
 # Eine neue Welt wartet auf dich
 
 Du kommst in einer unbekannten Welt an. Vor dir liegen weite Landschaften, dichte Wälder, hohe Berge und Dörfer, in denen das Leben seinen eigenen Lauf nimmt. Vielleicht findest du einen ruhigen Ort für dein erstes Zuhause. Vielleicht zieht es dich aber auch hinaus, um die Welt zu erkunden und herauszufinden, welche Geheimnisse sie bereithält.
