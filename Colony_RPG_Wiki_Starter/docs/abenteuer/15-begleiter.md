@@ -65,6 +65,8 @@ Modern Companions besitzt eine optionale Integration für **Iron’s Spells ’n
 
 Magische Begleiter können passende Zauberutensilien, Waffen mit gespeicherten Zaubern und Schriftrollen verwenden. Attribute von Iron’s-Ausrüstung können außerdem über Rüstung, Curios-Gegenstände und gehaltene Ausrüstung wirken.
 
+**Beispiel:** Du findest einen Begleiter mit der Rolle *Fire Mage*. Statt ihn nur mit einer Nahkampfwaffe auszurüsten, kannst du ihm – sofern die benötigten Gegenstände und Zauber verfügbar sind – ein passendes Zauberbuch beziehungsweise Zauberutensil und geeignete Magieausrüstung geben. Schriftrollen dienen dabei als Quelle für Zauber. So ergänzt du seine Rolle durch Magie, während du weiterhin seine Ausrüstung und sein Verhalten über Modern Companions verwaltest. Die genauen Zauberoptionen hängen von der installierten Integration und den verfügbaren Gegenständen ab.
+
 ### Better Combat
 
 Modern Companions erkennt **Better Combat** und vermeidet dadurch doppelte Reichweitenanpassungen für Modern-Companions-Waffen. Das bedeutet nicht, dass sämtliche Begleiterbewegungen oder Kampfabläufe durch Better Combat ersetzt werden.
