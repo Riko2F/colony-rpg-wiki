@@ -55,6 +55,24 @@ Die Radius-Einstellung bestimmt, wie weit sich ein folgender Begleiter von dir e
 
 Die Mod bietet außerdem eine **Summoning Wand**. Mit ihr kannst du deine lebenden Begleiter und die Begleiter-Tiere des Beastmasters in derselben Dimension zu dir zurückrufen.
 
+## Kampf- und Magie-Integrationen
+
+Mit den zusätzlichen Kampf- und Magiemods können bestimmte Begleiter weitere Ausrüstungs- und Kampfmechaniken nutzen. Welche Funktionen verfügbar sind, hängt davon ab, welche unterstützenden Mods installiert sind.
+
+### Iron’s Spells ’n Spellbooks
+
+Modern Companions besitzt eine optionale Integration für **Iron’s Spells ’n Spellbooks**. Magische Begleiter können damit eigene Zauberpfade erhalten. Die Integration umfasst unter anderem Fire Mage, Lightning Mage und Necromancer sowie weitere optionale Magierollen. Der Cleric behält sein eigenes Unterstützungssystem.
+
+Magische Begleiter können passende Zauberutensilien, Waffen mit gespeicherten Zaubern und Schriftrollen verwenden. Attribute von Iron’s-Ausrüstung können außerdem über Rüstung, Curios-Gegenstände und gehaltene Ausrüstung wirken.
+
+### Better Combat
+
+Modern Companions erkennt **Better Combat** und vermeidet dadurch doppelte Reichweitenanpassungen für Modern-Companions-Waffen. Das bedeutet nicht, dass sämtliche Begleiterbewegungen oder Kampfabläufe durch Better Combat ersetzt werden.
+
+### Cataclysmic Combat
+
+**Cataclysmic Combat** ergänzt Better Combat um passende Bewegungs- und Angriffsmuster für Waffen aus **L_Ender’s Cataclysm**. Dazu gehören unter anderem die Gauntlets, Incinerator, Void Forge, Infernal Forge, Annihilator und Soul Render. Diese Mod ergänzt den Waffenkampf; sie ist keine zusätzliche Begleiterklasse.
+
 ## Ausrüstung und Inventar
 
 Jeder Begleiter besitzt ein eigenes Inventar mit 7 × 9 Feldern. Zusätzlich gibt es eigene Ausrüstungsplätze für:
@@ -133,6 +151,8 @@ Die folgenden Einstellungen sind auf unserem Server aktiv:
 - [Modern Companions – CurseForge](https://www.curseforge.com/minecraft/mc-mods/modern-companions): Modbeschreibung, Rollen, Rekrutierung, Befehle und Ausrüstung.
 - [Modern Companions – Modrinth](https://modrinth.com/mod/modern-companions): Beschreibung, Funktionen und Bildergalerie.
 - [Modern Companions – GitHub-Projektseite](https://github.com/Modern-Mods/ModernCompanions): technische Details und aktuelle Funktionsbeschreibung.
+- [Modern Companions – optionale Integrationen](https://github.com/Modern-Mods/ModernCompanions): Details zu Iron’s Spellbooks und Better Combat.
+- [Cataclysmic Combat – CurseForge](https://www.curseforge.com/minecraft/mc-mods/cataclysmic-combat): Waffen-Kompatibilität zwischen Better Combat und L_Ender’s Cataclysm.
 - [Modern Companions – offizielle Bildergalerie auf CurseForge](https://www.curseforge.com/minecraft/mc-mods/modern-companions/gallery): weitere Screenshots aus dem Spiel.
 
 Die Angaben zur Weltgenerierung stammen aus dem servereigenen Whitelist-Datenpaket **Modern Companions 4.60 – Worldgen-Whitelist 1.1**. Es begrenzt die natürlich generierten Begleiterhäuser und Spawnplätze auf die oben genannten Rollen. Manuelle Beschwörungen und Spawn-Eier werden durch dieses Datapack ausdrücklich nicht gesperrt.
